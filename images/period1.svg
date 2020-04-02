@@ -1,0 +1,2901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3396.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1569.000000 -1571.000000 3396.000000 3129.000000" height="3129.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="42.0"
+              d="M -263.996826,701.096985 L -342.693909,760.634216"
+              class="id_dkfinans id_dkøko" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -263.996826,701.096985 L -280.417297,819.113281"
+              class="id_dkfinans id_aktier" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="47.0"
+              d="M -263.996826,701.096985 L -401.030853,614.615662"
+              class="id_dkfinans id_dkbiz" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -263.996826,701.096985 L 244.767242,198.214630"
+              class="id_dkfinans id_skolechat" stroke-opacity="1.0"
+              stroke="#b6696c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -263.996826,701.096985 L -288.155823,903.105347"
+              class="id_dkfinans id_podcast" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -263.996826,701.096985 L -155.801025,705.604675"
+              class="id_dkfinans id_dkoeko" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.996826,701.096985 L -456.859833,780.625122"
+              class="id_dkfinans id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -263.996826,701.096985 L -162.825302,-229.476761"
+              class="id_dkfinans id_sundpol" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -263.996826,701.096985 L -205.605194,-35.384846"
+              class="id_dkfinans id_dksund" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -342.693909,760.634216 L -280.417297,819.113281"
+              class="id_dkøko id_aktier" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="79.0"
+              d="M -342.693909,760.634216 L -401.030853,614.615662"
+              class="id_dkøko id_dkbiz" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -342.693909,760.634216 L -492.631866,894.497070"
+              class="id_dkøko id_investering" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -342.693909,760.634216 L 1211.294067,412.923401"
+              class="id_dkøko id_sverige" stroke-opacity="1.0" stroke="#9766b3"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -342.693909,760.634216 L -219.180939,829.168152"
+              class="id_dkøko id_dkbolig" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -342.693909,760.634216 L -503.379639,705.220398"
+              class="id_dkøko id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -342.693909,760.634216 L -123.561699,521.206665"
+              class="id_dkøko id_eudk" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.693909,760.634216 L -419.977539,916.981384"
+              class="id_dkøko id_dkturisme" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -342.693909,760.634216 L -254.478714,387.080444"
+              class="id_dkøko id_dkgreen" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.693909,760.634216 L -456.859833,780.625122"
+              class="id_dkøko id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -342.693909,760.634216 L -205.605194,-35.384846"
+              class="id_dkøko id_dksund" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.693909,760.634216 L -528.063904,304.189148"
+              class="id_dkøko id_kompoldk" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -342.693909,760.634216 L 109.857506,-51.671505"
+              class="id_dkøko id_dksundhed" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.693909,760.634216 L -1143.729126,715.765259"
+              class="id_dkøko id_uspol" stroke-opacity="1.0" stroke="#6e7b9e"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -280.417297,819.113281 L -401.030853,614.615662"
+              class="id_aktier id_dkbiz" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.417297,819.113281 L 387.144592,-1343.693726"
+              class="id_aktier id_gær" stroke-opacity="1.0" stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.417297,819.113281 L 376.092804,-1381.129028"
+              class="id_aktier id_toiletpapir" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="18.0"
+              d="M -401.030853,614.615662 L -254.478714,387.080444"
+              class="id_dkbiz id_dkgreen" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -401.030853,614.615662 L -288.155823,903.105347"
+              class="id_dkbiz id_podcast" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -401.030853,614.615662 L -155.801025,705.604675"
+              class="id_dkbiz id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="21.0"
+              d="M -401.030853,614.615662 L -503.379639,705.220398"
+              class="id_dkbiz id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -401.030853,614.615662 L -801.245850,492.644897"
+              class="id_dkbiz id_dkpolitik" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.030853,614.615662 L 1574.677979,519.852844"
+              class="id_dkbiz id_servicetweet" stroke-opacity="1.0"
+              stroke="#df52a0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.030853,614.615662 L -588.167786,487.066925"
+              class="id_dkbiz id_luftenshelte" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="26.0"
+              d="M -401.030853,614.615662 L -585.908569,551.480957"
+              class="id_dkbiz id_arbejde" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -401.030853,614.615662 L -514.466187,456.577271"
+              class="id_dkbiz id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -401.030853,614.615662 L -419.977539,916.981384"
+              class="id_dkbiz id_dkturisme" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -401.030853,614.615662 L -162.825302,-229.476761"
+              class="id_dkbiz id_sundpol" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.030853,614.615662 L 1350.644165,415.551117"
+              class="id_dkbiz id_ftlive" stroke-opacity="1.0" stroke="#9766b3"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -401.030853,614.615662 L -460.794586,728.853577"
+              class="id_dkbiz id_smvpol" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -401.030853,614.615662 L -148.911606,838.496887"
+              class="id_dkbiz id_crowdfunding" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -401.030853,614.615662 L -456.859833,780.625122"
+              class="id_dkbiz id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -401.030853,614.615662 L -577.117065,685.711487"
+              class="id_dkbiz id_dkledelse" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -401.030853,614.615662 L -46.576176,1315.005981"
+              class="id_dkbiz id_dkkultur" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -401.030853,614.615662 L -550.099792,641.701660"
+              class="id_dkbiz id_selvstændige" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -401.030853,614.615662 L -205.605194,-35.384846"
+              class="id_dkbiz id_dksund" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -401.030853,614.615662 L -572.704041,755.296631"
+              class="id_dkbiz id_finansdk" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -401.030853,614.615662 L -328.089996,452.580170"
+              class="id_dkbiz id_dkfood" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -401.030853,614.615662 L -526.537537,668.239746"
+              class="id_dkbiz id_dagrofa" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -401.030853,614.615662 L 315.485229,-1322.250366"
+              class="id_dkbiz id_hamstring" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.030853,614.615662 L 464.142365,-1465.564575"
+              class="id_dkbiz id_stophamstring" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -401.030853,614.615662 L -66.935898,512.916748"
+              class="id_dkbiz id_eupol" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.030853,614.615662 L -492.631866,894.497070"
+              class="id_dkbiz id_investering" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.030853,614.615662 L 1753.283081,351.711395"
+              class="id_dkbiz id_pldk" stroke-opacity="1.0" stroke="#9766b3"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -401.030853,614.615662 L -528.063904,304.189148"
+              class="id_dkbiz id_kompoldk" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -401.030853,614.615662 L -492.970154,750.700256"
+              class="id_dkbiz id_blaadk" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -401.030853,614.615662 L -700.939819,751.921570"
+              class="id_dkbiz id_ledelse" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -401.030853,614.615662 L -384.394531,974.202332"
+              class="id_dkbiz id_erhverv" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -401.030853,614.615662 L 168.954712,153.454758"
+              class="id_dkbiz id_uddpol" stroke-opacity="1.0" stroke="#b6696c"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -401.030853,614.615662 L -123.561699,521.206665"
+              class="id_dkbiz id_eudk" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -162.825302,-229.476761 L -88.172195,-28.844814"
+              class="id_sundpol id_dkvid" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="36.0"
+              d="M -162.825302,-229.476761 L -205.605194,-35.384846"
+              class="id_sundpol id_dksund" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -162.825302,-229.476761 L -562.214783,-625.235779"
+              class="id_sundpol id_ssi" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="22.0"
+              d="M -162.825302,-229.476761 L -317.489136,-451.906860"
+              class="id_sundpol id_sundhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -393.758545,-652.693359"
+              class="id_sundpol id_italien" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -162.825302,-229.476761 L -130.002121,-589.256714"
+              class="id_sundpol id_beredskab" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -498.670502,-707.627625"
+              class="id_sundpol id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -162.825302,-229.476761 L 3.055231,-151.447800"
+              class="id_sundpol id_sundhedforalle" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -162.825302,-229.476761 L -623.079285,-676.776794"
+              class="id_sundpol id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -162.825302,-229.476761 L 83.598518,-168.540405"
+              class="id_sundpol id_dontpanic" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -162.825302,-229.476761 L -179.978836,-652.597412"
+              class="id_sundpol id_virus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -162.825302,-229.476761 L -115.985947,-640.160095"
+              class="id_sundpol id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -162.825302,-229.476761 L -32.519653,-228.837097"
+              class="id_sundpol id_diabetes" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -162.825302,-229.476761 L -467.731018,-632.648376"
+              class="id_sundpol id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -162.825302,-229.476761 L -27.231129,-264.839722"
+              class="id_sundpol id_patientsikkerhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -397.727112,122.956123"
+              class="id_sundpol id_kompol" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -162.825302,-229.476761 L -282.374023,-781.428162"
+              class="id_sundpol id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -162.825302,-229.476761 L -66.935898,512.916748"
+              class="id_sundpol id_eupol" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -162.825302,-229.476761 L -376.170929,-117.159119"
+              class="id_sundpol id_dkhandicap" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -162.825302,-229.476761 L -521.055664,-773.635986"
+              class="id_sundpol id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -162.825302,-229.476761 L -585.908569,551.480957"
+              class="id_sundpol id_arbejde" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -456.286987,-395.353668"
+              class="id_sundpol id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -162.825302,-229.476761 L 1530.530151,203.664139"
+              class="id_sundpol id_fodbold" stroke-opacity="1.0"
+              stroke="#298eb4"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -162.825302,-229.476761 L -123.561699,521.206665"
+              class="id_sundpol id_eudk" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -162.825302,-229.476761 L 244.767242,198.214630"
+              class="id_sundpol id_skolechat" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -162.825302,-229.476761 L -528.063904,304.189148"
+              class="id_sundpol id_kompoldk" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -162.825302,-229.476761 L -557.231140,-332.059296"
+              class="id_sundpol id_ældre" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -181.429337,-581.045532"
+              class="id_sundpol id_læger" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 812.701355,931.333496"
+              class="id_sundpol id_færøerne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -162.825302,-229.476761 L -990.653198,840.112366"
+              class="id_sundpol id_digidk" stroke-opacity="1.0" stroke="#00a39e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -1113.416504,180.692535"
+              class="id_sundpol id_vipasserpåhinanden" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -162.825302,-229.476761 L -514.466187,456.577271"
+              class="id_sundpol id_dktrp" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L 547.805420,-405.628296"
+              class="id_sundpol id_politidk" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -105.538834,-443.070343"
+              class="id_sundpol id_forskning" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -162.825302,-229.476761 L 573.744080,-611.742920"
+              class="id_sundpol id_sundfornuft" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -162.825302,-229.476761 L -382.286438,-46.013683"
+              class="id_sundpol id_dksocial" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -186.624390,1544.607178"
+              class="id_sundpol id_fællesskab" stroke-opacity="1.0"
+              stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 595.523315,1178.161255"
+              class="id_sundpol id_breaking" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -422.990906,-154.951965"
+              class="id_sundpol id_aalborg" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L -447.585999,-30.144213"
+              class="id_sundpol id_dkcivil" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -162.825302,-229.476761 L 229.887772,-1221.182129"
+              class="id_sundpol id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -162.825302,-229.476761 L 230.231339,-316.530731"
+              class="id_sundpol id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 540.211243,-639.258972"
+              class="id_sundpol id_brydkurven" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -162.825302,-229.476761 L 115.923370,-278.729095"
+              class="id_sundpol id_poldk" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -162.825302,-229.476761 L 168.954712,153.454758"
+              class="id_sundpol id_uddpol" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 315.485229,-1322.250366"
+              class="id_sundpol id_hamstring" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 1574.677979,519.852844"
+              class="id_sundpol id_servicetweet" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 279.442291,-1386.935181"
+              class="id_sundpol id_pandemia" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -162.825302,-229.476761 L 444.403931,-843.629150"
+              class="id_sundpol id_lockdown" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -608.455872,6.166557"
+              class="id_sundpol id_hjemløse" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -151.325470,-805.519226"
+              class="id_sundpol id_smittefare" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -930.431274,-71.601410"
+              class="id_sundpol id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -46.576176,1315.005981"
+              class="id_sundpol id_dkkultur" stroke-opacity="1.0"
+              stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L 1658.645264,327.732544"
+              class="id_sundpol id_sldk" stroke-opacity="1.0" stroke="#298eb4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.825302,-229.476761 L -254.478714,387.080444"
+              class="id_sundpol id_dkgreen" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -88.172195,-28.844814 L -205.605194,-35.384846"
+              class="id_dkvid id_dksund" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -88.172195,-28.844814 L 109.857506,-51.671505"
+              class="id_dkvid id_dksundhed" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="21.0"
+              d="M -88.172195,-28.844814 L -114.266197,34.893856"
+              class="id_dkvid id_dkforsk" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -88.172195,-28.844814 L -317.489136,-451.906860"
+              class="id_dkvid id_sundhed" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -88.172195,-28.844814 L -17.920309,-3.751063"
+              class="id_dkvid id_forskpol" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -88.172195,-28.844814 L 415.573151,-274.527344"
+              class="id_dkvid id_twitterhjerne" stroke-opacity="1.0"
+              stroke="#c76801"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -205.605194,-35.384846 L -114.266197,34.893856"
+              class="id_dksund id_dkforsk" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -205.605194,-35.384846 L -317.489136,-451.906860"
+              class="id_dksund id_sundhed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L -997.886414,-11.246812"
+              class="id_dksund id_trump" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L 83.598518,-168.540405"
+              class="id_dksund id_dontpanic" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -205.605194,-35.384846 L -382.286438,-46.013683"
+              class="id_dksund id_dksocial" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L 168.954712,153.454758"
+              class="id_dksund id_uddpol" stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L -834.404724,-1147.473999"
+              class="id_dksund id_dr1" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -205.605194,-35.384846 L -118.436852,252.925919"
+              class="id_dksund id_dkaid" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L -1033.002930,332.089722"
+              class="id_dksund id_kommunikation" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L -130.002121,-589.256714"
+              class="id_dksund id_beredskab" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L 230.231339,-316.530731"
+              class="id_dksund id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.605194,-35.384846 L 229.887772,-1221.182129"
+              class="id_dksund id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -635.220398,-470.129700 L -492.631866,894.497070"
+              class="id_kina id_investering" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -635.220398,-470.129700 L -85.146385,-1059.517456"
+              class="id_kina id_china" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -635.220398,-470.129700 L -930.431274,-71.601410"
+              class="id_kina id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -635.220398,-470.129700 L -70.111610,412.178864"
+              class="id_kina id_eu" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -114.266197,34.893856 L -317.489136,-451.906860"
+              class="id_dkforsk id_sundhed" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -114.266197,34.893856 L -105.538834,-443.070343"
+              class="id_dkforsk id_forskning" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -114.266197,34.893856 L 168.954712,153.454758"
+              class="id_dkforsk id_uddpol" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -114.266197,34.893856 L -17.920309,-3.751063"
+              class="id_dkforsk id_forskpol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -114.266197,34.893856 L 39.940994,78.100052"
+              class="id_dkforsk id_uddannelse" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -114.266197,34.893856 L 415.573151,-274.527344"
+              class="id_dkforsk id_twitterhjerne" stroke-opacity="1.0"
+              stroke="#c76801"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -492.631866,894.497070 L -930.431274,-71.601410"
+              class="id_investering id_usa" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -562.214783,-625.235779 L -317.489136,-451.906860"
+              class="id_ssi id_sundhed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -562.214783,-625.235779 L -393.758545,-652.693359"
+              class="id_ssi id_italien" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -562.214783,-625.235779 L -498.670502,-707.627625"
+              class="id_ssi id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -562.214783,-625.235779 L -623.079285,-676.776794"
+              class="id_ssi id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -562.214783,-625.235779 L -467.731018,-632.648376"
+              class="id_ssi id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -562.214783,-625.235779 L -521.055664,-773.635986"
+              class="id_ssi id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -562.214783,-625.235779 L -456.286987,-395.353668"
+              class="id_ssi id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -562.214783,-625.235779 L 812.701355,931.333496"
+              class="id_ssi id_færøerne" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -562.214783,-625.235779 L -557.231140,-332.059296"
+              class="id_ssi id_ældre" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -562.214783,-625.235779 L -930.431274,-71.601410"
+              class="id_ssi id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -317.489136,-451.906860 L -393.758545,-652.693359"
+              class="id_sundhed id_italien" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -317.489136,-451.906860 L -498.670502,-707.627625"
+              class="id_sundhed id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -317.489136,-451.906860 L -623.079285,-676.776794"
+              class="id_sundhed id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -317.489136,-451.906860 L -467.731018,-632.648376"
+              class="id_sundhed id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -317.489136,-451.906860 L -179.978836,-652.597412"
+              class="id_sundhed id_virus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -317.489136,-451.906860 L -282.374023,-781.428162"
+              class="id_sundhed id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -317.489136,-451.906860 L -521.055664,-773.635986"
+              class="id_sundhed id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -317.489136,-451.906860 L -456.286987,-395.353668"
+              class="id_sundhed id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -317.489136,-451.906860 L 812.701355,931.333496"
+              class="id_sundhed id_færøerne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -317.489136,-451.906860 L -557.231140,-332.059296"
+              class="id_sundhed id_ældre" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -317.489136,-451.906860 L 229.887772,-1221.182129"
+              class="id_sundhed id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -317.489136,-451.906860 L -930.431274,-71.601410"
+              class="id_sundhed id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -393.758545,-652.693359 L -498.670502,-707.627625"
+              class="id_italien id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -393.758545,-652.693359 L -467.731018,-632.648376"
+              class="id_italien id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -393.758545,-652.693359 L 1804.387207,369.913055"
+              class="id_italien id_seriea" stroke-opacity="1.0" stroke="#298eb4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -393.758545,-652.693359 L -95.897926,-1268.010986"
+              class="id_italien id_pandemi" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -130.002121,-589.256714 L -115.985947,-640.160095"
+              class="id_beredskab id_smitte" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -130.002121,-589.256714 L -179.978836,-652.597412"
+              class="id_beredskab id_virus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -130.002121,-589.256714 L -382.286438,-46.013683"
+              class="id_beredskab id_dksocial" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -130.002121,-589.256714 L 230.231339,-316.530731"
+              class="id_beredskab id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -498.670502,-707.627625 L -467.731018,-632.648376"
+              class="id_forebyggelse id_rejser" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -498.670502,-707.627625 L -397.727112,122.956123"
+              class="id_forebyggelse id_kompol" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -498.670502,-707.627625 L -557.231140,-332.059296"
+              class="id_forebyggelse id_ældre" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -498.670502,-707.627625 L -286.600800,-1100.903564"
+              class="id_forebyggelse id_aarhus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 244.767242,198.214630 L 307.258636,219.800217"
+              class="id_skolechat id_lærerliv" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 244.767242,198.214630 L -397.727112,122.956123"
+              class="id_skolechat id_kompol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 244.767242,198.214630 L 371.875366,252.377838"
+              class="id_skolechat id_folkeskolen" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="28.0"
+              d="M 244.767242,198.214630 L 168.954712,153.454758"
+              class="id_skolechat id_uddpol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 244.767242,198.214630 L 304.154968,158.702911"
+              class="id_skolechat id_pædagog" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 244.767242,198.214630 L 459.146759,359.568237"
+              class="id_skolechat id_aula" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 244.767242,198.214630 L -16.270323,1374.432129"
+              class="id_skolechat id_dkfilm" stroke-opacity="1.0"
+              stroke="#678f01"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 244.767242,198.214630 L 410.275543,128.932388"
+              class="id_skolechat id_fjernundervisning" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 244.767242,198.214630 L 264.201538,126.641418"
+              class="id_skolechat id_gymnasiechat" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 244.767242,198.214630 L 444.403931,-843.629150"
+              class="id_skolechat id_lockdown" stroke-opacity="1.0"
+              stroke="#c76801"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 244.767242,198.214630 L 313.853851,263.791107"
+              class="id_skolechat id_skolepol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 244.767242,198.214630 L 533.814148,118.123367"
+              class="id_skolechat id_hjemmeskole" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 307.258636,219.800217 L 371.875366,252.377838"
+              class="id_lærerliv id_folkeskolen" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -66.935898,512.916748 L -4.806430,548.540527"
+              class="id_eupol id_svpol" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -66.935898,512.916748 L -123.561699,521.206665"
+              class="id_eupol id_eudk" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.806430,548.540527 L -178.718628,323.017487"
+              class="id_svpol id_klima" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.806430,548.540527 L 189.799194,1170.071777"
+              class="id_svpol id_norge" stroke-opacity="1.0" stroke="#9e8300"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.806430,548.540527 L 1211.294067,412.923401"
+              class="id_svpol id_sverige" stroke-opacity="1.0" stroke="#488c48"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.806430,548.540527 L -70.111610,412.178864"
+              class="id_svpol id_eu" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.806430,548.540527 L -997.886414,-11.246812"
+              class="id_svpol id_trump" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.806430,548.540527 L -1037.091919,-631.325867"
+              class="id_svpol id_regeringen" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -105.538834,-443.070343 L -179.978836,-652.597412"
+              class="id_forskning id_virus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -105.538834,-443.070343 L -181.429337,-581.045532"
+              class="id_forskning id_læger" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -105.538834,-443.070343 L 39.940994,78.100052"
+              class="id_forskning id_uddannelse" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -105.538834,-443.070343 L -17.920309,-3.751063"
+              class="id_forskning id_forskpol" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -105.538834,-443.070343 L 168.954712,153.454758"
+              class="id_forskning id_uddpol" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -105.538834,-443.070343 L -282.374023,-781.428162"
+              class="id_forskning id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -179.978836,-652.597412 L -181.429337,-581.045532"
+              class="id_virus id_læger" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -179.978836,-652.597412 L -115.985947,-640.160095"
+              class="id_virus id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -179.978836,-652.597412 L -95.897926,-1268.010986"
+              class="id_virus id_pandemi" stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -179.978836,-652.597412 L -142.880005,1550.358643"
+              class="id_virus id_musik" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -179.978836,-652.597412 L 229.887772,-1221.182129"
+              class="id_virus id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -179.978836,-652.597412 L -282.374023,-781.428162"
+              class="id_virus id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.055231,-151.447800 L 230.231339,-316.530731"
+              class="id_sundhedforalle id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -584.453674,-1154.556030 L -773.541321,-1060.454712"
+              class="id_tv2news id_tv2" stroke-opacity="1.0" stroke="#298eb4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -584.453674,-1154.556030 L -376.170929,-117.159119"
+              class="id_tv2news id_dkhandicap" stroke-opacity="1.0"
+              stroke="#9b5a7d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -623.079285,-676.776794 L -456.286987,-395.353668"
+              class="id_sundhedsstyrelsen id_børn" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.079285,-676.776794 L -1037.091919,-631.325867"
+              class="id_sundhedsstyrelsen id_regeringen" stroke-opacity="1.0"
+              stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 83.598518,-168.540405 L 1114.324707,-321.479095"
+              class="id_dontpanic id_paspåhinanden" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.111610,412.178864 L -85.146385,-1059.517456"
+              class="id_eu id_china" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.111610,412.178864 L 1211.294067,412.923401"
+              class="id_eu id_sverige" stroke-opacity="1.0" stroke="#488c48"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.111610,412.178864 L -997.886414,-11.246812"
+              class="id_eu id_trump" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -70.111610,412.178864 L -1037.091919,-631.325867"
+              class="id_eu id_regeringen" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.111610,412.178864 L -930.431274,-71.601410"
+              class="id_eu id_usa" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1211.294067,412.923401 L -997.886414,-11.246812"
+              class="id_sverige id_trump" stroke-opacity="1.0" stroke="#488c48"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1211.294067,412.923401 L -1037.091919,-631.325867"
+              class="id_sverige id_regeringen" stroke-opacity="1.0"
+              stroke="#488c48"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1033.002930,332.089722 L -382.286438,-46.013683"
+              class="id_kommunikation id_dksocial" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -773.541321,-1060.454712 L -952.656372,-1198.947876"
+              class="id_tv2 id_dr" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -254.478714,387.080444 L -118.436852,252.925919"
+              class="id_dkgreen id_dkaid" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -254.478714,387.080444 L -178.718628,323.017487"
+              class="id_dkgreen id_klima" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -254.478714,387.080444 L -224.978821,301.039246"
+              class="id_dkgreen id_klimakrise" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -254.478714,387.080444 L -382.286438,-46.013683"
+              class="id_dkgreen id_dksocial" stroke-opacity="1.0"
+              stroke="#df52a0"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -254.478714,387.080444 L -328.089996,452.580170"
+              class="id_dkgreen id_dkfood" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -254.478714,387.080444 L -221.962158,454.562622"
+              class="id_dkgreen id_dkklima" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -254.478714,387.080444 L -514.466187,456.577271"
+              class="id_dkgreen id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -254.478714,387.080444 L -320.060547,371.506592"
+              class="id_dkgreen id_dkenergi" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.478714,387.080444 L -572.704041,755.296631"
+              class="id_dkgreen id_finansdk" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.478714,387.080444 L -880.481262,835.352722"
+              class="id_dkgreen id_dktech" stroke-opacity="1.0" stroke="#6e7b9e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.478714,387.080444 L 168.954712,153.454758"
+              class="id_dkgreen id_uddpol" stroke-opacity="1.0" stroke="#b6696c"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -254.478714,387.080444 L 322.801300,74.132225"
+              class="id_dkgreen id_dknatur" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.414505,-1470.876343 L 315.485229,-1322.250366"
+              class="id_panik id_hamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.414505,-1470.876343 L -30.506842,-1253.557739"
+              class="id_panik id_pandemic" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.414505,-1470.876343 L -95.897926,-1268.010986"
+              class="id_panik id_pandemi" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1182.609131,-805.781250 L -1166.468018,-981.252502"
+              class="id_håndtryk id_mettefrederiksen" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1182.609131,-805.781250 L 773.422180,102.003372"
+              class="id_håndtryk id_wtf" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1182.609131,-805.781250 L 371.875366,252.377838"
+              class="id_håndtryk id_folkeskolen" stroke-opacity="1.0"
+              stroke="#678f01"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -397.727112,122.956123 L -585.908569,551.480957"
+              class="id_kompol id_arbejde" stroke-opacity="1.0" stroke="#b6696c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -397.727112,122.956123 L 168.954712,153.454758"
+              class="id_kompol id_uddpol" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -528.063904,304.189148 L -503.379639,705.220398"
+              class="id_kompoldk id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -528.063904,304.189148 L -557.231140,-332.059296"
+              class="id_kompoldk id_ældre" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -528.063904,304.189148 L -585.908569,551.480957"
+              class="id_kompoldk id_arbejde" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -528.063904,304.189148 L 168.954712,153.454758"
+              class="id_kompoldk id_uddpol" stroke-opacity="1.0"
+              stroke="#b6696c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -528.063904,304.189148 L -573.803955,284.974823"
+              class="id_kompoldk id_godtbørneliv" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -528.063904,304.189148 L -155.801025,705.604675"
+              class="id_kompoldk id_dkoeko" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -528.063904,304.189148 L -514.466187,456.577271"
+              class="id_kompoldk id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -467.731018,-632.648376 L -930.431274,-71.601410"
+              class="id_rejser id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -151.325470,-805.519226 L 315.485229,-1322.250366"
+              class="id_smittefare id_hamstring" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -151.325470,-805.519226 L 444.403931,-843.629150"
+              class="id_smittefare id_lockdown" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -151.325470,-805.519226 L 464.142365,-1465.564575"
+              class="id_smittefare id_stophamstring" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1513.510986,338.270386 L 1727.790283,246.645645"
+              class="id_fck id_eldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1513.510986,338.270386 L 1686.482910,259.356781"
+              class="id_fck id_fcklive" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1727.790283,246.645645 L 1686.482910,259.356781"
+              class="id_eldk id_fcklive" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1727.790283,246.645645 L 1753.283081,351.711395"
+              class="id_eldk id_pldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1727.790283,246.645645 L 1816.436279,337.293762"
+              class="id_eldk id_cldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 647.244934,-953.445618 L 444.403931,-843.629150"
+              class="id_isolation id_lockdown" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.481262,835.352722 L -572.704041,755.296631"
+              class="id_dktech id_finansdk" stroke-opacity="1.0"
+              stroke="#6e7b9e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.481262,835.352722 L -320.060547,371.506592"
+              class="id_dktech id_dkenergi" stroke-opacity="1.0"
+              stroke="#6e7b9e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.481262,835.352722 L -221.962158,454.562622"
+              class="id_dktech id_dkklima" stroke-opacity="1.0" stroke="#6e7b9e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -288.155823,903.105347 L -155.801025,705.604675"
+              class="id_podcast id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -155.801025,705.604675 L -382.286438,-46.013683"
+              class="id_dkoeko id_dksocial" stroke-opacity="1.0"
+              stroke="#df52a0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -155.801025,705.604675 L -123.561699,521.206665"
+              class="id_dkoeko id_eudk" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -384.394531,974.202332 L 362.424469,156.299103"
+              class="id_erhverv id_skole" stroke-opacity="1.0" stroke="#b6696c"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1046.096558,611.737244 L -1085.697021,616.263184"
+              class="id_smdk id_komdk" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1046.096558,611.737244 L -990.653198,840.112366"
+              class="id_smdk id_digidk" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1046.096558,611.737244 L -1462.133789,858.282043"
+              class="id_smdk id_medienyt" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1046.096558,611.737244 L -1143.729126,715.765259"
+              class="id_smdk id_uspol" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="11.0"
+              d="M 1753.283081,351.711395 L 1658.645264,327.732544"
+              class="id_pldk id_sldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1753.283081,351.711395 L 1772.976807,375.835297"
+              class="id_pldk id_lfcdk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1753.283081,351.711395 L 1784.749390,334.084503"
+              class="id_pldk id_serieadk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1753.283081,351.711395 L 1816.436279,337.293762"
+              class="id_pldk id_cldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1753.283081,351.711395 L 1804.387207,369.913055"
+              class="id_pldk id_seriea" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 1658.645264,327.732544 L 1584.914185,386.290894"
+              class="id_sldk id_brøndby" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1658.645264,327.732544 L 1530.530151,203.664139"
+              class="id_sldk id_fodbold" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 1658.645264,327.732544 L 1686.482910,259.356781"
+              class="id_sldk id_fcklive" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="9.0"
+              d="M 1658.645264,327.732544 L 1680.688477,366.651428"
+              class="id_sldk id_ultratwitteragf" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1658.645264,327.732544 L 1657.077881,276.743195"
+              class="id_sldk id_andellerej" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1658.645264,327.732544 L 1114.324707,-321.479095"
+              class="id_sldk id_paspåhinanden" stroke-opacity="1.0"
+              stroke="#a96548"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.600800,-1100.903564 L 666.094849,-817.720093"
+              class="id_aarhus id_convid19" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1143.729126,715.765259 L -990.653198,840.112366"
+              class="id_uspol id_digidk" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -930.431274,-71.601410 L -997.886414,-11.246812"
+              class="id_usa id_trump" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -30.506842,-1253.557739 L -646.024292,-100.830650"
+              class="id_pandemic id_solidaritet" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -30.506842,-1253.557739 L -640.901733,579.092468"
+              class="id_pandemic id_ok20" stroke-opacity="1.0" stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -30.506842,-1253.557739 L -95.897926,-1268.010986"
+              class="id_pandemic id_pandemi" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -585.908569,551.480957 L -588.167786,487.066925"
+              class="id_arbejde id_luftenshelte" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -585.908569,551.480957 L -514.466187,456.577271"
+              class="id_arbejde id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -585.908569,551.480957 L -550.099792,641.701660"
+              class="id_arbejde id_selvstændige" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -585.908569,551.480957 L -640.901733,579.092468"
+              class="id_arbejde id_ok20" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -585.908569,551.480957 L -382.286438,-46.013683"
+              class="id_arbejde id_dksocial" stroke-opacity="1.0"
+              stroke="#df52a0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -585.908569,551.480957 L -631.033997,802.850891"
+              class="id_arbejde id_arbejdsmiljø" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -585.908569,551.480957 L -952.656372,-1198.947876"
+              class="id_arbejde id_dr" stroke-opacity="1.0" stroke="#8d846b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -282.374023,-781.428162 L 229.887772,-1221.182129"
+              class="id_karantæne id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -123.561699,521.206665 L -170.892868,635.748108"
+              class="id_eudk id_ecb" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -123.561699,521.206665 L -12.507862,226.210663"
+              class="id_eudk id_grænsekontrol" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -588.167786,487.066925 L -514.466187,456.577271"
+              class="id_luftenshelte id_dktrp" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -514.466187,456.577271 L 867.544861,-313.543549"
+              class="id_dktrp id_flattenthecurve" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1772.976807,375.835297 L 1816.436279,337.293762"
+              class="id_lfcdk id_cldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 607.604736,1148.806885 L 634.563538,1096.143921"
+              class="id_breakingnews id_news" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 607.604736,1148.806885 L 595.523315,1178.161255"
+              class="id_breakingnews id_breaking" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -376.170929,-117.159119 L -382.286438,-46.013683"
+              class="id_dkhandicap id_dksocial" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -376.170929,-117.159119 L -511.862457,-1483.930176"
+              class="id_dkhandicap id_pressemøde" stroke-opacity="1.0"
+              stroke="#f15135"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -376.170929,-117.159119 L -447.585999,-30.144213"
+              class="id_dkhandicap id_dkcivil" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.897926,-1268.010986 L -1166.468018,-981.252502"
+              class="id_pandemi id_mettefrederiksen" stroke-opacity="1.0"
+              stroke="#9e8300"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -503.379639,705.220398 L 230.231339,-316.530731"
+              class="id_dkbyg id_samfundssind" stroke-opacity="1.0"
+              stroke="#6e86d7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1804.387207,369.913055 L 1816.436279,337.293762"
+              class="id_seriea id_cldk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1816.436279,337.293762 L 1784.749390,334.084503"
+              class="id_cldk id_serieadk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 371.875366,252.377838 L 168.954712,153.454758"
+              class="id_folkeskolen id_uddpol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 371.875366,252.377838 L 773.422180,102.003372"
+              class="id_folkeskolen id_wtf" stroke-opacity="1.0"
+              stroke="#678f01"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 371.875366,252.377838 L 313.853851,263.791107"
+              class="id_folkeskolen id_skolepol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 371.875366,252.377838 L 459.146759,359.568237"
+              class="id_folkeskolen id_aula" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1426.057983,406.666412 L -422.990906,-154.951965"
+              class="id_sars id_aalborg" stroke-opacity="1.0" stroke="#9b5a7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1350.644165,415.551117 L -221.962158,454.562622"
+              class="id_ftlive id_dkklima" stroke-opacity="1.0" stroke="#9766b3"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -178.718628,323.017487 L -118.436852,252.925919"
+              class="id_klima id_dkaid" stroke-opacity="1.0" stroke="#6e86d7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -178.718628,323.017487 L -320.060547,371.506592"
+              class="id_klima id_dkenergi" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 168.954712,153.454758 L -17.920309,-3.751063"
+              class="id_uddpol id_forskpol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 168.954712,153.454758 L 313.853851,263.791107"
+              class="id_uddpol id_skolepol" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 168.954712,153.454758 L -382.286438,-46.013683"
+              class="id_uddpol id_dksocial" stroke-opacity="1.0"
+              stroke="#b95d36"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 168.954712,153.454758 L 264.201538,126.641418"
+              class="id_uddpol id_gymnasiechat" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 168.954712,153.454758 L 39.940994,78.100052"
+              class="id_uddpol id_uddannelse" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 168.954712,153.454758 L 444.403931,-843.629150"
+              class="id_uddpol id_lockdown" stroke-opacity="1.0"
+              stroke="#c76801"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -46.576176,1315.005981 L -23.326015,1344.290039"
+              class="id_dkkultur id_dkmusik" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -46.576176,1315.005981 L -16.270323,1374.432129"
+              class="id_dkkultur id_dkfilm" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -46.576176,1315.005981 L -100.470467,1123.668701"
+              class="id_dkkultur id_dkfonde" stroke-opacity="1.0"
+              stroke="#678f01"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -23.326015,1344.290039 L -16.270323,1374.432129"
+              class="id_dkmusik id_dkfilm" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -952.656372,-1198.947876 L -1187.229736,-1474.639893"
+              class="id_dr id_fyn" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -902.968018,139.434036 L 547.805420,-405.628296"
+              class="id_politik id_politidk" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -640.901733,579.092468 L -646.024292,-100.830650"
+              class="id_ok20 id_solidaritet" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -500.121124,-150.880539 L -382.286438,-46.013683"
+              class="id_ulighed id_dksocial" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1166.468018,-981.252502 L -879.805115,-1321.512939"
+              class="id_mettefrederiksen id_drdk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1166.468018,-981.252502 L -1141.275146,-360.132324"
+              class="id_mettefrederiksen id_folketinget" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 634.563538,1096.143921 L 595.523315,1178.161255"
+              class="id_news id_breaking" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 634.563538,1096.143921 L 587.098694,793.710815"
+              class="id_news id_håndsprit" stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 415.573151,-274.527344 L 547.805420,-405.628296"
+              class="id_twitterhjerne id_politidk" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 415.573151,-274.527344 L 64.091034,-1259.671631"
+              class="id_twitterhjerne id_dk" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -422.990906,-154.951965 L -382.286438,-46.013683"
+              class="id_aalborg id_dksocial" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1113.416504,180.692535 L 444.403931,-843.629150"
+              class="id_vipasserpåhinanden id_lockdown" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1113.416504,180.692535 L 229.887772,-1221.182129"
+              class="id_vipasserpåhinanden id_danmarklukkerned"
+              stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 376.092804,-1381.129028 L 387.144592,-1343.693726"
+              class="id_toiletpapir id_gær" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 376.092804,-1381.129028 L 315.485229,-1322.250366"
+              class="id_toiletpapir id_hamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.092804,-1381.129028 L 464.142365,-1465.564575"
+              class="id_toiletpapir id_stophamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.092804,-1381.129028 L 444.403931,-843.629150"
+              class="id_toiletpapir id_lockdown" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.092804,-1381.129028 L 229.887772,-1221.182129"
+              class="id_toiletpapir id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 387.144592,-1343.693726 L 315.485229,-1322.250366"
+              class="id_gær id_hamstring" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 387.144592,-1343.693726 L 444.403931,-843.629150"
+              class="id_gær id_lockdown" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 387.144592,-1343.693726 L 229.887772,-1221.182129"
+              class="id_gær id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.962158,454.562622 L -572.704041,755.296631"
+              class="id_dkklima id_finansdk" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.962158,454.562622 L -320.060547,371.506592"
+              class="id_dkklima id_dkenergi" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -460.794586,728.853577 L -456.859833,780.625122"
+              class="id_smvpol id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -997.886414,-11.246812 L -1037.091919,-631.325867"
+              class="id_trump id_regeringen" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -148.911606,838.496887 L 110.611191,1018.580811"
+              class="id_crowdfunding id_iværksætter" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 547.805420,-405.628296 L 229.887772,-1221.182129"
+              class="id_politidk id_danmarklukkerned" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 547.805420,-405.628296 L 315.485229,-1322.250366"
+              class="id_politidk id_hamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.154968,158.702911 L 230.231339,-316.530731"
+              class="id_pædagog id_samfundssind" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 573.744080,-611.742920 L 230.231339,-316.530731"
+              class="id_sundfornuft id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 573.744080,-611.742920 L 540.211243,-639.258972"
+              class="id_sundfornuft id_brydkurven" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -17.920309,-3.751063 L 39.940994,78.100052"
+              class="id_forskpol id_uddannelse" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -382.286438,-46.013683 L 997.813965,-1239.897827"
+              class="id_dksocial id_stopmadspild" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="31.0"
+              d="M -382.286438,-46.013683 L -447.585999,-30.144213"
+              class="id_dksocial id_dkcivil" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -382.286438,-46.013683 L -631.033997,802.850891"
+              class="id_dksocial id_arbejdsmiljø" stroke-opacity="1.0"
+              stroke="#df52a0"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -382.286438,-46.013683 L -489.052277,-67.675278"
+              class="id_dksocial id_udsatte" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -382.286438,-46.013683 L 444.403931,-843.629150"
+              class="id_dksocial id_lockdown" stroke-opacity="1.0"
+              stroke="#f15135"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -382.286438,-46.013683 L 230.231339,-316.530731"
+              class="id_dksocial id_samfundssind" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 867.544861,-313.543549 L 230.231339,-316.530731"
+              class="id_flattenthecurve id_samfundssind" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1472.933960,-1227.945435 L 777.377991,-679.898071"
+              class="id_knækkurven id_vaskhænder" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 777.377991,-679.898071 L 1014.977417,-736.743042"
+              class="id_vaskhænder id_washyourhands" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 777.377991,-679.898071 L 444.403931,-843.629150"
+              class="id_vaskhænder id_lockdown" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -572.704041,755.296631 L -320.060547,371.506592"
+              class="id_finansdk id_dkenergi" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.887772,-1221.182129 L 279.442291,-1386.935181"
+              class="id_danmarklukkerned id_pandemia" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 229.887772,-1221.182129 L 315.485229,-1322.250366"
+              class="id_danmarklukkerned id_hamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 229.887772,-1221.182129 L 444.403931,-843.629150"
+              class="id_danmarklukkerned id_lockdown" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 230.231339,-316.530731 L 540.211243,-639.258972"
+              class="id_samfundssind id_brydkurven" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 230.231339,-316.530731 L 533.814148,118.123367"
+              class="id_samfundssind id_hjemmeskole" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 444.403931,-843.629150 L 1037.679077,-863.459167"
+              class="id_lockdown id_lockdowndk" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 444.403931,-843.629150 L 315.485229,-1322.250366"
+              class="id_lockdown id_hamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 444.403931,-843.629150 L 1014.977417,-736.743042"
+              class="id_lockdown id_washyourhands" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 444.403931,-843.629150 L 464.142365,-1465.564575"
+              class="id_lockdown id_stophamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 444.403931,-843.629150 L -1559.872803,339.534698"
+              class="id_lockdown id_some" stroke-opacity="1.0" stroke="#7f7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1114.324707,-321.479095 L 1415.069214,-464.648712"
+              class="id_paspåhinanden id_jegfinderselvud" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 459.146759,359.568237 L 362.424469,156.299103"
+              class="id_aula id_skole" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.485229,-1322.250366 L -31.646372,-1562.895386"
+              class="id_hamstring id_mad" stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.485229,-1322.250366 L 752.923706,814.894287"
+              class="id_hamstring id_fakta" stroke-opacity="1.0"
+              stroke="#7f787e"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 315.485229,-1322.250366 L 279.442291,-1386.935181"
+              class="id_hamstring id_pandemia" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 315.485229,-1322.250366 L 64.091034,-1259.671631"
+              class="id_hamstring id_dk" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 315.485229,-1322.250366 L 216.846207,-1455.054932"
+              class="id_hamstring id_stop" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.485229,-1322.250366 L 1148.264038,-1181.084961"
+              class="id_hamstring id_lortevirus" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.485229,-1322.250366 L 464.142365,-1465.564575"
+              class="id_hamstring id_stophamstring" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1037.091919,-631.325867 L 64.091034,-1259.671631"
+              class="id_regeringen id_dk" stroke-opacity="1.0" stroke="#9e8300"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 64.091034,-1259.671631 L 216.846207,-1455.054932"
+              class="id_dk id_stop" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 997.813965,-1239.897827 L 464.142365,-1465.564575"
+              class="id_stopmadspild id_stophamstring" stroke-opacity="1.0"
+              stroke="#f15135"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 997.813965,-1239.897827 L 870.342651,-954.752136"
+              class="id_stopmadspild id_vismigdithjemmekontor"
+              stroke-opacity="1.0" stroke="#b95d36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -879.805115,-1321.512939 L -1141.275146,-360.132324"
+              class="id_drdk id_folketinget" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 464.142365,-1465.564575 L 279.442291,-1386.935181"
+              class="id_stophamstring id_pandemia" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 752.923706,814.894287 L 736.227173,834.444946"
+              class="id_fakta id_coop" stroke-opacity="1.0" stroke="#0094fd"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 752.923706,814.894287 L 718.030640,806.043335"
+              class="id_fakta id_netto" stroke-opacity="1.0" stroke="#0094fd"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -489.052277,-67.675278 L -608.455872,6.166557"
+              class="id_udsatte id_hjemløse" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 736.227173,834.444946 L 718.030640,806.043335"
+              class="id_coop id_netto" stroke-opacity="1.0" stroke="#0094fd"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -573.803955,284.974823 L -490.656799,152.438248"
+              class="id_godtbørneliv id_bhvchat" stroke-opacity="1.0"
+              stroke="#b6696c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="27.855173" cx="-263.99683"
+                class="id_dkfinans" cy="701.097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="35.24138" cx="-342.6939"
+                class="id_dkøko" cy="760.6342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.4758625" cx="-280.4173"
+                class="id_aktier" cy="819.1133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="70.0" cx="-401.03085"
+                class="id_dkbiz" cy="614.61566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="68.69655" cx="-162.8253"
+                class="id_sundpol" cy="-229.47676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="19.02069" cx="-88.172195"
+                class="id_dkvid" cy="-28.844814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="28.434484" cx="-205.6052"
+                class="id_dksund" cy="-35.384846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.793103" cx="-635.2204"
+                class="id_kina" cy="-470.1297" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.751724" cx="109.857506"
+                class="id_dksundhed" cy="-51.671505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="21.337933" cx="-114.2662"
+                class="id_dkforsk" cy="34.893856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.882759" cx="-492.63187"
+                class="id_investering" cy="894.4971" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="14.096552" cx="-562.2148"
+                class="id_ssi" cy="-625.2358" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="26.406897" cx="-317.48914"
+                class="id_sundhed" cy="-451.90686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.634483" cx="-393.75854"
+                class="id_italien" cy="-652.69336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.344828" cx="-130.00212"
+                class="id_beredskab" cy="-589.2567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.5034485" cx="-498.6705"
+                class="id_forebyggelse" cy="-707.6276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="21.482758" cx="244.76724"
+                class="id_skolechat" cy="198.21463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.882759" cx="307.25864"
+                class="id_lærerliv" cy="219.80022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="12.937931" cx="-66.9359"
+                class="id_eupol" cy="512.91675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.593103" cx="-4.80643"
+                class="id_svpol" cy="548.5405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.068966" cx="-105.53883"
+                class="id_forskning" cy="-443.07034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="16.413792" cx="-179.97884"
+                class="id_virus" cy="-652.5974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.186207" cx="-181.42934"
+                class="id_læger" cy="-581.04553" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.896551" cx="3.055231"
+                class="id_sundhedforalle" cy="-151.4478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="11.200001" cx="-584.4537"
+                class="id_tv2news" cy="-1154.556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.765517" cx="-623.0793"
+                class="id_sundhedsstyrelsen" cy="-676.7768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.724138" cx="83.59852"
+                class="id_dontpanic" cy="-168.5404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="11.200001" cx="-70.11161"
+                class="id_eu" cy="412.17886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="9.027586" cx="1211.2941"
+                class="id_sverige" cy="412.9234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.344828" cx="-115.98595"
+                class="id_smitte" cy="-640.1601" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.027586" cx="-1033.0029"
+                class="id_kommunikation" cy="332.08972" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.462069" cx="-773.5413"
+                class="id_tv2" cy="-1060.4547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-219.18094"
+                class="id_dkbolig" cy="829.16815" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="25.248276" cx="-254.47871"
+                class="id_dkgreen" cy="387.08044" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="175.4145"
+                class="id_panik" cy="-1470.8763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.724138" cx="-1182.6091"
+                class="id_håndtryk" cy="-805.78125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.606896" cx="-397.7271"
+                class="id_kompol" cy="122.95612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="16.124138" cx="-528.0639"
+                class="id_kompoldk" cy="304.18915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="-32.519653"
+                class="id_diabetes" cy="-228.8371" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.77931" cx="-467.73102"
+                class="id_rejser" cy="-632.6484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.462069" cx="-27.231129"
+                class="id_patientsikkerhed" cy="-264.83972" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.593103" cx="-151.32547"
+                class="id_smittefare" cy="-805.5192" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="16.993103" cx="1513.511"
+                class="id_fck" cy="338.2704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="7.8689656" cx="1727.7903"
+                class="id_eldk" cy="246.64565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.882759" cx="647.24493"
+                class="id_isolation" cy="-953.4456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="10.186207" cx="-880.48126"
+                class="id_dktech" cy="835.3527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-288.15582"
+                class="id_podcast" cy="903.10535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="12.213793" cx="-155.80103"
+                class="id_dkoeko" cy="705.6047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="-85.146385"
+                class="id_china" cy="-1059.5175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.593103" cx="-384.39453"
+                class="id_erhverv" cy="974.20233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="11.055172" cx="-1046.0966"
+                class="id_smdk" cy="611.73724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="11.200001" cx="1753.2831"
+                class="id_pldk" cy="351.7114" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="21.048275" cx="1658.6453"
+                class="id_sldk" cy="327.73254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="-286.6008"
+                class="id_aarhus" cy="-1100.9036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="7.5793104" cx="-1143.7291"
+                class="id_uspol" cy="715.76526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.896551" cx="-930.4313"
+                class="id_usa" cy="-71.60141" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.737931" cx="-30.506842"
+                class="id_pandemic" cy="-1253.5577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="23.800001" cx="-585.90857"
+                class="id_arbejde" cy="551.48096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.462069" cx="-282.37402"
+                class="id_karantæne" cy="-781.42816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="18.731033" cx="-123.5617"
+                class="id_eudk" cy="521.20667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.317242" cx="-588.1678"
+                class="id_luftenshelte" cy="487.06693" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="15.255172" cx="-514.4662"
+                class="id_dktrp" cy="456.57727" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="7.724138" cx="1772.9768"
+                class="id_lfcdk" cy="375.8353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="607.60474"
+                class="id_breakingnews" cy="1148.8069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="10.041379" cx="-376.17093"
+                class="id_dkhandicap" cy="-117.15912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="9.606896" cx="-95.89793"
+                class="id_pandemi" cy="-1268.011" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="13.082758" cx="-503.37964"
+                class="id_dkbyg" cy="705.2204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.041379" cx="-521.05566"
+                class="id_who" cy="-773.636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="8.013793" cx="1804.3872"
+                class="id_seriea" cy="369.91306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="9.317242" cx="1816.4363"
+                class="id_cldk" cy="337.29376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.606896" cx="371.87537"
+                class="id_folkeskolen" cy="252.37784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.358622" cx="-456.287"
+                class="id_børn" cy="-395.35367" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="8.737931" cx="1530.5302"
+                class="id_fodbold" cy="203.66414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="17.862068" cx="1584.9142"
+                class="id_brøndby" cy="386.2909" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="9.317242" cx="1426.058"
+                class="id_sars" cy="406.6664" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="8.737931" cx="1350.6442"
+                class="id_ftlive" cy="415.55112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.606896" cx="-801.24585"
+                class="id_dkpolitik" cy="492.6449" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.448276" cx="-170.89287"
+                class="id_ecb" cy="635.7481" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="9.172414" cx="1686.4829"
+                class="id_fcklive" cy="259.35678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.041379" cx="-178.71863"
+                class="id_klima" cy="323.0175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.4758625" cx="-118.43685"
+                class="id_dkaid" cy="252.92592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="21.048275" cx="168.95471"
+                class="id_uddpol" cy="153.45476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-224.97882"
+                class="id_klimakrise" cy="301.03925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="10.910345" cx="-46.576176"
+                class="id_dkkultur" cy="1315.006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.737931" cx="-23.326015"
+                class="id_dkmusik" cy="1344.29" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="9.896551" cx="-952.6564"
+                class="id_dr" cy="-1198.9479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.737931" cx="-557.23114"
+                class="id_ældre" cy="-332.0593" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.737931" cx="-700.9398"
+                class="id_ledelse" cy="751.9216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.158621" cx="115.92337"
+                class="id_poldk" cy="-278.7291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.724138" cx="-834.4047"
+                class="id_dr1" cy="-1147.474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.882759" cx="-902.968"
+                class="id_politik" cy="139.43404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.186207" cx="-640.90173"
+                class="id_ok20" cy="579.09247" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="8.013793" cx="-1085.697"
+                class="id_komdk" cy="616.2632" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.303449" cx="-500.12112"
+                class="id_ulighed" cy="-150.88054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.882759" cx="-1166.468"
+                class="id_mettefrederiksen" cy="-981.2525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="10.331035" cx="634.56354"
+                class="id_news" cy="1096.1439" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="13.662069" cx="415.57315"
+                class="id_twitterhjerne" cy="-274.52734" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.593103" cx="812.70135"
+                class="id_færøerne" cy="931.3335" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="9.751724" cx="-990.6532"
+                class="id_digidk" cy="840.11237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.724138" cx="666.09485"
+                class="id_convid19" cy="-817.7201" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="7.4344826" cx="-422.9909"
+                class="id_aalborg" cy="-154.95197" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="7.4344826" cx="1574.678"
+                class="id_servicetweet" cy="519.85284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.289655" cx="773.4222"
+                class="id_wtf" cy="102.00337" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="-1113.4165"
+                class="id_vipasserpåhinanden" cy="180.69254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="8.158621" cx="1680.6885"
+                class="id_ultratwitteragf" cy="366.65143" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.4344826" cx="-419.97754"
+                class="id_dkturisme" cy="916.9814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="376.0928"
+                class="id_toiletpapir" cy="-1381.129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="387.1446"
+                class="id_gær" cy="-1343.6937" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.882759" cx="-221.96216"
+                class="id_dkklima" cy="454.56262" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.737931" cx="-460.7946"
+                class="id_smvpol" cy="728.8536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.013793" cx="-997.8864"
+                class="id_trump" cy="-11.246812" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.013793" cx="-148.9116"
+                class="id_crowdfunding" cy="838.4969" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.172414" cx="-456.85983"
+                class="id_smv" cy="780.6251" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.4344826" cx="-577.11707"
+                class="id_dkledelse" cy="685.7115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="12.358622" cx="547.8054"
+                class="id_politidk" cy="-405.6283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.5793104" cx="304.15497"
+                class="id_pædagog" cy="158.70291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="7.4344826" cx="1657.0779"
+                class="id_andellerej" cy="276.7432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.303449" cx="573.7441"
+                class="id_sundfornuft" cy="-611.7429" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="10.4758625" cx="-17.92031"
+                class="id_forskpol" cy="-3.7510629" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.013793" cx="-550.0998"
+                class="id_selvstændige" cy="641.70166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="25.827585" cx="-382.28644"
+                class="id_dksocial" cy="-46.013683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.8689656" cx="-186.62439"
+                class="id_fællesskab" cy="1544.6072" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.724138" cx="595.5233"
+                class="id_breaking" cy="1178.1613" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="9.172414" cx="867.54486"
+                class="id_flattenthecurve" cy="-313.54355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="7.5793104" cx="1784.7494"
+                class="id_serieadk" cy="334.0845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="1472.934"
+                class="id_knækkurven" cy="-1227.9454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.593103" cx="777.378"
+                class="id_vaskhænder" cy="-679.8981" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="14.675862" cx="-447.586"
+                class="id_dkcivil" cy="-30.144213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.013793" cx="-572.70404"
+                class="id_finansdk" cy="755.29663" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="-511.86246"
+                class="id_pressemøde" cy="-1483.9302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="9.751724" cx="229.88777"
+                class="id_danmarklukkerned" cy="-1221.1821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="11.4896555" cx="-328.09"
+                class="id_dkfood" cy="452.58017" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="16.848276" cx="230.23134"
+                class="id_samfundssind" cy="-316.53073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="14.965517" cx="444.40393"
+                class="id_lockdown" cy="-843.62915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="1037.6791"
+                class="id_lockdowndk" cy="-863.45917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="9.462069" cx="1114.3247"
+                class="id_paspåhinanden" cy="-321.4791" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.724138" cx="540.21124"
+                class="id_brydkurven" cy="-639.259" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.8689656" cx="313.85385"
+                class="id_skolepol" cy="263.7911" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-526.53754"
+                class="id_dagrofa" cy="668.23975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.013793" cx="459.14676"
+                class="id_aula" cy="359.56824" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="12.213793" cx="315.48523"
+                class="id_hamstring" cy="-1322.2504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.289655" cx="-31.646372"
+                class="id_mad" cy="-1562.8954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="9.027586" cx="-1037.0919"
+                class="id_regeringen" cy="-631.32587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="9.462069" cx="64.091034"
+                class="id_dk" cy="-1259.6716" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="7.4344826" cx="997.81396"
+                class="id_stopmadspild" cy="-1239.8978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.882759" cx="362.42447"
+                class="id_skole" cy="156.2991" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.8689656" cx="-879.8051"
+                class="id_drdk" cy="-1321.513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.303449" cx="-1141.2751"
+                class="id_folketinget" cy="-360.13232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.8689656" cx="464.14236"
+                class="id_stophamstring" cy="-1465.5646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.1448274" cx="1415.0692"
+                class="id_jegfinderselvud" cy="-464.6487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.751724" cx="-631.034"
+                class="id_arbejdsmiljø" cy="802.8509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.5793104" cx="-142.88"
+                class="id_musik" cy="1550.3586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.724138" cx="-16.270323"
+                class="id_dkfilm" cy="1374.4321" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0094fd" r="8.158621" cx="752.9237"
+                class="id_fakta" cy="814.8943" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="279.4423"
+                class="id_pandemia" cy="-1386.9352" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.5793104" cx="189.7992"
+                class="id_norge" cy="1170.0718" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.737931" cx="410.27554"
+                class="id_fjernundervisning" cy="128.93239" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="10.186207" cx="-489.05228"
+                class="id_udsatte" cy="-67.67528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.8689656" cx="-492.97015"
+                class="id_blaadk" cy="750.70026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.724138" cx="110.61119"
+                class="id_iværksætter" cy="1018.5808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.5793104" cx="216.8462"
+                class="id_stop" cy="-1455.0549" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.303449" cx="264.20154"
+                class="id_gymnasiechat" cy="126.64142" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0094fd" r="8.448276" cx="736.2272"
+                class="id_coop" cy="834.44495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0094fd" r="8.737931" cx="718.03064"
+                class="id_netto" cy="806.04333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.8689656" cx="870.34265"
+                class="id_vismigdithjemmekontor" cy="-954.75214"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="1148.264"
+                class="id_lortevirus" cy="-1181.085" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="1014.9774"
+                class="id_washyourhands" cy="-736.74304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.5793104" cx="-573.80396"
+                class="id_godtbørneliv" cy="284.97482" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.737931" cx="39.940994"
+                class="id_uddannelse" cy="78.10005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="8.593103" cx="-608.4559"
+                class="id_hjemløse" cy="6.166557" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="7.0" cx="-1462.1338"
+                class="id_medienyt" cy="858.28204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="8.158621" cx="-1559.8728"
+                class="id_some" cy="339.5347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.4758625" cx="-320.06055"
+                class="id_dkenergi" cy="371.5066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.172414" cx="-646.0243"
+                class="id_solidaritet" cy="-100.83065" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.8689656" cx="587.0987"
+                class="id_håndsprit" cy="793.7108" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="8.158621" cx="-490.6568"
+                class="id_bhvchat" cy="152.43825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="11.200001" cx="533.81415"
+                class="id_hjemmeskole" cy="118.12337" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.724138" cx="-100.47047"
+                class="id_dkfonde" cy="1123.6687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="7.0" cx="-1187.2297"
+                class="id_fyn" cy="-1474.6399" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="8.158621" cx="-12.507862"
+                class="id_grænsekontrol" cy="226.21066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.593103" cx="322.8013"
+                class="id_dknatur" cy="74.132225" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="109" x="-263.99683" y="722.1909" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkfinans">
+            dkfinans
+        </text>
+        <text font-size="129" x="-342.6939" y="786.6169" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkøko">
+            dkøko
+        </text>
+        <text font-size="48" x="-280.4173" y="828.40234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_aktier">
+            aktier
+        </text>
+        <text font-size="168" x="-401.03085" y="647.1274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkbiz">
+            dkbiz
+        </text>
+        <text font-size="168" x="-162.8253" y="-188.83028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundpol">
+            sundpol
+        </text>
+        <text font-size="81" x="-88.172195" y="-13.16952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkvid">
+            dkvid
+        </text>
+        <text font-size="111" x="-205.6052" y="-13.903889" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dksund">
+            dksund
+        </text>
+        <text font-size="57" x="-635.2204" y="-459.09894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_kina">
+            kina
+        </text>
+        <text font-size="45" x="109.857506" y="-42.96301" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dksundhed">
+            dksundhed
+        </text>
+        <text font-size="89" x="-114.2662" y="52.117325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkforsk">
+            dkforsk
+        </text>
+        <text font-size="41" x="-492.63187" y="904.41675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_investering">
+            investering
+        </text>
+        <text font-size="62" x="-562.2148" y="-613.2374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ssi">
+            ssi
+        </text>
+        <text font-size="105" x="-317.48914" y="-431.58704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundhed">
+            sundhed
+        </text>
+        <text font-size="52" x="-393.75854" y="-642.6302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_italien">
+            italien
+        </text>
+        <text font-size="51" x="-130.00212" y="-579.3871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_beredskab">
+            beredskab
+        </text>
+        <text font-size="56" x="-498.6705" y="-694.0788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_forebyggelse">
+            forebyggelse
+        </text>
+        <text font-size="89" x="244.76724" y="215.4381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_skolechat">
+            skolechat
+        </text>
+        <text font-size="41" x="307.25864" y="227.73462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_lærerliv">
+            lærerliv
+        </text>
+        <text font-size="58" x="-66.9359" y="526.94946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_eupol">
+            eupol
+        </text>
+        <text font-size="40" x="-4.80643" y="558.21826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_svpol">
+            svpol
+        </text>
+        <text font-size="54" x="-105.53883" y="-430.0054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_forskning">
+            forskning
+        </text>
+        <text font-size="71" x="-179.97884" y="-638.85736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_virus">
+            virus
+        </text>
+        <text font-size="46" x="-181.42934" y="-569.91614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_læger">
+            læger
+        </text>
+        <text font-size="45" x="3.055231" y="-142.7393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundhedforalle">
+            sundhedforalle
+        </text>
+        <text font-size="51" x="-584.4537" y="-1144.9105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_tv2news">
+            tv2news
+        </text>
+        <text font-size="49" x="-623.0793" y="-664.9216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundhedsstyrelsen">
+            sundhedsstyrelsen
+        </text>
+        <text font-size="36" x="83.59852" y="-159.83044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dontpanic">
+            dontpanic
+        </text>
+        <text font-size="51" x="-70.11161" y="419.5043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_eu">
+            eu
+        </text>
+        <text font-size="42" x="1211.2941" y="423.08502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sverige">
+            sverige
+        </text>
+        <text font-size="51" x="-115.98595" y="-630.29047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smitte">
+            smitte
+        </text>
+        <text font-size="42" x="-1033.0029" y="340.21765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_kommunikation">
+            kommunikation
+        </text>
+        <text font-size="43" x="-773.5413" y="-1052.4762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_tv2">
+            tv2
+        </text>
+        <text font-size="38" x="-219.18094" y="838.362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkbolig">
+            dkbolig
+        </text>
+        <text font-size="101" x="-254.47871" y="411.51672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkgreen">
+            dkgreen
+        </text>
+        <text font-size="37" x="175.4145" y="-1461.9244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_panik">
+            panik
+        </text>
+        <text font-size="36" x="-1182.6091" y="-796.0078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_håndtryk">
+            håndtryk
+        </text>
+        <text font-size="44" x="-397.7271" y="133.60162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_kompol">
+            kompol
+        </text>
+        <text font-size="70" x="-528.0639" y="321.12518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_kompoldk">
+            kompoldk
+        </text>
+        <text font-size="37" x="-32.519653" y="-221.67677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_diabetes">
+            diabetes
+        </text>
+        <text font-size="53" x="-467.73102" y="-619.8254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_rejser">
+            rejser
+        </text>
+        <text font-size="43" x="-27.231129" y="-254.43616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_patientsikkerhed">
+            patientsikkerhed
+        </text>
+        <text font-size="40" x="-151.32547" y="-797.7783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smittefare">
+            smittefare
+        </text>
+        <text font-size="73" x="1513.511" y="352.3975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fck">
+            fck
+        </text>
+        <text font-size="37" x="1727.7903" y="253.80597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_eldk">
+            eldk
+        </text>
+        <text font-size="41" x="647.24493" y="-945.5112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_isolation">
+            isolation
+        </text>
+        <text font-size="46" x="-880.48126" y="844.25476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dktech">
+            dktech
+        </text>
+        <text font-size="38" x="-288.15582" y="912.2992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_podcast">
+            podcast
+        </text>
+        <text font-size="55" x="-155.80103" y="716.2484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkoeko">
+            dkoeko
+        </text>
+        <text font-size="37" x="-85.146385" y="-1052.3572" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_china">
+            china
+        </text>
+        <text font-size="40" x="-384.39453" y="981.94324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_erhverv">
+            erhverv
+        </text>
+        <text font-size="50" x="-1046.0966" y="621.4133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smdk">
+            smdk
+        </text>
+        <text font-size="51" x="1753.2831" y="364.0505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_pldk">
+            pldk
+        </text>
+        <text font-size="88" x="1658.6453" y="344.76248" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sldk">
+            sldk
+        </text>
+        <text font-size="37" x="-286.6008" y="-1093.7433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_aarhus">
+            aarhus
+        </text>
+        <text font-size="35" x="-1143.7291" y="724.2333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_uspol">
+            uspol
+        </text>
+        <text font-size="45" x="-930.4313" y="-65.13779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_usa">
+            usa
+        </text>
+        <text font-size="40" x="-30.506842" y="-1243.88" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_pandemic">
+            pandemic
+        </text>
+        <text font-size="97" x="-585.90857" y="574.94946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_arbejde">
+            arbejde
+        </text>
+        <text font-size="43" x="-282.37402" y="-773.1067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_karantæne">
+            karantæne
+        </text>
+        <text font-size="80" x="-123.5617" y="536.6884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_eudk">
+            eudk
+        </text>
+        <text font-size="43" x="-588.1678" y="495.38837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_luftenshelte">
+            luftenshelte
+        </text>
+        <text font-size="67" x="-514.4662" y="472.78748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dktrp">
+            dktrp
+        </text>
+        <text font-size="36" x="1772.9768" y="382.8021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_lfcdk">
+            lfcdk
+        </text>
+        <text font-size="37" x="607.60474" y="1157.7588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_breakingnews">
+            breakingnews
+        </text>
+        <text font-size="46" x="-376.17093" y="-106.029724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkhandicap">
+            dkhandicap
+        </text>
+        <text font-size="44" x="-95.89793" y="-1257.3655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_pandemi">
+            pandemi
+        </text>
+        <text font-size="58" x="-503.37964" y="719.2531" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkbyg">
+            dkbyg
+        </text>
+        <text font-size="46" x="-521.05566" y="-764.73395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_who">
+            who
+        </text>
+        <text font-size="37" x="1804.3872" y="377.07336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_seriea">
+            seriea
+        </text>
+        <text font-size="43" x="1816.4363" y="345.6152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_cldk">
+            cldk
+        </text>
+        <text font-size="44" x="371.87537" y="260.89282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_folkeskolen">
+            folkeskolen
+        </text>
+        <text font-size="55" x="-456.287" y="-384.2758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_børn">
+            børn
+        </text>
+        <text font-size="40" x="1530.5302" y="211.40503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fodbold">
+            fodbold
+        </text>
+        <text font-size="77" x="1584.9142" y="404.92053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_brøndby">
+            brøndby
+        </text>
+        <text font-size="43" x="1426.058" y="412.84277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sars">
+            sars
+        </text>
+        <text font-size="40" x="1350.6442" y="423.292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ftlive">
+            ftlive
+        </text>
+        <text font-size="44" x="-801.24585" y="503.2904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkpolitik">
+            dkpolitik
+        </text>
+        <text font-size="39" x="-170.89287" y="643.2955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ecb">
+            ecb
+        </text>
+        <text font-size="42" x="1686.4829" y="267.4847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fcklive">
+            fcklive
+        </text>
+        <text font-size="46" x="-178.71863" y="331.9195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_klima">
+            klima
+        </text>
+        <text font-size="48" x="-118.43685" y="262.21497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkaid">
+            dkaid
+        </text>
+        <text font-size="88" x="168.95471" y="174.74577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_uddpol">
+            uddpol
+        </text>
+        <text font-size="38" x="-224.97882" y="308.3931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_klimakrise">
+            klimakrise
+        </text>
+        <text font-size="50" x="-46.576176" y="1324.6821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkkultur">
+            dkkultur
+        </text>
+        <text font-size="40" x="-23.326015" y="1352.0309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkmusik">
+            dkmusik
+        </text>
+        <text font-size="45" x="-952.6564" y="-1190.2394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dr">
+            dr
+        </text>
+        <text font-size="40" x="-557.23114" y="-324.31842" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ældre">
+            ældre
+        </text>
+        <text font-size="40" x="-700.9398" y="759.6625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ledelse">
+            ledelse
+        </text>
+        <text font-size="38" x="115.92337" y="-269.53525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_poldk">
+            poldk
+        </text>
+        <text font-size="36" x="-834.4047" y="-1140.5072" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dr1">
+            dr1
+        </text>
+        <text font-size="41" x="-902.968" y="149.35371" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_politik">
+            politik
+        </text>
+        <text font-size="46" x="-640.90173" y="587.9945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ok20">
+            ok20
+        </text>
+        <text font-size="37" x="-1085.697" y="623.4235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_komdk">
+            komdk
+        </text>
+        <text font-size="38" x="-500.12112" y="-141.68669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ulighed">
+            ulighed
+        </text>
+        <text font-size="41" x="-1166.468" y="-973.3181" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_mettefrederiksen">
+            mettefrederiksen
+        </text>
+        <text font-size="47" x="634.56354" y="1102.8948" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_news">
+            news
+        </text>
+        <text font-size="61" x="415.57315" y="-259.7688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_twitterhjerne">
+            twitterhjerne
+        </text>
+        <text font-size="40" x="812.70135" y="939.39014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_færøerne">
+            færøerne
+        </text>
+        <text font-size="45" x="-990.6532" y="850.9998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_digidk">
+            digidk
+        </text>
+        <text font-size="36" x="666.09485" y="-810.7533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_convid19">
+            convid19
+        </text>
+        <text font-size="35" x="-422.9909" y="-146.48395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_aalborg">
+            aalborg
+        </text>
+        <text font-size="35" x="1574.678" y="526.6261" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_servicetweet">
+            servicetweet
+        </text>
+        <text font-size="34" x="773.4222" y="108.46138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_wtf">
+            wtf
+        </text>
+        <text font-size="37" x="-1113.4165" y="190.73746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_vipasserpåhinanden">
+            vipasserpåhinanden
+        </text>
+        <text font-size="38" x="1680.6885" y="375.84528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ultratwitteragf">
+            ultratwitteragf
+        </text>
+        <text font-size="35" x="-419.97754" y="923.75464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkturisme">
+            dkturisme
+        </text>
+        <text font-size="39" x="376.0928" y="-1371.6932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_toiletpapir">
+            toiletpapir
+        </text>
+        <text font-size="37" x="387.1446" y="-1336.5876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_gær">
+            gær
+        </text>
+        <text font-size="41" x="-221.96216" y="462.49704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkklima">
+            dkklima
+        </text>
+        <text font-size="40" x="-460.7946" y="738.5313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smvpol">
+            smvpol
+        </text>
+        <text font-size="37" x="-997.8864" y="-2.8278666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_trump">
+            trump
+        </text>
+        <text font-size="37" x="-148.9116" y="847.4488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_crowdfunding">
+            crowdfunding
+        </text>
+        <text font-size="42" x="-456.85983" y="786.65784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smv">
+            smv
+        </text>
+        <text font-size="35" x="-577.11707" y="692.48474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkledelse">
+            dkledelse
+        </text>
+        <text font-size="55" x="547.8054" y="-392.3214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_politidk">
+            politidk
+        </text>
+        <text font-size="35" x="304.15497" y="167.17093" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_pædagog">
+            pædagog
+        </text>
+        <text font-size="35" x="1657.0779" y="285.2112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_andellerej">
+            andellerej
+        </text>
+        <text font-size="38" x="573.7441" y="-604.3891" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundfornuft">
+            sundfornuft
+        </text>
+        <text font-size="48" x="-17.92031" y="7.8622184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_forskpol">
+            forskpol
+        </text>
+        <text font-size="37" x="-550.0998" y="650.65356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_selvstændige">
+            selvstændige
+        </text>
+        <text font-size="103" x="-382.28644" y="-26.080902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dksocial">
+            dksocial
+        </text>
+        <text font-size="37" x="-186.62439" y="1551.7675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fællesskab">
+            fællesskab
+        </text>
+        <text font-size="36" x="595.5233" y="1186.8712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_breaking">
+            breaking
+        </text>
+        <text font-size="42" x="867.54486" y="-305.41562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_flattenthecurve">
+            flattenthecurve
+        </text>
+        <text font-size="35" x="1784.7494" y="340.8578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_serieadk">
+            serieadk
+        </text>
+        <text font-size="34" x="1472.934" y="-1221.3657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_knækkurven">
+            knækkurven
+        </text>
+        <text font-size="40" x="777.378" y="-672.15717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_vaskhænder">
+            vaskhænder
+        </text>
+        <text font-size="65" x="-447.586" y="-17.565273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkcivil">
+            dkcivil
+        </text>
+        <text font-size="37" x="-572.70404" y="762.457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_finansdk">
+            finansdk
+        </text>
+        <text font-size="39" x="-511.86246" y="-1474.4944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_pressemøde">
+            pressemøde
+        </text>
+        <text font-size="45" x="229.88777" y="-1212.4736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_danmarklukkerned">
+            danmarklukkerned
+        </text>
+        <text font-size="52" x="-328.09" y="462.6433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkfood">
+            dkfood
+        </text>
+        <text font-size="73" x="230.23134" y="-302.40363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_samfundssind">
+            samfundssind
+        </text>
+        <text font-size="66" x="444.40393" y="-830.8567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_lockdown">
+            lockdown
+        </text>
+        <text font-size="39" x="1037.6791" y="-855.9118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_lockdowndk">
+            lockdowndk
+        </text>
+        <text font-size="43" x="1114.3247" y="-309.80527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_paspåhinanden">
+            paspåhinanden
+        </text>
+        <text font-size="36" x="540.21124" y="-630.549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_brydkurven">
+            brydkurven
+        </text>
+        <text font-size="37" x="313.85385" y="272.743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_skolepol">
+            skolepol
+        </text>
+        <text font-size="38" x="-526.53754" y="677.4336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dagrofa">
+            dagrofa
+        </text>
+        <text font-size="37" x="459.14676" y="366.72855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_aula">
+            aula
+        </text>
+        <text font-size="55" x="315.48523" y="-1308.9435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_hamstring">
+            hamstring
+        </text>
+        <text font-size="34" x="-31.646372" y="-1556.3157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_mad">
+            mad
+        </text>
+        <text font-size="42" x="-1037.0919" y="-621.16425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_regeringen">
+            regeringen
+        </text>
+        <text font-size="43" x="64.091034" y="-1251.3502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dk">
+            dk
+        </text>
+        <text font-size="35" x="997.81396" y="-1231.4298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_stopmadspild">
+            stopmadspild
+        </text>
+        <text font-size="41" x="362.42447" y="164.2335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_skole">
+            skole
+        </text>
+        <text font-size="37" x="-879.8051" y="-1314.3527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_drdk">
+            drdk
+        </text>
+        <text font-size="38" x="-1141.2751" y="-350.93848" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_folketinget">
+            folketinget
+        </text>
+        <text font-size="37" x="464.14236" y="-1456.6127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_stophamstring">
+            stophamstring
+        </text>
+        <text font-size="33" x="1415.0692" y="-456.66458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_jegfinderselvud">
+            jegfinderselvud
+        </text>
+        <text font-size="45" x="-631.034" y="813.73834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_arbejdsmiljø">
+            arbejdsmiljø
+        </text>
+        <text font-size="35" x="-142.88" y="1557.132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_musik">
+            musik
+        </text>
+        <text font-size="36" x="-16.270323" y="1381.3989" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkfilm">
+            dkfilm
+        </text>
+        <text font-size="38" x="752.9237" y="822.2481" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fakta">
+            fakta
+        </text>
+        <text font-size="39" x="279.4423" y="-1377.4994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_pandemia">
+            pandemia
+        </text>
+        <text font-size="35" x="189.7992" y="1176.7938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_norge">
+            norge
+        </text>
+        <text font-size="40" x="410.27554" y="138.61012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fjernundervisning">
+            fjernundervisning
+        </text>
+        <text font-size="46" x="-489.05228" y="-58.773262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_udsatte">
+            udsatte
+        </text>
+        <text font-size="37" x="-492.97015" y="757.8606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_blaadk">
+            blaadk
+        </text>
+        <text font-size="36" x="110.61119" y="1025.5476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_iværksætter">
+            iværksætter
+        </text>
+        <text font-size="35" x="216.8462" y="-1447.0911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_stop">
+            stop
+        </text>
+        <text font-size="38" x="264.20154" y="135.83527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_gymnasiechat">
+            gymnasiechat
+        </text>
+        <text font-size="39" x="736.2272" y="841.9352" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_coop">
+            coop
+        </text>
+        <text font-size="40" x="718.03064" y="813.20807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_netto">
+            netto
+        </text>
+        <text font-size="37" x="870.34265" y="-945.80023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_vismigdithjemmekontor">
+            vismigdithjemmekontor
+        </text>
+        <text font-size="34" x="1148.264" y="-1174.5052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_lortevirus">
+            lortevirus
+        </text>
+        <text font-size="39" x="1014.9774" y="-727.30725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_washyourhands">
+            washyourhands
+        </text>
+        <text font-size="35" x="-573.80396" y="293.44284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_godtbørneliv">
+            godtbørneliv
+        </text>
+        <text font-size="40" x="39.940994" y="85.840935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_uddannelse">
+            uddannelse
+        </text>
+        <text font-size="40" x="-608.4559" y="15.844292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_hjemløse">
+            hjemløse
+        </text>
+        <text font-size="33" x="-1462.1338" y="866.2662" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_medienyt">
+            medienyt
+        </text>
+        <text font-size="38" x="-1559.8728" y="344.99286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_some">
+            some
+        </text>
+        <text font-size="48" x="-320.06055" y="383.11987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkenergi">
+            dkenergi
+        </text>
+        <text font-size="42" x="-646.0243" y="-92.70272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_solidaritet">
+            solidaritet
+        </text>
+        <text font-size="37" x="587.0987" y="803.75574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_håndsprit">
+            håndsprit
+        </text>
+        <text font-size="38" x="-490.6568" y="159.79208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_bhvchat">
+            bhvchat
+        </text>
+        <text font-size="51" x="533.81415" y="130.46248" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_hjemmeskole">
+            hjemmeskole
+        </text>
+        <text font-size="36" x="-100.47047" y="1130.6355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkfonde">
+            dkfonde
+        </text>
+        <text font-size="33" x="-1187.2297" y="-1466.6558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_fyn">
+            fyn
+        </text>
+        <text font-size="38" x="-12.507862" y="235.40451" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_grænsekontrol">
+            grænsekontrol
+        </text>
+        <text font-size="40" x="322.8013" y="81.87311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dknatur">
+            dknatur
+        </text>
+    </g>
+</svg>

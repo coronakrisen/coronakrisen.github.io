@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3232.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2012.000000 -1814.000000 3232.000000 3275.000000" height="3275.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M -1797.889893,-483.000061 L -134.806351,-192.754456"
+              class="id_presselogen id_sundpol" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1797.889893,-483.000061 L -873.772766,-1198.237793"
+              class="id_presselogen id_tv2" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1797.889893,-483.000061 L -2004.538208,-533.168152"
+              class="id_presselogen id_besserwisserne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="36.0"
+              d="M -134.806351,-192.754456 L -186.570038,42.096760"
+              class="id_sundpol id_dksund" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -134.806351,-192.754456 L -706.404419,-483.944519"
+              class="id_sundpol id_kina" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -134.806351,-192.754456 L -618.067627,-671.622864"
+              class="id_sundpol id_ssi" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -134.806351,-192.754456 L -477.389679,-536.327454"
+              class="id_sundpol id_influenza" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="22.0"
+              d="M -134.806351,-192.754456 L -321.949585,-461.894867"
+              class="id_sundpol id_sundhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -134.806351,-192.754456 L -414.235596,-704.846558"
+              class="id_sundpol id_italien" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -134.806351,-192.754456 L -95.090309,-628.088257"
+              class="id_sundpol id_beredskab" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -134.806351,-192.754456 L -541.179016,-771.316956"
+              class="id_sundpol id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L -976.542358,-541.443420"
+              class="id_sundpol id_iran" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -134.806351,-192.754456 L 65.909088,-98.339417"
+              class="id_sundpol id_sundhedforalle" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -134.806351,-192.754456 L -691.713684,-733.987488"
+              class="id_sundpol id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -134.806351,-192.754456 L 163.366455,-119.021469"
+              class="id_sundpol id_dontpanic" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -134.806351,-192.754456 L -155.562134,-704.730469"
+              class="id_sundpol id_virus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -134.806351,-192.754456 L -78.130737,-689.681335"
+              class="id_sundpol id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L -1187.721313,486.740997"
+              class="id_sundpol id_kommunikation" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -134.806351,-192.754456 L -692.682068,-231.709213"
+              class="id_sundpol id_sst" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -134.806351,-192.754456 L 22.863480,-191.980453"
+              class="id_sundpol id_diabetes" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -134.806351,-192.754456 L -503.742279,-680.592102"
+              class="id_sundpol id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -134.806351,-192.754456 L 29.262594,-235.543640"
+              class="id_sundpol id_patientsikkerhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L -873.772766,-1198.237793"
+              class="id_sundpol id_tv2" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -134.806351,-192.754456 L 195.139832,22.389900"
+              class="id_sundpol id_dksundhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L -284.574707,-1247.180908"
+              class="id_sundpol id_aarhus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -134.806351,-192.754456 L -279.460297,-860.615662"
+              class="id_sundpol id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -134.806351,-192.754456 L -568.265076,-851.187134"
+              class="id_sundpol id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -134.806351,-192.754456 L -489.894989,-393.465515"
+              class="id_sundpol id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -134.806351,-192.754456 L -860.602173,-844.521606"
+              class="id_sundpol id_tyskland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -134.806351,-192.754456 L -612.037415,-316.879333"
+              class="id_sundpol id_ældre" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -134.806351,-192.754456 L -157.317245,-618.152649"
+              class="id_sundpol id_læger" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L 1045.580933,1211.826050"
+              class="id_sundpol id_færøerne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -134.806351,-192.754456 L -65.489731,-451.202698"
+              class="id_sundpol id_forskning" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -134.806351,-192.754456 L 756.442566,-655.296509"
+              class="id_sundpol id_sundfornuft" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -134.806351,-192.754456 L 340.792175,-298.089783"
+              class="id_sundpol id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L 715.867859,-688.590942"
+              class="id_sundpol id_brydkurven" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -134.806351,-192.754456 L 202.479538,-252.349777"
+              class="id_sundpol id_poldk" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L -120.891556,-889.765808"
+              class="id_sundpol id_smittefare" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L -1063.609497,-1.725284"
+              class="id_sundpol id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -134.806351,-192.754456 L -1118.509155,-914.327759"
+              class="id_sundpol id_tak" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L 772.601685,1045.302490"
+              class="id_sundpol id_håndsprit" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -134.806351,-192.754456 L -141.575470,-1090.856689"
+              class="id_sundpol id_italy" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -134.806351,-192.754456 L -81.096336,390.952759"
+              class="id_sundpol id_dkaid" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -134.806351,-192.754456 L -542.934326,-97.653030"
+              class="id_sundpol id_ulighed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.806351,-192.754456 L 377.561920,-407.834534"
+              class="id_sundpol id_værnemidler" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -706.404419,-483.944519"
+              class="id_dksund id_kina" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -186.570038,42.096760 L -321.949585,-461.894867"
+              class="id_dksund id_sundhed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -542.934326,-97.653030"
+              class="id_dksund id_ulighed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L 163.366455,-119.021469"
+              class="id_dksund id_dontpanic" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -947.417480,-1303.531006"
+              class="id_dksund id_dr1" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -186.570038,42.096760 L -81.096336,390.952759"
+              class="id_dksund id_dkaid" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -1187.721313,486.740997"
+              class="id_dksund id_kommunikation" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -95.090309,-628.088257"
+              class="id_dksund id_beredskab" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L 340.792175,-298.089783"
+              class="id_dksund id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -186.570038,42.096760 L -489.894989,-393.465515"
+              class="id_dksund id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -186.570038,42.096760 L 65.909088,-98.339417"
+              class="id_dksund id_sundhedforalle" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -78.130737,-689.681335"
+              class="id_dksund id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -186.570038,42.096760 L 29.262594,-235.543640"
+              class="id_dksund id_patientsikkerhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -186.570038,42.096760 L -692.682068,-231.709213"
+              class="id_dksund id_sst" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.570038,42.096760 L -65.489731,-451.202698"
+              class="id_dksund id_forskning" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -706.404419,-483.944519 L -976.542358,-541.443420"
+              class="id_kina id_iran" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -706.404419,-483.944519 L -618.067627,-671.622864"
+              class="id_kina id_ssi" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -477.389679,-536.327454"
+              class="id_kina id_influenza" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -706.404419,-483.944519 L -321.949585,-461.894867"
+              class="id_kina id_sundhed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -414.235596,-704.846558"
+              class="id_kina id_italien" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -95.090309,-628.088257"
+              class="id_kina id_beredskab" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -706.404419,-483.944519 L -541.179016,-771.316956"
+              class="id_kina id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -706.404419,-483.944519 L -691.713684,-733.987488"
+              class="id_kina id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -155.562134,-704.730469"
+              class="id_kina id_virus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -706.404419,-483.944519 L -40.814869,-1197.103638"
+              class="id_kina id_china" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -706.404419,-483.944519 L -503.742279,-680.592102"
+              class="id_kina id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -489.894989,-393.465515"
+              class="id_kina id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -568.265076,-851.187134"
+              class="id_kina id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -706.404419,-483.944519 L -1063.609497,-1.725284"
+              class="id_kina id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -706.404419,-483.944519 L -1030.379028,253.627594"
+              class="id_kina id_politik" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 195.139832,22.389900 L 163.366455,-119.021469"
+              class="id_dksundhed id_dontpanic" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 195.139832,22.389900 L 340.792175,-298.089783"
+              class="id_dksundhed id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 195.139832,22.389900 L -81.096336,390.952759"
+              class="id_dksundhed id_dkaid" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -618.067627,-671.622864"
+              class="id_iran id_ssi" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -321.949585,-461.894867"
+              class="id_iran id_sundhed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -414.235596,-704.846558"
+              class="id_iran id_italien" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -691.713684,-733.987488"
+              class="id_iran id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -503.742279,-680.592102"
+              class="id_iran id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -1063.609497,-1.725284"
+              class="id_iran id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -976.542358,-541.443420 L -1768.246216,-779.969482"
+              class="id_iran id_flygtninge" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -618.067627,-671.622864 L -477.389679,-536.327454"
+              class="id_ssi id_influenza" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -618.067627,-671.622864 L -321.949585,-461.894867"
+              class="id_ssi id_sundhed" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -618.067627,-671.622864 L -414.235596,-704.846558"
+              class="id_ssi id_italien" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -95.090309,-628.088257"
+              class="id_ssi id_beredskab" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -618.067627,-671.622864 L -541.179016,-771.316956"
+              class="id_ssi id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -618.067627,-671.622864 L -691.713684,-733.987488"
+              class="id_ssi id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -618.067627,-671.622864 L -503.742279,-680.592102"
+              class="id_ssi id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -873.772766,-1198.237793"
+              class="id_ssi id_tv2" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -284.574707,-1247.180908"
+              class="id_ssi id_aarhus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -279.460297,-860.615662"
+              class="id_ssi id_karantæne" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -618.067627,-671.622864 L -568.265076,-851.187134"
+              class="id_ssi id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -618.067627,-671.622864 L -489.894989,-393.465515"
+              class="id_ssi id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -618.067627,-671.622864 L 1045.580933,1211.826050"
+              class="id_ssi id_færøerne" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -618.067627,-671.622864 L -612.037415,-316.879333"
+              class="id_ssi id_ældre" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -1063.609497,-1.725284"
+              class="id_ssi id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -860.602173,-844.521606"
+              class="id_ssi id_tyskland" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -157.317245,-618.152649"
+              class="id_ssi id_læger" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.067627,-671.622864 L -65.489731,-451.202698"
+              class="id_ssi id_forskning" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -477.389679,-536.327454 L -321.949585,-461.894867"
+              class="id_influenza id_sundhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -477.389679,-536.327454 L -155.562134,-704.730469"
+              class="id_influenza id_virus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -477.389679,-536.327454 L -157.317245,-618.152649"
+              class="id_influenza id_læger" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -477.389679,-536.327454 L -1030.379028,253.627594"
+              class="id_influenza id_politik" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -321.949585,-461.894867 L -414.235596,-704.846558"
+              class="id_sundhed id_italien" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -95.090309,-628.088257"
+              class="id_sundhed id_beredskab" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -321.949585,-461.894867 L -541.179016,-771.316956"
+              class="id_sundhed id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -321.949585,-461.894867 L -691.713684,-733.987488"
+              class="id_sundhed id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -321.949585,-461.894867 L -503.742279,-680.592102"
+              class="id_sundhed id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -321.949585,-461.894867 L -873.772766,-1198.237793"
+              class="id_sundhed id_tv2" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -321.949585,-461.894867 L -155.562134,-704.730469"
+              class="id_sundhed id_virus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -284.574707,-1247.180908"
+              class="id_sundhed id_aarhus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -321.949585,-461.894867 L -279.460297,-860.615662"
+              class="id_sundhed id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -321.949585,-461.894867 L -568.265076,-851.187134"
+              class="id_sundhed id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -321.949585,-461.894867 L 65.909088,-98.339417"
+              class="id_sundhed id_sundhedforalle" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -321.949585,-461.894867 L -489.894989,-393.465515"
+              class="id_sundhed id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -78.130737,-689.681335"
+              class="id_sundhed id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -321.949585,-461.894867 L -120.891556,-889.765808"
+              class="id_sundhed id_smittefare" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -321.949585,-461.894867 L 1045.580933,1211.826050"
+              class="id_sundhed id_færøerne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -321.949585,-461.894867 L -612.037415,-316.879333"
+              class="id_sundhed id_ældre" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -1063.609497,-1.725284"
+              class="id_sundhed id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -860.602173,-844.521606"
+              class="id_sundhed id_tyskland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -157.317245,-618.152649"
+              class="id_sundhed id_læger" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -321.949585,-461.894867 L -65.489731,-451.202698"
+              class="id_sundhed id_forskning" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -1030.379028,253.627594"
+              class="id_sundhed id_politik" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L 340.792175,-298.089783"
+              class="id_sundhed id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.949585,-461.894867 L -542.934326,-97.653030"
+              class="id_sundhed id_ulighed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.235596,-704.846558 L -873.772766,-1198.237793"
+              class="id_italien id_tv2" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -414.235596,-704.846558 L -541.179016,-771.316956"
+              class="id_italien id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -414.235596,-704.846558 L -503.742279,-680.592102"
+              class="id_italien id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.235596,-704.846558 L -860.602173,-844.521606"
+              class="id_italien id_tyskland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -414.235596,-704.846558 L -81.096336,390.952759"
+              class="id_italien id_dkaid" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.235596,-704.846558 L -141.575470,-1090.856689"
+              class="id_italien id_italy" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.090309,-628.088257 L -541.179016,-771.316956"
+              class="id_beredskab id_forebyggelse" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -95.090309,-628.088257 L -78.130737,-689.681335"
+              class="id_beredskab id_smitte" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -95.090309,-628.088257 L -155.562134,-704.730469"
+              class="id_beredskab id_virus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -95.090309,-628.088257 L -157.317245,-618.152649"
+              class="id_beredskab id_læger" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.090309,-628.088257 L 340.792175,-298.089783"
+              class="id_beredskab id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -541.179016,-771.316956 L -691.713684,-733.987488"
+              class="id_forebyggelse id_sundhedsstyrelsen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -541.179016,-771.316956 L -503.742279,-680.592102"
+              class="id_forebyggelse id_rejser" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -120.891556,-889.765808"
+              class="id_forebyggelse id_smittefare" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -78.130737,-689.681335"
+              class="id_forebyggelse id_smitte" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -873.772766,-1198.237793"
+              class="id_forebyggelse id_tv2" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -541.179016,-771.316956 L -279.460297,-860.615662"
+              class="id_forebyggelse id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -541.179016,-771.316956 L -568.265076,-851.187134"
+              class="id_forebyggelse id_who" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -489.894989,-393.465515"
+              class="id_forebyggelse id_børn" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -612.037415,-316.879333"
+              class="id_forebyggelse id_ældre" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -284.574707,-1247.180908"
+              class="id_forebyggelse id_aarhus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -541.179016,-771.316956 L -860.602173,-844.521606"
+              class="id_forebyggelse id_tyskland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -65.489731,-451.202698 L -155.562134,-704.730469"
+              class="id_forskning id_virus" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -65.489731,-451.202698 L -157.317245,-618.152649"
+              class="id_forskning id_læger" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.489731,-451.202698 L -78.130737,-689.681335"
+              class="id_forskning id_smitte" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.489731,-451.202698 L -279.460297,-860.615662"
+              class="id_forskning id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.489731,-451.202698 L 65.909088,-98.339417"
+              class="id_forskning id_sundhedforalle" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -155.562134,-704.730469 L -157.317245,-618.152649"
+              class="id_virus id_læger" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -155.562134,-704.730469 L -78.130737,-689.681335"
+              class="id_virus id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -1187.721313,486.740997"
+              class="id_virus id_kommunikation" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -692.682068,-231.709213"
+              class="id_virus id_sst" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -503.742279,-680.592102"
+              class="id_virus id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -40.814869,-1197.103638"
+              class="id_virus id_china" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -1030.379028,253.627594"
+              class="id_virus id_politik" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -81.096336,390.952759"
+              class="id_virus id_dkaid" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -155.562134,-704.730469 L -279.460297,-860.615662"
+              class="id_virus id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L 23.920149,-1806.191040"
+              class="id_virus id_mad" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L -284.574707,-1247.180908"
+              class="id_virus id_aarhus" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -155.562134,-704.730469 L -568.265076,-851.187134"
+              class="id_virus id_who" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.562134,-704.730469 L 772.601685,1045.302490"
+              class="id_virus id_håndsprit" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -157.317245,-618.152649 L -78.130737,-689.681335"
+              class="id_læger id_smitte" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.909088,-98.339417 L -612.037415,-316.879333"
+              class="id_sundhedforalle id_ældre" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.909088,-98.339417 L 340.792175,-298.089783"
+              class="id_sundhedforalle id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.909088,-98.339417 L 29.262594,-235.543640"
+              class="id_sundhedforalle id_patientsikkerhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.909088,-98.339417 L 1045.580933,1211.826050"
+              class="id_sundhedforalle id_færøerne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -691.713684,-733.987488 L -503.742279,-680.592102"
+              class="id_sundhedsstyrelsen id_rejser" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -691.713684,-733.987488 L -279.460297,-860.615662"
+              class="id_sundhedsstyrelsen id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -691.713684,-733.987488 L -489.894989,-393.465515"
+              class="id_sundhedsstyrelsen id_børn" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -691.713684,-733.987488 L -568.265076,-851.187134"
+              class="id_sundhedsstyrelsen id_who" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -691.713684,-733.987488 L -947.417480,-1303.531006"
+              class="id_sundhedsstyrelsen id_dr1" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -78.130737,-689.681335 L -1187.721313,486.740997"
+              class="id_smitte id_kommunikation" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -78.130737,-689.681335 L -692.682068,-231.709213"
+              class="id_smitte id_sst" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -78.130737,-689.681335 L -120.891556,-889.765808"
+              class="id_smitte id_smittefare" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1187.721313,486.740997 L -692.682068,-231.709213"
+              class="id_kommunikation id_sst" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1187.721313,486.740997 L -489.894989,-393.465515"
+              class="id_kommunikation id_børn" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1187.721313,486.740997 L -1030.379028,253.627594"
+              class="id_kommunikation id_politik" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -873.772766,-1198.237793 L -503.742279,-680.592102"
+              class="id_tv2 id_rejser" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -873.772766,-1198.237793 L -947.417480,-1303.531006"
+              class="id_tv2 id_dr1" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -503.742279,-680.592102 L -279.460297,-860.615662"
+              class="id_rejser id_karantæne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -503.742279,-680.592102 L -1063.609497,-1.725284"
+              class="id_rejser id_usa" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -503.742279,-680.592102 L -860.602173,-844.521606"
+              class="id_rejser id_tyskland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 29.262594,-235.543640 L -1118.509155,-914.327759"
+              class="id_patientsikkerhed id_tak" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -40.814869,-1197.103638 L -141.575470,-1090.856689"
+              class="id_china id_italy" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -284.574707,-1247.180908 L 23.920149,-1806.191040"
+              class="id_aarhus id_mad" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1063.609497,-1.725284 L -489.894989,-393.465515"
+              class="id_usa id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.265076,-851.187134 L -489.894989,-393.465515"
+              class="id_who id_børn" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.265076,-851.187134 L 772.601685,1045.302490"
+              class="id_who id_håndsprit" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.894989,-393.465515 L -947.417480,-1303.531006"
+              class="id_børn id_dr1" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.894989,-393.465515 L -1030.379028,253.627594"
+              class="id_børn id_politik" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -860.602173,-844.521606 L -849.205627,-805.511963"
+              class="id_tyskland id_grænselukning" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.096336,390.952759 L 1166.137085,1452.674438"
+              class="id_dkaid id_folkekirken" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 202.479538,-252.349777 L 340.792175,-298.089783"
+              class="id_poldk id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1166.137085,1452.674438 L 1211.850830,1370.683105"
+              class="id_folkekirken id_grønland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1166.137085,1452.674438 L 1045.580933,1211.826050"
+              class="id_folkekirken id_færøerne" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -542.934326,-97.653030 L 340.792175,-298.089783"
+              class="id_ulighed id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1045.580933,1211.826050 L 1211.850830,1370.683105"
+              class="id_færøerne id_grønland" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 756.442566,-655.296509 L 340.792175,-298.089783"
+              class="id_sundfornuft id_samfundssind" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 756.442566,-655.296509 L 715.867859,-688.590942"
+              class="id_sundfornuft id_brydkurven" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 340.792175,-298.089783 L 715.867859,-688.590942"
+              class="id_samfundssind id_brydkurven" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 340.792175,-298.089783 L -1118.509155,-914.327759"
+              class="id_samfundssind id_tak" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 340.792175,-298.089783 L 377.561920,-407.834534"
+              class="id_samfundssind id_værnemidler" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.792175,-298.089783 L 393.094879,-446.682983"
+              class="id_samfundssind id_medicinskudstyr" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 377.561920,-407.834534 L 393.094879,-446.682983"
+              class="id_værnemidler id_medicinskudstyr" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.5793104" cx="-1797.8899"
+                class="id_presselogen" cy="-483.00006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="68.69655" cx="-134.80635"
+                class="id_sundpol" cy="-192.75446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="28.434484" cx="-186.57004"
+                class="id_dksund" cy="42.09676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.793103" cx="-706.4044"
+                class="id_kina" cy="-483.94452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.751724" cx="195.13983"
+                class="id_dksundhed" cy="22.3899" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.737931" cx="-976.54236"
+                class="id_iran" cy="-541.4434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="14.096552" cx="-618.0676"
+                class="id_ssi" cy="-671.62286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.593103" cx="-477.38968"
+                class="id_influenza" cy="-536.32745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="26.406897" cx="-321.9496"
+                class="id_sundhed" cy="-461.89487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.634483" cx="-414.2356"
+                class="id_italien" cy="-704.84656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.344828" cx="-95.09031"
+                class="id_beredskab" cy="-628.08826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.5034485" cx="-541.179"
+                class="id_forebyggelse" cy="-771.31696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.068966" cx="-65.48973"
+                class="id_forskning" cy="-451.2027" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="16.413792" cx="-155.56213"
+                class="id_virus" cy="-704.73047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.186207" cx="-157.31725"
+                class="id_læger" cy="-618.15265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.896551" cx="65.90909"
+                class="id_sundhedforalle" cy="-98.33942" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.765517" cx="-691.7137"
+                class="id_sundhedsstyrelsen" cy="-733.9875" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.724138" cx="163.36646"
+                class="id_dontpanic" cy="-119.02147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.344828" cx="-78.13074"
+                class="id_smitte" cy="-689.68134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.027586" cx="-1187.7213"
+                class="id_kommunikation" cy="486.741" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.303449" cx="-692.68207"
+                class="id_sst" cy="-231.70921" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.462069" cx="-873.77277"
+                class="id_tv2" cy="-1198.2378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="22.86348"
+                class="id_diabetes" cy="-191.98045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="11.77931" cx="-503.74228"
+                class="id_rejser" cy="-680.5921" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.462069" cx="29.262594"
+                class="id_patientsikkerhed" cy="-235.54364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.593103" cx="-120.891556"
+                class="id_smittefare" cy="-889.7658" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="-40.81487"
+                class="id_china" cy="-1197.1036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.0" cx="-2004.5382"
+                class="id_besserwisserne" cy="-533.16815" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="-284.5747"
+                class="id_aarhus" cy="-1247.1809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.896551" cx="-1063.6095"
+                class="id_usa" cy="-1.7252843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.462069" cx="-279.4603"
+                class="id_karantæne" cy="-860.61566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.041379" cx="-568.2651"
+                class="id_who" cy="-851.18713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="12.358622" cx="-489.895"
+                class="id_børn" cy="-393.4655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.882759" cx="-860.6022"
+                class="id_tyskland" cy="-844.5216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="10.4758625" cx="-81.09634"
+                class="id_dkaid" cy="390.95276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.737931" cx="-612.0374"
+                class="id_ældre" cy="-316.87933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.158621" cx="202.47954"
+                class="id_poldk" cy="-252.34978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.724138" cx="-947.4175"
+                class="id_dr1" cy="-1303.531" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.4344826" cx="1166.1371"
+                class="id_folkekirken" cy="1452.6744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.882759" cx="-1030.379"
+                class="id_politik" cy="253.6276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.303449" cx="-542.9343"
+                class="id_ulighed" cy="-97.65303" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.593103" cx="1045.5809"
+                class="id_færøerne" cy="1211.826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.303449" cx="756.44257"
+                class="id_sundfornuft" cy="-655.2965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="16.848276" cx="340.79218"
+                class="id_samfundssind" cy="-298.08978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.724138" cx="715.86786"
+                class="id_brydkurven" cy="-688.59094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.289655" cx="23.920149"
+                class="id_mad" cy="-1806.191" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.8689656" cx="772.6017"
+                class="id_håndsprit" cy="1045.3025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.013793" cx="-1118.5092"
+                class="id_tak" cy="-914.32776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.303449" cx="-849.2056"
+                class="id_grænselukning" cy="-805.51196" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.4344826" cx="-141.57547"
+                class="id_italy" cy="-1090.8567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.4344826" cx="1211.8508"
+                class="id_grønland" cy="1370.6831" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.448276" cx="377.56192"
+                class="id_værnemidler" cy="-407.83453" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.4344826" cx="393.09488"
+                class="id_medicinskudstyr" cy="-446.68298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.0" cx="-1768.2462"
+                class="id_flygtninge" cy="-779.9695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="35" x="-1797.8899" y="-474.53204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_presselogen">
+            presselogen
+        </text>
+        <text font-size="168" x="-134.80635" y="-152.10797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundpol">
+            sundpol
+        </text>
+        <text font-size="111" x="-186.57004" y="63.577717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dksund">
+            dksund
+        </text>
+        <text font-size="57" x="-706.4044" y="-472.91376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_kina">
+            kina
+        </text>
+        <text font-size="45" x="195.13983" y="31.098396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dksundhed">
+            dksundhed
+        </text>
+        <text font-size="40" x="-976.54236" y="-533.7025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_iran">
+            iran
+        </text>
+        <text font-size="62" x="-618.0676" y="-659.6245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ssi">
+            ssi
+        </text>
+        <text font-size="40" x="-477.38968" y="-528.58655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_influenza">
+            influenza
+        </text>
+        <text font-size="105" x="-321.9496" y="-441.57504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundhed">
+            sundhed
+        </text>
+        <text font-size="52" x="-414.2356" y="-694.7834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_italien">
+            italien
+        </text>
+        <text font-size="51" x="-95.09031" y="-618.2186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_beredskab">
+            beredskab
+        </text>
+        <text font-size="56" x="-541.179" y="-757.7681" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_forebyggelse">
+            forebyggelse
+        </text>
+        <text font-size="54" x="-65.48973" y="-438.13776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_forskning">
+            forskning
+        </text>
+        <text font-size="71" x="-155.56213" y="-690.9904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_virus">
+            virus
+        </text>
+        <text font-size="46" x="-157.31725" y="-607.02325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_læger">
+            læger
+        </text>
+        <text font-size="45" x="65.90909" y="-89.63092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundhedforalle">
+            sundhedforalle
+        </text>
+        <text font-size="49" x="-691.7137" y="-722.13226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundhedsstyrelsen">
+            sundhedsstyrelsen
+        </text>
+        <text font-size="36" x="163.36646" y="-110.31151" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dontpanic">
+            dontpanic
+        </text>
+        <text font-size="51" x="-78.13074" y="-679.8117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smitte">
+            smitte
+        </text>
+        <text font-size="42" x="-1187.7213" y="494.86893" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_kommunikation">
+            kommunikation
+        </text>
+        <text font-size="38" x="-692.68207" y="-224.90274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sst">
+            sst
+        </text>
+        <text font-size="43" x="-873.77277" y="-1190.2593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_tv2">
+            tv2
+        </text>
+        <text font-size="37" x="22.86348" y="-184.82013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_diabetes">
+            diabetes
+        </text>
+        <text font-size="53" x="-503.74228" y="-667.7691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_rejser">
+            rejser
+        </text>
+        <text font-size="43" x="29.262594" y="-225.14008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_patientsikkerhed">
+            patientsikkerhed
+        </text>
+        <text font-size="40" x="-120.891556" y="-882.0249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_smittefare">
+            smittefare
+        </text>
+        <text font-size="37" x="-40.81487" y="-1189.9434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_china">
+            china
+        </text>
+        <text font-size="33" x="-2004.5382" y="-526.7819" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_besserwisserne">
+            besserwisserne
+        </text>
+        <text font-size="37" x="-284.5747" y="-1240.0206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_aarhus">
+            aarhus
+        </text>
+        <text font-size="45" x="-1063.6095" y="4.7383385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_usa">
+            usa
+        </text>
+        <text font-size="43" x="-279.4603" y="-852.2942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_karantæne">
+            karantæne
+        </text>
+        <text font-size="46" x="-568.2651" y="-842.2851" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_who">
+            who
+        </text>
+        <text font-size="55" x="-489.895" y="-382.38763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_børn">
+            børn
+        </text>
+        <text font-size="41" x="-860.6022" y="-834.6019" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_tyskland">
+            tyskland
+        </text>
+        <text font-size="48" x="-81.09634" y="400.24182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dkaid">
+            dkaid
+        </text>
+        <text font-size="40" x="-612.0374" y="-309.13846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ældre">
+            ældre
+        </text>
+        <text font-size="38" x="202.47954" y="-243.15593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_poldk">
+            poldk
+        </text>
+        <text font-size="36" x="-947.4175" y="-1296.5642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_dr1">
+            dr1
+        </text>
+        <text font-size="35" x="1166.1371" y="1459.4478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_folkekirken">
+            folkekirken
+        </text>
+        <text font-size="41" x="-1030.379" y="263.54727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_politik">
+            politik
+        </text>
+        <text font-size="38" x="-542.9343" y="-88.45918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_ulighed">
+            ulighed
+        </text>
+        <text font-size="40" x="1045.5809" y="1219.8827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_færøerne">
+            færøerne
+        </text>
+        <text font-size="38" x="756.44257" y="-647.9427" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_sundfornuft">
+            sundfornuft
+        </text>
+        <text font-size="73" x="340.79218" y="-283.96268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_samfundssind">
+            samfundssind
+        </text>
+        <text font-size="36" x="715.86786" y="-679.881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_brydkurven">
+            brydkurven
+        </text>
+        <text font-size="34" x="23.920149" y="-1799.6113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_mad">
+            mad
+        </text>
+        <text font-size="37" x="772.6017" y="1055.3474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_håndsprit">
+            håndsprit
+        </text>
+        <text font-size="37" x="-1118.5092" y="-907.1674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_tak">
+            tak
+        </text>
+        <text font-size="38" x="-849.2056" y="-796.3181" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_grænselukning">
+            grænselukning
+        </text>
+        <text font-size="35" x="-141.57547" y="-1082.3887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_italy">
+            italy
+        </text>
+        <text font-size="35" x="1211.8508" y="1379.1511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_grønland">
+            grønland
+        </text>
+        <text font-size="39" x="377.56192" y="-400.28717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_værnemidler">
+            værnemidler
+        </text>
+        <text font-size="35" x="393.09488" y="-438.21497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_medicinskudstyr">
+            medicinskudstyr
+        </text>
+        <text font-size="33" x="-1768.2462" y="-771.98535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="DejaVu Sans" class="id_flygtninge">
+            flygtninge
+        </text>
+    </g>
+</svg>
