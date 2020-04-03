@@ -1,804 +1,1431 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="1984.0"
-     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
-     contentStyleType="text/css"
-     viewBox="-1192.000000 -545.000000 1984.000000 1820.000000" height="1820.0"
-     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
-     version="1.1">
-    <g id="edges">
-        <path fill="none" stroke-width="42.0"
-              d="M -161.962952,756.345215 L -288.705322,852.230530"
-              class="id_dkfinans id_dkøko" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="8.0"
-              d="M -161.962952,756.345215 L -188.408249,946.411682"
-              class="id_dkfinans id_aktier" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="47.0"
-              d="M -161.962952,756.345215 L -382.657593,617.066101"
-              class="id_dkfinans id_dkbiz" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -161.962952,756.345215 L -146.633911,250.618484"
-              class="id_dkfinans id_dkgreen" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -161.962952,756.345215 L -200.871246,1081.681763"
-              class="id_dkfinans id_podcast" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -161.962952,756.345215 L -355.864624,1196.184204"
-              class="id_dkfinans id_erhverv" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -161.962952,756.345215 L 12.287477,763.604919"
-              class="id_dkfinans id_dkoeko" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -161.962952,756.345215 L -472.570740,884.426086"
-              class="id_dkfinans id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -161.962952,756.345215 L -1027.207886,420.631104"
-              class="id_dkfinans id_dkpolitik" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -161.962952,756.345215 L -89.786491,962.605103"
-              class="id_dkfinans id_dkbolig" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="7.0"
-              d="M -288.705322,852.230530 L -188.408249,946.411682"
-              class="id_dkøko id_aktier" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="79.0"
-              d="M -288.705322,852.230530 L -382.657593,617.066101"
-              class="id_dkøko id_dkbiz" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -288.705322,852.230530 L -530.181946,1067.817993"
-              class="id_dkøko id_investering" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -288.705322,852.230530 L -89.786491,962.605103"
-              class="id_dkøko id_dkbolig" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -288.705322,852.230530 L -768.972107,559.855713"
-              class="id_dkøko id_ok20" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -288.705322,852.230530 L -547.491333,762.986084"
-              class="id_dkøko id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -413.171417,1104.029297"
-              class="id_dkøko id_dkturisme" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="6.0"
-              d="M -288.705322,852.230530 L -146.633911,250.618484"
-              class="id_dkøko id_dkgreen" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -472.570740,884.426086"
-              class="id_dkøko id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -587.245544,117.121216"
-              class="id_dkøko id_kompoldk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -1027.207886,420.631104"
-              class="id_dkøko id_dkpolitik" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -288.705322,852.230530 L -355.864624,1196.184204"
-              class="id_dkøko id_erhverv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -288.705322,852.230530 L -425.032532,835.063843"
-              class="id_dkøko id_dkarbejde" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -701.903564,951.196777"
-              class="id_dkøko id_byggeri" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -288.705322,852.230530 L -680.404968,515.387146"
-              class="id_dkøko id_arbejde" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L 12.287477,763.604919"
-              class="id_dkøko id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -753.080017,920.220947"
-              class="id_dkøko id_arbejdsmiljø" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -865.664001,838.198669"
-              class="id_dkøko id_ledelse" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -288.705322,852.230530 L -252.254105,225.536621"
-              class="id_dkøko id_dkenergi" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -188.408249,946.411682 L -382.657593,617.066101"
-              class="id_aktier id_dkbiz" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -188.408249,946.411682 L -530.181946,1067.817993"
-              class="id_aktier id_investering" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -188.408249,946.411682 L -355.864624,1196.184204"
-              class="id_aktier id_erhverv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="18.0"
-              d="M -382.657593,617.066101 L -146.633911,250.618484"
-              class="id_dkbiz id_dkgreen" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -382.657593,617.066101 L -200.871246,1081.681763"
-              class="id_dkbiz id_podcast" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="10.0"
-              d="M -382.657593,617.066101 L 12.287477,763.604919"
-              class="id_dkbiz id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="21.0"
-              d="M -382.657593,617.066101 L -547.491333,762.986084"
-              class="id_dkbiz id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -382.657593,617.066101 L -1027.207886,420.631104"
-              class="id_dkbiz id_dkpolitik" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -382.657593,617.066101 L -768.972107,559.855713"
-              class="id_dkbiz id_ok20" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -382.657593,617.066101 L -684.043457,411.647675"
-              class="id_dkbiz id_luftenshelte" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="26.0"
-              d="M -382.657593,617.066101 L -680.404968,515.387146"
-              class="id_dkbiz id_arbejde" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="9.0"
-              d="M -382.657593,617.066101 L -565.346252,362.543823"
-              class="id_dkbiz id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -382.657593,617.066101 L -413.171417,1104.029297"
-              class="id_dkbiz id_dkturisme" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="10.0"
-              d="M -382.657593,617.066101 L -478.907715,801.047485"
-              class="id_dkbiz id_smvpol" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -382.657593,617.066101 L 23.382952,977.629150"
-              class="id_dkbiz id_crowdfunding" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="10.0"
-              d="M -382.657593,617.066101 L -472.570740,884.426086"
-              class="id_dkbiz id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -382.657593,617.066101 L -666.246155,731.566772"
-              class="id_dkbiz id_dkledelse" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -382.657593,617.066101 L -622.734680,660.688538"
-              class="id_dkbiz id_selvstændige" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -382.657593,617.066101 L -659.138977,843.634277"
-              class="id_dkbiz id_finansdk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="13.0"
-              d="M -382.657593,617.066101 L -265.185638,356.106476"
-              class="id_dkbiz id_dkfood" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="7.0"
-              d="M -382.657593,617.066101 L -584.787354,703.428345"
-              class="id_dkbiz id_dagrofa" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -382.657593,617.066101 L -530.181946,1067.817993"
-              class="id_dkbiz id_investering" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="14.0"
-              d="M -382.657593,617.066101 L -587.245544,117.121216"
-              class="id_dkbiz id_kompoldk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -382.657593,617.066101 L -530.726807,836.231750"
-              class="id_dkbiz id_blaadk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="6.0"
-              d="M -382.657593,617.066101 L -865.664001,838.198669"
-              class="id_dkbiz id_ledelse" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -382.657593,617.066101 L -355.864624,1196.184204"
-              class="id_dkbiz id_erhverv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -382.657593,617.066101 L -638.338684,424.641998"
-              class="id_dkbiz id_luftfart" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="6.0"
-              d="M -382.657593,617.066101 L -425.032532,835.063843"
-              class="id_dkbiz id_dkarbejde" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -382.657593,617.066101 L -732.645752,650.960083"
-              class="id_dkbiz id_dagpenge" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -382.657593,617.066101 L -701.903564,951.196777"
-              class="id_dkbiz id_byggeri" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -382.657593,617.066101 L -753.080017,920.220947"
-              class="id_dkbiz id_arbejdsmiljø" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -382.657593,617.066101 L -94.265686,359.299194"
-              class="id_dkbiz id_dkklima" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -382.657593,617.066101 L -777.222107,-535.167236"
-              class="id_dkbiz id_solidaritet" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -89.786491,962.605103 L 12.287477,763.604919"
-              class="id_dkbolig id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="9.0"
-              d="M -146.633911,250.618484 L -24.621557,147.444427"
-              class="id_dkgreen id_klima" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -146.633911,250.618484 L -99.124039,112.048286"
-              class="id_dkgreen id_klimakrise" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="8.0"
-              d="M -146.633911,250.618484 L -265.185638,356.106476"
-              class="id_dkgreen id_dkfood" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="8.0"
-              d="M -146.633911,250.618484 L -94.265686,359.299194"
-              class="id_dkgreen id_dkklima" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="7.0"
-              d="M -146.633911,250.618484 L -565.346252,362.543823"
-              class="id_dkgreen id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="15.0"
-              d="M -146.633911,250.618484 L -252.254105,225.536621"
-              class="id_dkgreen id_dkenergi" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -146.633911,250.618484 L -659.138977,843.634277"
-              class="id_dkgreen id_finansdk" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -146.633911,250.618484 L 783.081299,-253.387756"
-              class="id_dkgreen id_dknatur" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -146.633911,250.618484 L -413.171417,1104.029297"
-              class="id_dkgreen id_dkturisme" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -146.633911,250.618484 L -701.903564,951.196777"
-              class="id_dkgreen id_byggeri" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -146.633911,250.618484 L 12.287477,763.604919"
-              class="id_dkgreen id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -587.245544,117.121216 L -547.491333,762.986084"
-              class="id_kompoldk id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -587.245544,117.121216 L -680.404968,515.387146"
-              class="id_kompoldk id_arbejde" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -587.245544,117.121216 L -660.910400,86.176361"
-              class="id_kompoldk id_godtbørneliv" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -587.245544,117.121216 L 12.287477,763.604919"
-              class="id_kompoldk id_dkoeko" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -587.245544,117.121216 L -565.346252,362.543823"
-              class="id_kompoldk id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -587.245544,117.121216 L -777.222107,-535.167236"
-              class="id_kompoldk id_solidaritet" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -587.245544,117.121216 L -753.080017,920.220947"
-              class="id_kompoldk id_arbejdsmiljø" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -587.245544,117.121216 L -1183.704102,666.656433"
-              class="id_kompoldk id_dendanskemodel" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -587.245544,117.121216 L -690.486694,15.801248"
-              class="id_kompoldk id_takdk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -200.871246,1081.681763 L 12.287477,763.604919"
-              class="id_podcast id_dkoeko" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -200.871246,1081.681763 L -680.404968,515.387146"
-              class="id_podcast id_arbejde" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -200.871246,1081.681763 L 441.347015,1267.656006"
-              class="id_podcast id_iværksætter" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 12.287477,763.604919 L -680.404968,515.387146"
-              class="id_dkoeko id_arbejde" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 12.287477,763.604919 L -565.346252,362.543823"
-              class="id_dkoeko id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -355.864624,1196.184204 L -472.570740,884.426086"
-              class="id_erhverv id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -355.864624,1196.184204 L -753.080017,920.220947"
-              class="id_erhverv id_arbejdsmiljø" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="6.0"
-              d="M -680.404968,515.387146 L -638.338684,424.641998"
-              class="id_arbejde id_luftfart" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="6.0"
-              d="M -680.404968,515.387146 L -684.043457,411.647675"
-              class="id_arbejde id_luftenshelte" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="10.0"
-              d="M -680.404968,515.387146 L -565.346252,362.543823"
-              class="id_arbejde id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -680.404968,515.387146 L -622.734680,660.688538"
-              class="id_arbejde id_selvstændige" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="13.0"
-              d="M -680.404968,515.387146 L -768.972107,559.855713"
-              class="id_arbejde id_ok20" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="6.0"
-              d="M -680.404968,515.387146 L -753.080017,920.220947"
-              class="id_arbejde id_arbejdsmiljø" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -680.404968,515.387146 L -1027.207886,420.631104"
-              class="id_arbejde id_dkpolitik" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -680.404968,515.387146 L -732.645752,650.960083"
-              class="id_arbejde id_dagpenge" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -680.404968,515.387146 L -666.246155,731.566772"
-              class="id_arbejde id_dkledelse" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -680.404968,515.387146 L -777.222107,-535.167236"
-              class="id_arbejde id_solidaritet" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -680.404968,515.387146 L -701.903564,951.196777"
-              class="id_arbejde id_byggeri" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -680.404968,515.387146 L -547.491333,762.986084"
-              class="id_arbejde id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -680.404968,515.387146 L -690.486694,15.801248"
-              class="id_arbejde id_takdk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -638.338684,424.641998 L -684.043457,411.647675"
-              class="id_luftfart id_luftenshelte" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -638.338684,424.641998 L -565.346252,362.543823"
-              class="id_luftfart id_dktrp" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -684.043457,411.647675 L -565.346252,362.543823"
-              class="id_luftenshelte id_dktrp" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -565.346252,362.543823 L -530.726807,836.231750"
-              class="id_dktrp id_blaadk" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -565.346252,362.543823 L -252.254105,225.536621"
-              class="id_dktrp id_dkenergi" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -565.346252,362.543823 L -547.491333,762.986084"
-              class="id_dktrp id_dkbyg" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -547.491333,762.986084 L -768.972107,559.855713"
-              class="id_dkbyg id_ok20" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="4.0"
-              d="M -547.491333,762.986084 L -701.903564,951.196777"
-              class="id_dkbyg id_byggeri" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -547.491333,762.986084 L -753.080017,920.220947"
-              class="id_dkbyg id_arbejdsmiljø" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -547.491333,762.986084 L -425.032532,835.063843"
-              class="id_dkbyg id_dkarbejde" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -1027.207886,420.631104 L -1183.704102,666.656433"
-              class="id_dkpolitik id_dendanskemodel" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -24.621557,147.444427 L -99.124039,112.048286"
-              class="id_klima id_klimakrise" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -24.621557,147.444427 L -252.254105,225.536621"
-              class="id_klima id_dkenergi" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -99.124039,112.048286 L -252.254105,225.536621"
-              class="id_klimakrise id_dkenergi" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -865.664001,838.198669 L -472.570740,884.426086"
-              class="id_ledelse id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -1183.704102,666.656433 L -768.972107,559.855713"
-              class="id_dendanskemodel id_ok20" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -768.972107,559.855713 L -777.222107,-535.167236"
-              class="id_ok20 id_solidaritet" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -94.265686,359.299194 L -659.138977,843.634277"
-              class="id_dkklima id_finansdk" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -94.265686,359.299194 L -252.254105,225.536621"
-              class="id_dkklima id_dkenergi" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -478.907715,801.047485 L -472.570740,884.426086"
-              class="id_smvpol id_smv" stroke-opacity="1.0" stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -478.907715,801.047485 L -622.734680,660.688538"
-              class="id_smvpol id_selvstændige" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 23.382952,977.629150 L 441.347015,1267.656006"
-              class="id_crowdfunding id_iværksætter" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -659.138977,843.634277 L -252.254105,225.536621"
-              class="id_finansdk id_dkenergi" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -753.080017,920.220947 L -701.903564,951.196777"
-              class="id_arbejdsmiljø id_byggeri" stroke-opacity="1.0"
-              stroke="#dc5ed7"/>
-    </g>
-    <g id="nodes">
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="27.855173" cx="-161.96295"
-                class="id_dkfinans" cy="756.3452" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="35.24138" cx="-288.70532"
-                class="id_dkøko" cy="852.2305" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.4758625" cx="-188.40825"
-                class="id_aktier" cy="946.4117" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="70.0" cx="-382.6576"
-                class="id_dkbiz" cy="617.0661" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.882759" cx="-530.18195"
-                class="id_investering" cy="1067.818" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-89.78649"
-                class="id_dkbolig" cy="962.6051" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="25.248276" cx="-146.63391"
-                class="id_dkgreen" cy="250.61848" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="16.124138" cx="-587.24554"
-                class="id_kompoldk" cy="117.121216" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-200.87125"
-                class="id_podcast" cy="1081.6818" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="12.213793" cx="12.2874775"
-                class="id_dkoeko" cy="763.6049" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.593103" cx="-355.86462"
-                class="id_erhverv" cy="1196.1842" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="23.800001" cx="-680.40497"
-                class="id_arbejde" cy="515.38715" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.606896" cx="-638.3387"
-                class="id_luftfart" cy="424.642" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.317242" cx="-684.04346"
-                class="id_luftenshelte" cy="411.64767" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="15.255172" cx="-565.34625"
-                class="id_dktrp" cy="362.54382" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="13.082758" cx="-547.49133"
-                class="id_dkbyg" cy="762.9861" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.606896" cx="-1027.2079"
-                class="id_dkpolitik" cy="420.6311" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.041379" cx="-24.621557"
-                class="id_klima" cy="147.44443" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-99.12404"
-                class="id_klimakrise" cy="112.04829" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.737931" cx="-865.664"
-                class="id_ledelse" cy="838.19867" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.4344826" cx="-1183.7041"
-                class="id_dendanskemodel" cy="666.65643" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.186207" cx="-768.9721"
-                class="id_ok20" cy="559.8557" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.4344826" cx="-413.17142"
-                class="id_dkturisme" cy="1104.0293" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.882759" cx="-94.265686"
-                class="id_dkklima" cy="359.2992" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.737931" cx="-478.9077"
-                class="id_smvpol" cy="801.0475" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.013793" cx="23.382952"
-                class="id_crowdfunding" cy="977.62915" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.172414" cx="-472.57074"
-                class="id_smv" cy="884.4261" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.4344826" cx="-666.24615"
-                class="id_dkledelse" cy="731.5668" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.013793" cx="-622.7347"
-                class="id_selvstændige" cy="660.68854" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.013793" cx="-659.139"
-                class="id_finansdk" cy="843.6343" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="11.4896555" cx="-265.18564"
-                class="id_dkfood" cy="356.10648" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.158621" cx="-584.78735"
-                class="id_dagrofa" cy="703.42834" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.751724" cx="-753.08"
-                class="id_arbejdsmiljø" cy="920.22095" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.8689656" cx="-530.7268"
-                class="id_blaadk" cy="836.23175" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.724138" cx="441.34702"
-                class="id_iværksætter" cy="1267.656" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.5793104" cx="-660.9104"
-                class="id_godtbørneliv" cy="86.17636" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="10.4758625" cx="-252.2541"
-                class="id_dkenergi" cy="225.53662" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="9.172414" cx="-777.2221"
-                class="id_solidaritet" cy="-535.16724" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.593103" cx="783.0813"
-                class="id_dknatur" cy="-253.38776" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.737931" cx="-425.03253"
-                class="id_dkarbejde" cy="835.06384" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.724138" cx="-732.64575"
-                class="id_dagpenge" cy="650.9601" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.882759" cx="-701.90356"
-                class="id_byggeri" cy="951.1968" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#dc5ed7" r="8.593103" cx="-690.4867"
-                class="id_takdk" cy="15.801248" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-    </g>
-    <g id="node-labels">
-        <text font-size="109" x="-161.96295" y="777.43915" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkfinans">
-            dkfinans
-        </text>
-        <text font-size="129" x="-288.70532" y="878.2132" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkøko">
-            dkøko
-        </text>
-        <text font-size="48" x="-188.40825" y="955.70074" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_aktier">
-            aktier
-        </text>
-        <text font-size="168" x="-382.6576" y="649.5778" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkbiz">
-            dkbiz
-        </text>
-        <text font-size="41" x="-530.18195" y="1077.7377" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_investering">
-            investering
-        </text>
-        <text font-size="38" x="-89.78649" y="971.79895" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkbolig">
-            dkbolig
-        </text>
-        <text font-size="101" x="-146.63391" y="275.05475" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkgreen">
-            dkgreen
-        </text>
-        <text font-size="70" x="-587.24554" y="134.05725" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_kompoldk">
-            kompoldk
-        </text>
-        <text font-size="38" x="-200.87125" y="1090.8756" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_podcast">
-            podcast
-        </text>
-        <text font-size="55" x="12.2874775" y="774.24866" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkoeko">
-            dkoeko
-        </text>
-        <text font-size="40" x="-355.86462" y="1203.925" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_erhverv">
-            erhverv
-        </text>
-        <text font-size="97" x="-680.40497" y="538.85565" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_arbejde">
-            arbejde
-        </text>
-        <text font-size="44" x="-638.3387" y="433.15698" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_luftfart">
-            luftfart
-        </text>
-        <text font-size="43" x="-684.04346" y="419.96912" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_luftenshelte">
-            luftenshelte
-        </text>
-        <text font-size="67" x="-565.34625" y="378.75403" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dktrp">
-            dktrp
-        </text>
-        <text font-size="58" x="-547.49133" y="777.0188" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkbyg">
-            dkbyg
-        </text>
-        <text font-size="44" x="-1027.2079" y="431.2766" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkpolitik">
-            dkpolitik
-        </text>
-        <text font-size="46" x="-24.621557" y="156.34645" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_klima">
-            klima
-        </text>
-        <text font-size="38" x="-99.12404" y="119.40213" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_klimakrise">
-            klimakrise
-        </text>
-        <text font-size="40" x="-865.664" y="845.9396" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_ledelse">
-            ledelse
-        </text>
-        <text font-size="35" x="-1183.7041" y="673.4297" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dendanskemodel">
-            dendanskemodel
-        </text>
-        <text font-size="46" x="-768.9721" y="568.75775" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_ok20">
-            ok20
-        </text>
-        <text font-size="35" x="-413.17142" y="1110.8026" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkturisme">
-            dkturisme
-        </text>
-        <text font-size="41" x="-94.265686" y="367.2336" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkklima">
-            dkklima
-        </text>
-        <text font-size="40" x="-478.9077" y="810.7252" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_smvpol">
-            smvpol
-        </text>
-        <text font-size="37" x="23.382952" y="986.58105" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_crowdfunding">
-            crowdfunding
-        </text>
-        <text font-size="42" x="-472.57074" y="890.4588" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_smv">
-            smv
-        </text>
-        <text font-size="35" x="-666.24615" y="738.34" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkledelse">
-            dkledelse
-        </text>
-        <text font-size="37" x="-622.7347" y="669.64044" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_selvstændige">
-            selvstændige
-        </text>
-        <text font-size="37" x="-659.139" y="850.7946" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_finansdk">
-            finansdk
-        </text>
-        <text font-size="52" x="-265.18564" y="366.16962" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkfood">
-            dkfood
-        </text>
-        <text font-size="38" x="-584.78735" y="712.6222" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dagrofa">
-            dagrofa
-        </text>
-        <text font-size="45" x="-753.08" y="931.1084" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_arbejdsmiljø">
-            arbejdsmiljø
-        </text>
-        <text font-size="37" x="-530.7268" y="843.3921" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_blaadk">
-            blaadk
-        </text>
-        <text font-size="36" x="441.34702" y="1274.6228" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_iværksætter">
-            iværksætter
-        </text>
-        <text font-size="35" x="-660.9104" y="94.64438" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_godtbørneliv">
-            godtbørneliv
-        </text>
-        <text font-size="48" x="-252.2541" y="237.1499" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkenergi">
-            dkenergi
-        </text>
-        <text font-size="42" x="-777.2221" y="-527.0393" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_solidaritet">
-            solidaritet
-        </text>
-        <text font-size="40" x="783.0813" y="-245.64687" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dknatur">
-            dknatur
-        </text>
-        <text font-size="40" x="-425.03253" y="844.7416" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkarbejde">
-            dkarbejde
-        </text>
-        <text font-size="36" x="-732.64575" y="659.67004" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dagpenge">
-            dagpenge
-        </text>
-        <text font-size="41" x="-701.90356" y="961.11646" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_byggeri">
-            byggeri
-        </text>
-        <text font-size="40" x="-690.4867" y="23.542133" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_takdk">
-            takdk
-        </text>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="text/ecmascript"
+   width="2250"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-1192 -545 2250 1925"
+   height="1925"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg431"
+   sodipodi:docname="dkbiz.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata437">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs435" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     id="namedview433"
+     showgrid="false"
+     inkscape:zoom="0.12967033"
+     inkscape:cx="992"
+     inkscape:cy="910"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg431" />
+  <g
+     id="edges"
+     transform="translate(169.66102,66.44068)">
+    <path
+       d="m -161.96295,756.34522 -126.74237,95.88531"
+       class="id_dkfinans id_dkøko"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:42;stroke-opacity:1" />
+    <path
+       d="m -161.96295,756.34522 -26.4453,190.06646"
+       class="id_dkfinans id_aktier"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:8;stroke-opacity:1" />
+    <path
+       d="M -161.96295,756.34522 -382.65759,617.0661"
+       class="id_dkfinans id_dkbiz"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:47;stroke-opacity:1" />
+    <path
+       d="m -161.96295,756.34522 15.32904,-505.72674"
+       class="id_dkfinans id_dkgreen"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -161.96295,756.34522 -38.9083,325.33658"
+       class="id_dkfinans id_podcast"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -161.96295,756.34522 -355.86462,1196.1842"
+       class="id_dkfinans id_erhverv"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -161.96295,756.34522 174.250427,7.2597"
+       class="id_dkfinans id_dkoeko"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M -161.96295,756.34522 -472.57074,884.42609"
+       class="id_dkfinans id_smv"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -161.96295,756.34522 -1027.2079,420.6311"
+       class="id_dkfinans id_dkpolitik"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -161.96295,756.34522 -89.786491,962.6051"
+       class="id_dkfinans id_dkbolig"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -288.70532,852.23053 100.29707,94.18115"
+       class="id_dkøko id_aktier"
+       id="path22"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:7;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -382.65759,617.0661"
+       class="id_dkøko id_dkbiz"
+       id="path24"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:79;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -530.18195,1067.818"
+       class="id_dkøko id_investering"
+       id="path26"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -89.786491,962.6051"
+       class="id_dkøko id_dkbolig"
+       id="path28"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -768.97211,559.85571"
+       class="id_dkøko id_ok20"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -547.49133,762.98608"
+       class="id_dkøko id_dkbyg"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m -288.70532,852.23053 -124.4661,251.79877"
+       class="id_dkøko id_dkturisme"
+       id="path34"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -146.63391,250.61848"
+       class="id_dkøko id_dkgreen"
+       id="path36"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="m -288.70532,852.23053 -183.86542,32.19556"
+       class="id_dkøko id_smv"
+       id="path38"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -587.24554,117.12122"
+       class="id_dkøko id_kompoldk"
+       id="path40"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -1027.2079,420.6311"
+       class="id_dkøko id_dkpolitik"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -288.70532,852.23053 -67.1593,343.95367"
+       class="id_dkøko id_erhverv"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -425.03253,835.06384"
+       class="id_dkøko id_dkarbejde"
+       id="path46"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m -288.70532,852.23053 -413.19824,98.96625"
+       class="id_dkøko id_byggeri"
+       id="path48"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -680.40497,515.38715"
+       class="id_dkøko id_arbejde"
+       id="path50"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 12.287477,763.60492"
+       class="id_dkøko id_dkoeko"
+       id="path52"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -288.70532,852.23053 -464.3747,67.99042"
+       class="id_dkøko id_arbejdsmiljø"
+       id="path54"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -865.664,838.19867"
+       class="id_dkøko id_ledelse"
+       id="path56"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -288.70532,852.23053 -252.2541,225.53662"
+       class="id_dkøko id_dkenergi"
+       id="path58"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -188.40825,946.41168 -382.65759,617.0661"
+       class="id_aktier id_dkbiz"
+       id="path60"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M -188.40825,946.41168 -530.18195,1067.818"
+       class="id_aktier id_investering"
+       id="path62"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M -188.40825,946.41168 -355.86462,1196.1842"
+       class="id_aktier id_erhverv"
+       id="path64"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -146.63391,250.61848"
+       class="id_dkbiz id_dkgreen"
+       id="path66"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:18;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 181.78634,464.6157"
+       class="id_dkbiz id_podcast"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 12.287477,763.60492"
+       class="id_dkbiz id_dkoeko"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:10;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -547.49133,762.98608"
+       class="id_dkbiz id_dkbyg"
+       id="path72"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:21;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -1027.2079,420.6311"
+       class="id_dkbiz id_dkpolitik"
+       id="path74"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -768.97211,559.85571"
+       class="id_dkbiz id_ok20"
+       id="path76"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -684.04346,411.64767"
+       class="id_dkbiz id_luftenshelte"
+       id="path78"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -680.40497,515.38715"
+       class="id_dkbiz id_arbejde"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:26;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -565.34625,362.54382"
+       class="id_dkbiz id_dktrp"
+       id="path82"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:9;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -30.51383,486.9632"
+       class="id_dkbiz id_dkturisme"
+       id="path84"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -96.25012,183.98139"
+       class="id_dkbiz id_smvpol"
+       id="path86"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:10;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 23.382952,977.62915"
+       class="id_dkbiz id_crowdfunding"
+       id="path88"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -89.91315,267.35999"
+       class="id_dkbiz id_smv"
+       id="path90"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:10;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -666.24616,731.56677"
+       class="id_dkbiz id_dkledelse"
+       id="path92"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -240.07709,43.62244"
+       class="id_dkbiz id_selvstændige"
+       id="path94"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -659.13898,843.63428"
+       class="id_dkbiz id_finansdk"
+       id="path96"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -265.18564,356.10648"
+       class="id_dkbiz id_dkfood"
+       id="path98"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:13;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -202.12976,86.36225"
+       class="id_dkbiz id_dagrofa"
+       id="path100"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:7;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -530.18195,1067.818"
+       class="id_dkbiz id_investering"
+       id="path102"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -587.24554,117.12122"
+       class="id_dkbiz id_kompoldk"
+       id="path104"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:14;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -530.72681,836.23175"
+       class="id_dkbiz id_blaadk"
+       id="path106"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -865.664,838.19867"
+       class="id_dkbiz id_ledelse"
+       id="path108"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 26.79297,579.1181"
+       class="id_dkbiz id_erhverv"
+       id="path110"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -638.33868,424.642"
+       class="id_dkbiz id_luftfart"
+       id="path112"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -42.37494,217.99774"
+       class="id_dkbiz id_dkarbejde"
+       id="path114"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="m -382.65759,617.0661 -349.98816,33.89398"
+       class="id_dkbiz id_dagpenge"
+       id="path116"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -701.90356,951.19678"
+       class="id_dkbiz id_byggeri"
+       id="path118"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -753.08002,920.22095"
+       class="id_dkbiz id_arbejdsmiljø"
+       id="path120"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -94.265686,359.29919"
+       class="id_dkbiz id_dkklima"
+       id="path122"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -382.65759,617.0661 -777.22211,-535.16724"
+       class="id_dkbiz id_solidaritet"
+       id="path124"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -89.786491,962.6051 12.287477,763.60492"
+       class="id_dkbolig id_dkoeko"
+       id="path126"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 -24.621557,147.44443"
+       class="id_dkgreen id_klima"
+       id="path128"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:9;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 -99.124039,112.04829"
+       class="id_dkgreen id_klimakrise"
+       id="path130"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m -146.63391,250.61848 -118.55173,105.488"
+       class="id_dkgreen id_dkfood"
+       id="path132"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:8;stroke-opacity:1" />
+    <path
+       d="m -146.63391,250.61848 52.368224,108.68071"
+       class="id_dkgreen id_dkklima"
+       id="path134"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:8;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 -565.34625,362.54382"
+       class="id_dkgreen id_dktrp"
+       id="path136"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:7;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 -252.2541,225.53662"
+       class="id_dkgreen id_dkenergi"
+       id="path138"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:15;stroke-opacity:1" />
+    <path
+       d="m -146.63391,250.61848 -512.50507,593.0158"
+       class="id_dkgreen id_finansdk"
+       id="path140"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 783.0813,-253.38776"
+       class="id_dkgreen id_dknatur"
+       id="path142"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 -413.17142,1104.0293"
+       class="id_dkgreen id_dkturisme"
+       id="path144"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -146.63391,250.61848 -555.26965,700.5783"
+       class="id_dkgreen id_byggeri"
+       id="path146"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -146.63391,250.61848 12.287477,763.60492"
+       class="id_dkgreen id_dkoeko"
+       id="path148"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -587.24554,117.12122 39.75421,645.86486"
+       class="id_kompoldk id_dkbyg"
+       id="path150"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m -587.24554,117.12122 -93.15943,398.26593"
+       class="id_kompoldk id_arbejde"
+       id="path152"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -587.24554,117.12122 -660.9104,86.176361"
+       class="id_kompoldk id_godtbørneliv"
+       id="path154"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -587.24554,117.12122 12.287477,763.60492"
+       class="id_kompoldk id_dkoeko"
+       id="path156"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -587.24554,117.12122 21.89929,245.4226"
+       class="id_kompoldk id_dktrp"
+       id="path158"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -587.24554,117.12122 -777.22211,-535.16724"
+       class="id_kompoldk id_solidaritet"
+       id="path160"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -587.24554,117.12122 -753.08002,920.22095"
+       class="id_kompoldk id_arbejdsmiljø"
+       id="path162"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -587.24554,117.12122 -1183.7041,666.65643"
+       class="id_kompoldk id_dendanskemodel"
+       id="path164"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -587.24554,117.12122 -690.48669,15.801248"
+       class="id_kompoldk id_takdk"
+       id="path166"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -200.87125,1081.6818 12.287477,763.60492"
+       class="id_podcast id_dkoeko"
+       id="path168"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -200.87125,1081.6818 -680.40497,515.38715"
+       class="id_podcast id_arbejde"
+       id="path170"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -200.87125,1081.6818 441.34701,1267.656"
+       class="id_podcast id_iværksætter"
+       id="path172"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 12.287477,763.60492 -680.40497,515.38715"
+       class="id_dkoeko id_arbejde"
+       id="path174"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 12.287477,763.60492 -565.34625,362.54382"
+       class="id_dkoeko id_dktrp"
+       id="path176"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -355.86462,1196.1842 -472.57074,884.42609"
+       class="id_erhverv id_smv"
+       id="path178"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -355.86462,1196.1842 -753.08002,920.22095"
+       class="id_erhverv id_arbejdsmiljø"
+       id="path180"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -680.40497,515.38715 -638.33868,424.642"
+       class="id_arbejde id_luftfart"
+       id="path182"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 -3.63849,-103.73948"
+       class="id_arbejde id_luftenshelte"
+       id="path184"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="M -680.40497,515.38715 -565.34625,362.54382"
+       class="id_arbejde id_dktrp"
+       id="path186"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:10;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 57.67029,145.30139"
+       class="id_arbejde id_selvstændige"
+       id="path188"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 -88.56714,44.46856"
+       class="id_arbejde id_ok20"
+       id="path190"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:13;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 -72.67505,404.8338"
+       class="id_arbejde id_arbejdsmiljø"
+       id="path192"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="M -680.40497,515.38715 -1027.2079,420.6311"
+       class="id_arbejde id_dkpolitik"
+       id="path194"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 -52.24078,135.57293"
+       class="id_arbejde id_dagpenge"
+       id="path196"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 14.15881,216.17962"
+       class="id_arbejde id_dkledelse"
+       id="path198"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -680.40497,515.38715 -777.22211,-535.16724"
+       class="id_arbejde id_solidaritet"
+       id="path200"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 -21.49859,435.80963"
+       class="id_arbejde id_byggeri"
+       id="path202"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -680.40497,515.38715 132.91364,247.59893"
+       class="id_arbejde id_dkbyg"
+       id="path204"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -680.40497,515.38715 -690.48669,15.801248"
+       class="id_arbejde id_takdk"
+       id="path206"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m -638.33868,424.642 -45.70478,-12.99433"
+       class="id_luftfart id_luftenshelte"
+       id="path208"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="m -638.33868,424.642 72.99243,-62.09818"
+       class="id_luftfart id_dktrp"
+       id="path210"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="m -684.04346,411.64767 118.69721,-49.10385"
+       class="id_luftenshelte id_dktrp"
+       id="path212"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="m -565.34625,362.54382 34.61944,473.68793"
+       class="id_dktrp id_blaadk"
+       id="path214"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -565.34625,362.54382 -252.2541,225.53662"
+       class="id_dktrp id_dkenergi"
+       id="path216"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -565.34625,362.54382 17.85492,400.44226"
+       class="id_dktrp id_dkbyg"
+       id="path218"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -547.49133,762.98608 -768.97211,559.85571"
+       class="id_dkbyg id_ok20"
+       id="path220"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -547.49133,762.98608 -154.41223,188.2107"
+       class="id_dkbyg id_byggeri"
+       id="path222"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M -547.49133,762.98608 -753.08002,920.22095"
+       class="id_dkbyg id_arbejdsmiljø"
+       id="path224"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m -547.49133,762.98608 122.4588,72.07776"
+       class="id_dkbyg id_dkarbejde"
+       id="path226"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m -1027.2079,420.6311 -156.4962,246.02533"
+       class="id_dkpolitik id_dendanskemodel"
+       id="path228"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -24.621557,147.44443 -99.124039,112.04829"
+       class="id_klima id_klimakrise"
+       id="path230"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -24.621557,147.44443 -252.2541,225.53662"
+       class="id_klima id_dkenergi"
+       id="path232"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -99.124039,112.04829 -252.2541,225.53662"
+       class="id_klimakrise id_dkenergi"
+       id="path234"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -865.664,838.19867 393.09326,46.22742"
+       class="id_ledelse id_smv"
+       id="path236"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -1183.7041,666.65643 -768.97211,559.85571"
+       class="id_dendanskemodel id_ok20"
+       id="path238"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -768.97211,559.85571 -8.25,-1095.02295"
+       class="id_ok20 id_solidaritet"
+       id="path240"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -94.265686,359.29919 -659.13898,843.63428"
+       class="id_dkklima id_finansdk"
+       id="path242"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -94.265686,359.29919 -252.2541,225.53662"
+       class="id_dkklima id_dkenergi"
+       id="path244"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -478.90771,801.04749 6.33697,83.3786"
+       class="id_smvpol id_smv"
+       id="path246"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -478.90771,801.04749 -622.73468,660.68854"
+       class="id_smvpol id_selvstændige"
+       id="path248"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 23.382952,977.62915 441.34701,1267.656"
+       class="id_crowdfunding id_iværksætter"
+       id="path250"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -659.13898,843.63428 -252.2541,225.53662"
+       class="id_finansdk id_dkenergi"
+       id="path252"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -753.08002,920.22095 51.17646,30.97583"
+       class="id_arbejdsmiljø id_byggeri"
+       id="path254"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#dc5ed7;stroke-width:5;stroke-opacity:1" />
+  </g>
+  <g
+     id="nodes"
+     transform="translate(169.66102,66.44068)">
+    <circle
+       r="27.855173"
+       cx="-161.96295"
+       class="id_dkfinans"
+       cy="756.34521"
+       id="circle257"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="35.241379"
+       cx="-288.70532"
+       class="id_dkøko"
+       cy="852.23053"
+       id="circle259"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="10.475863"
+       cx="-188.40825"
+       class="id_aktier"
+       cy="946.41168"
+       id="circle261"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="70"
+       cx="-382.65759"
+       class="id_dkbiz"
+       cy="617.0661"
+       id="circle263"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.8827591"
+       cx="-530.18195"
+       class="id_investering"
+       cy="1067.818"
+       id="circle265"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.1586208"
+       cx="-89.786491"
+       class="id_dkbolig"
+       cy="962.6051"
+       id="circle267"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="25.248276"
+       cx="-146.63391"
+       class="id_dkgreen"
+       cy="250.61848"
+       id="circle269"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="16.124138"
+       cx="-587.24554"
+       class="id_kompoldk"
+       cy="117.12122"
+       id="circle271"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.1586208"
+       cx="-200.87125"
+       class="id_podcast"
+       cy="1081.6818"
+       id="circle273"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="12.213793"
+       cx="12.287477"
+       class="id_dkoeko"
+       cy="763.60492"
+       id="circle275"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.5931034"
+       cx="-355.86462"
+       class="id_erhverv"
+       cy="1196.1842"
+       id="circle277"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="23.800001"
+       cx="-680.40497"
+       class="id_arbejde"
+       cy="515.38715"
+       id="circle279"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.6068964"
+       cx="-638.33868"
+       class="id_luftfart"
+       cy="424.642"
+       id="circle281"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.3172417"
+       cx="-684.04346"
+       class="id_luftenshelte"
+       cy="411.64767"
+       id="circle283"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="15.255172"
+       cx="-565.34625"
+       class="id_dktrp"
+       cy="362.54382"
+       id="circle285"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="13.082758"
+       cx="-547.49133"
+       class="id_dkbyg"
+       cy="762.98608"
+       id="circle287"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.6068964"
+       cx="-1027.2079"
+       class="id_dkpolitik"
+       cy="420.6311"
+       id="circle289"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="10.041379"
+       cx="-24.621557"
+       class="id_klima"
+       cy="147.44443"
+       id="circle291"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.1586208"
+       cx="-99.124039"
+       class="id_klimakrise"
+       cy="112.04829"
+       id="circle293"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.7379313"
+       cx="-865.664"
+       class="id_ledelse"
+       cy="838.19867"
+       id="circle295"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="-1183.7041"
+       class="id_dendanskemodel"
+       cy="666.65643"
+       id="circle297"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="10.186207"
+       cx="-768.97211"
+       class="id_ok20"
+       cy="559.85571"
+       id="circle299"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="-413.17142"
+       class="id_dkturisme"
+       cy="1104.0293"
+       id="circle301"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.8827591"
+       cx="-94.265686"
+       class="id_dkklima"
+       cy="359.29919"
+       id="circle303"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.7379313"
+       cx="-478.90771"
+       class="id_smvpol"
+       cy="801.04749"
+       id="circle305"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.013793"
+       cx="23.382952"
+       class="id_crowdfunding"
+       cy="977.62915"
+       id="circle307"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.1724138"
+       cx="-472.57074"
+       class="id_smv"
+       cy="884.42609"
+       id="circle309"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="-666.24615"
+       class="id_dkledelse"
+       cy="731.56677"
+       id="circle311"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.013793"
+       cx="-622.73468"
+       class="id_selvstændige"
+       cy="660.68854"
+       id="circle313"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.013793"
+       cx="-659.13898"
+       class="id_finansdk"
+       cy="843.63428"
+       id="circle315"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="11.489655"
+       cx="-265.18564"
+       class="id_dkfood"
+       cy="356.10648"
+       id="circle317"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.1586208"
+       cx="-584.78735"
+       class="id_dagrofa"
+       cy="703.42834"
+       id="circle319"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.7517242"
+       cx="-753.08002"
+       class="id_arbejdsmiljø"
+       cy="920.22095"
+       id="circle321"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.8689656"
+       cx="-530.72681"
+       class="id_blaadk"
+       cy="836.23175"
+       id="circle323"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.7241378"
+       cx="441.34702"
+       class="id_iværksætter"
+       cy="1267.656"
+       id="circle325"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.5793104"
+       cx="-660.9104"
+       class="id_godtbørneliv"
+       cy="86.176361"
+       id="circle327"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="10.475863"
+       cx="-252.2541"
+       class="id_dkenergi"
+       cy="225.53662"
+       id="circle329"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.1724138"
+       cx="-777.22211"
+       class="id_solidaritet"
+       cy="-535.16724"
+       id="circle331"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.5931034"
+       cx="783.0813"
+       class="id_dknatur"
+       cy="-253.38776"
+       id="circle333"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.7379313"
+       cx="-425.03253"
+       class="id_dkarbejde"
+       cy="835.06384"
+       id="circle335"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.7241378"
+       cx="-732.64575"
+       class="id_dagpenge"
+       cy="650.96008"
+       id="circle337"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.8827591"
+       cx="-701.90356"
+       class="id_byggeri"
+       cy="951.19678"
+       id="circle339"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.5931034"
+       cx="-690.48669"
+       class="id_takdk"
+       cy="15.801248"
+       id="circle341"
+       style="fill:#dc5ed7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+  </g>
+  <g
+     id="node-labels"
+     transform="translate(169.66102,66.44068)">
+    <text
+       font-size="109"
+       x="-161.96295"
+       y="777.43915"
+       style="font-size:109px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkfinans"
+       id="text344">dkfinans</text>
+    <text
+       font-size="129"
+       x="-288.70532"
+       y="878.2132"
+       style="font-size:129px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkøko"
+       id="text346">dkøko</text>
+    <text
+       font-size="48"
+       x="-188.40825"
+       y="955.70074"
+       style="font-size:48px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_aktier"
+       id="text348">aktier</text>
+    <text
+       font-size="168"
+       x="-382.65759"
+       y="649.57782"
+       style="font-size:168px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkbiz"
+       id="text350">dkbiz</text>
+    <text
+       font-size="41"
+       x="-530.18195"
+       y="1077.7377"
+       style="font-size:41px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_investering"
+       id="text352">investering</text>
+    <text
+       font-size="38"
+       x="-89.786491"
+       y="971.79895"
+       style="font-size:38px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkbolig"
+       id="text354">dkbolig</text>
+    <text
+       font-size="101"
+       x="-146.63391"
+       y="275.05475"
+       style="font-size:101px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkgreen"
+       id="text356">dkgreen</text>
+    <text
+       font-size="70"
+       x="-587.24554"
+       y="134.05725"
+       style="font-size:70px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_kompoldk"
+       id="text358">kompoldk</text>
+    <text
+       font-size="38"
+       x="-200.87125"
+       y="1090.8756"
+       style="font-size:38px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_podcast"
+       id="text360">podcast</text>
+    <text
+       font-size="55"
+       x="12.287477"
+       y="774.24866"
+       style="font-size:55px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkoeko"
+       id="text362">dkoeko</text>
+    <text
+       font-size="40"
+       x="-355.86462"
+       y="1203.925"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_erhverv"
+       id="text364">erhverv</text>
+    <text
+       font-size="97"
+       x="-680.40497"
+       y="538.85565"
+       style="font-size:97px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_arbejde"
+       id="text366">arbejde</text>
+    <text
+       font-size="44"
+       x="-638.33868"
+       y="433.15698"
+       style="font-size:44px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_luftfart"
+       id="text368">luftfart</text>
+    <text
+       font-size="43"
+       x="-684.04346"
+       y="419.96912"
+       style="font-size:43px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_luftenshelte"
+       id="text370">luftenshelte</text>
+    <text
+       font-size="67"
+       x="-565.34625"
+       y="378.75403"
+       style="font-size:67px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dktrp"
+       id="text372">dktrp</text>
+    <text
+       font-size="58"
+       x="-547.49133"
+       y="777.0188"
+       style="font-size:58px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkbyg"
+       id="text374">dkbyg</text>
+    <text
+       font-size="44"
+       x="-1027.2079"
+       y="431.27661"
+       style="font-size:44px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkpolitik"
+       id="text376">dkpolitik</text>
+    <text
+       font-size="46"
+       x="-24.621557"
+       y="156.34645"
+       style="font-size:46px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_klima"
+       id="text378">klima</text>
+    <text
+       font-size="38"
+       x="-99.124039"
+       y="119.40213"
+       style="font-size:38px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_klimakrise"
+       id="text380">klimakrise</text>
+    <text
+       font-size="40"
+       x="-865.664"
+       y="845.93958"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_ledelse"
+       id="text382">ledelse</text>
+    <text
+       font-size="35"
+       x="-1183.7041"
+       y="673.42969"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dendanskemodel"
+       id="text384">dendanskemodel</text>
+    <text
+       font-size="46"
+       x="-768.97211"
+       y="568.75775"
+       style="font-size:46px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_ok20"
+       id="text386">ok20</text>
+    <text
+       font-size="35"
+       x="-413.17142"
+       y="1110.8026"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkturisme"
+       id="text388">dkturisme</text>
+    <text
+       font-size="41"
+       x="-94.265686"
+       y="367.23361"
+       style="font-size:41px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkklima"
+       id="text390">dkklima</text>
+    <text
+       font-size="40"
+       x="-478.90771"
+       y="810.72522"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_smvpol"
+       id="text392">smvpol</text>
+    <text
+       font-size="37"
+       x="23.382952"
+       y="986.58105"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_crowdfunding"
+       id="text394">crowdfunding</text>
+    <text
+       font-size="42"
+       x="-472.57074"
+       y="890.4588"
+       style="font-size:42px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_smv"
+       id="text396">smv</text>
+    <text
+       font-size="35"
+       x="-666.24615"
+       y="738.34003"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkledelse"
+       id="text398">dkledelse</text>
+    <text
+       font-size="37"
+       x="-622.73468"
+       y="669.64044"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_selvstændige"
+       id="text400">selvstændige</text>
+    <text
+       font-size="37"
+       x="-659.13898"
+       y="850.79462"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_finansdk"
+       id="text402">finansdk</text>
+    <text
+       font-size="52"
+       x="-265.18564"
+       y="366.16962"
+       style="font-size:52px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkfood"
+       id="text404">dkfood</text>
+    <text
+       font-size="38"
+       x="-584.78735"
+       y="712.62219"
+       style="font-size:38px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dagrofa"
+       id="text406">dagrofa</text>
+    <text
+       font-size="45"
+       x="-753.08002"
+       y="931.1084"
+       style="font-size:45px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_arbejdsmiljø"
+       id="text408">arbejdsmiljø</text>
+    <text
+       font-size="37"
+       x="-530.72681"
+       y="843.39209"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_blaadk"
+       id="text410">blaadk</text>
+    <text
+       font-size="36"
+       x="441.34702"
+       y="1274.6228"
+       style="font-size:36px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_iværksætter"
+       id="text412">iværksætter</text>
+    <text
+       font-size="35"
+       x="-660.9104"
+       y="94.644379"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_godtbørneliv"
+       id="text414">godtbørneliv</text>
+    <text
+       font-size="48"
+       x="-252.2541"
+       y="237.1499"
+       style="font-size:48px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkenergi"
+       id="text416">dkenergi</text>
+    <text
+       font-size="42"
+       x="-777.22211"
+       y="-527.03931"
+       style="font-size:42px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_solidaritet"
+       id="text418">solidaritet</text>
+    <text
+       font-size="40"
+       x="783.0813"
+       y="-245.64687"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dknatur"
+       id="text420">dknatur</text>
+    <text
+       font-size="40"
+       x="-425.03253"
+       y="844.74158"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkarbejde"
+       id="text422">dkarbejde</text>
+    <text
+       font-size="36"
+       x="-732.64575"
+       y="659.67004"
+       style="font-size:36px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dagpenge"
+       id="text424">dagpenge</text>
+    <text
+       font-size="41"
+       x="-701.90356"
+       y="961.11646"
+       style="font-size:41px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_byggeri"
+       id="text426">byggeri</text>
+    <text
+       font-size="40"
+       x="-690.48669"
+       y="23.542133"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_takdk"
+       id="text428">takdk</text>
+  </g>
 </svg>

@@ -1,1176 +1,1945 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="4645.0"
-     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
-     contentStyleType="text/css"
-     viewBox="-1722.000000 -1925.000000 4645.000000 4098.000000" height="4098.0"
-     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
-     version="1.1">
-    <g id="edges">
-        <path fill="none" stroke-width="1.0"
-              d="M 2.142767,-1811.099365 L 188.576904,-1613.278198"
-              class="id_panik id_hamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 2.142767,-1811.099365 L -271.938538,-1521.848267"
-              class="id_panik id_pandemic" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 2.142767,-1811.099365 L -358.974060,-1541.085571"
-              class="id_panik id_pandemi" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 2.142767,-1811.099365 L 57.288357,-1790.041016"
-              class="id_panik id_stop" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 630.149048,-1122.399048 L 360.167694,-976.233215"
-              class="id_isolation id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 630.149048,-1122.399048 L 780.091187,-513.254395"
-              class="id_isolation id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 630.149048,-1122.399048 L 1133.878418,-603.808777"
-              class="id_isolation id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 630.149048,-1122.399048 L 990.619507,-444.699036"
-              class="id_isolation id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 630.149048,-1122.399048 L 1137.958618,-664.239075"
-              class="id_isolation id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 630.149048,-1122.399048 L 1119.600952,-833.967834"
-              class="id_isolation id_washyourhands" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 630.149048,-1122.399048 L 1061.327881,-713.950806"
-              class="id_isolation id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M -271.938538,-1521.848267 L -358.974060,-1541.085571"
-              class="id_pandemic id_pandemi" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -271.938538,-1521.848267 L 140.603760,-1699.373657"
-              class="id_pandemic id_pandemia" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -271.938538,-1521.848267 L -146.028778,-1529.985840"
-              class="id_pandemic id_dk" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -271.938538,-1521.848267 L 613.270142,1605.604736"
-              class="id_pandemic id_news" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -271.938538,-1521.848267 L 1133.878418,-603.808777"
-              class="id_pandemic id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 729.407471,1578.653198 L 1294.563477,-216.614532"
-              class="id_nyheder id_copenhagen" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 729.407471,1578.653198 L 1254.693237,-163.636368"
-              class="id_nyheder id_københavn" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 729.407471,1578.653198 L 321.793915,-218.758774"
-              class="id_nyheder id_twitterhjerne" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 729.407471,1578.653198 L 716.244019,1642.346313"
-              class="id_nyheder id_regeringdk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 729.407471,1578.653198 L 360.167694,-976.233215"
-              class="id_nyheder id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 729.407471,1578.653198 L 613.270142,1605.604736"
-              class="id_nyheder id_news" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 1294.563477,-216.614532 L 1254.693237,-163.636368"
-              class="id_copenhagen id_københavn" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1294.563477,-216.614532 L 1092.216187,-515.517456"
-              class="id_copenhagen id_staysafe" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 1294.563477,-216.614532 L 1251.832275,-281.251556"
-              class="id_copenhagen id_paspåhinanden" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1294.563477,-216.614532 L 1004.631653,-555.608704"
-              class="id_copenhagen id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1294.563477,-216.614532 L 990.619507,-444.699036"
-              class="id_copenhagen id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1294.563477,-216.614532 L 853.610046,-631.189453"
-              class="id_copenhagen id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1254.693237,-163.636368 L 1251.832275,-281.251556"
-              class="id_københavn id_paspåhinanden" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1254.693237,-163.636368 L 853.610046,-631.189453"
-              class="id_københavn id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1254.693237,-163.636368 L 497.795044,-393.254181"
-              class="id_københavn id_politidk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 577.388000,1675.698975 L 613.270142,1605.604736"
-              class="id_breakingnews id_news" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 577.388000,1675.698975 L 561.307556,1714.769653"
-              class="id_breakingnews id_breaking" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 998.736755,1408.969971 L -358.974060,-1541.085571"
-              class="id_koronavirus id_pandemi" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -358.974060,-1541.085571 L 140.603760,-1699.373657"
-              class="id_pandemi id_pandemia" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -358.974060,-1541.085571 L -146.028778,-1529.985840"
-              class="id_pandemi id_dk" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -358.974060,-1541.085571 L 360.167694,-976.233215"
-              class="id_pandemi id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -358.974060,-1541.085571 L 1133.878418,-603.808777"
-              class="id_pandemi id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -358.974060,-1541.085571 L 780.091187,-513.254395"
-              class="id_pandemi id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 613.270142,1605.604736 L 561.307556,1714.769653"
-              class="id_news id_breaking" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 613.270142,1605.604736 L 716.244019,1642.346313"
-              class="id_news id_regeringdk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 613.270142,1605.604736 L 780.091187,-513.254395"
-              class="id_news id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 321.793915,-218.758774 L 497.795044,-393.254181"
-              class="id_twitterhjerne id_politidk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 321.793915,-218.758774 L -146.028778,-1529.985840"
-              class="id_twitterhjerne id_dk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 923.368225,-270.689331"
-              class="id_twitterhjerne id_flattenthecurve" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 617.610779,-47.743229"
-              class="id_twitterhjerne id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 321.793915,-218.758774 L 360.167694,-976.233215"
-              class="id_twitterhjerne id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 188.576904,-1613.278198"
-              class="id_twitterhjerne id_hamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 846.612366,-1015.620789"
-              class="id_twitterhjerne id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 853.610046,-631.189453"
-              class="id_twitterhjerne id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 321.793915,-218.758774 L 780.091187,-513.254395"
-              class="id_twitterhjerne id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 782.264954,2165.230713"
-              class="id_twitterhjerne id_publicservice" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 321.793915,-218.758774 L 803.356201,-758.307190"
-              class="id_twitterhjerne id_vaskhænder" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 655.238342,-941.748291 L 1061.327881,-713.950806"
-              class="id_convid19 id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 655.238342,-941.748291 L 780.091187,-513.254395"
-              class="id_convid19 id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -1713.291260,387.138885 L 360.167694,-976.233215"
-              class="id_vipasserpåhinanden id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -1713.291260,387.138885 L 74.646675,-1478.756348"
-              class="id_vipasserpåhinanden id_danmarklukkerned"
-              stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 269.245575,-1691.645630 L 283.955505,-1641.819214"
-              class="id_toiletpapir id_gær" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 269.245575,-1691.645630 L 188.576904,-1613.278198"
-              class="id_toiletpapir id_hamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 269.245575,-1691.645630 L 386.439545,-1804.029297"
-              class="id_toiletpapir id_stophamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 269.245575,-1691.645630 L 360.167694,-976.233215"
-              class="id_toiletpapir id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 269.245575,-1691.645630 L 74.646675,-1478.756348"
-              class="id_toiletpapir id_danmarklukkerned" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 283.955505,-1641.819214 L 188.576904,-1613.278198"
-              class="id_gær id_hamstring" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 283.955505,-1641.819214 L 360.167694,-976.233215"
-              class="id_gær id_lockdown" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 283.955505,-1641.819214 L 74.646675,-1478.756348"
-              class="id_gær id_danmarklukkerned" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 74.646675,-1478.756348"
-              class="id_politidk id_danmarklukkerned" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 188.576904,-1613.278198"
-              class="id_politidk id_hamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 497.795044,-393.254181 L 516.941650,-317.137421"
-              class="id_politidk id_dkkrim" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 2884.795654,837.950989"
-              class="id_politidk id_galgenhumor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L -890.448853,-1885.683350"
-              class="id_politidk id_statsministeren" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="7.0"
-              d="M 497.795044,-393.254181 L 780.091187,-513.254395"
-              class="id_politidk id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 21.288794,1704.002808"
-              class="id_politidk id_norge" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 1133.878418,-603.808777"
-              class="id_politidk id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 617.610779,-47.743229"
-              class="id_politidk id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 853.610046,-631.189453"
-              class="id_politidk id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 497.795044,-393.254181 L 1137.958618,-664.239075"
-              class="id_politidk id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 923.368225,-270.689331 L 617.610779,-47.743229"
-              class="id_flattenthecurve id_sammenhverforsig"
-              stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 923.368225,-270.689331 L 1251.832275,-281.251556"
-              class="id_flattenthecurve id_paspåhinanden" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 923.368225,-270.689331 L 990.619507,-444.699036"
-              class="id_flattenthecurve id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 923.368225,-270.689331 L 1292.133545,-955.052490"
-              class="id_flattenthecurve id_staythefuckhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 923.368225,-270.689331 L 846.612366,-1015.620789"
-              class="id_flattenthecurve id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 923.368225,-270.689331 L 780.091187,-513.254395"
-              class="id_flattenthecurve id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 923.368225,-270.689331 L 1004.631653,-555.608704"
-              class="id_flattenthecurve id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1729.141113,-1487.758301 L 803.356201,-758.307190"
-              class="id_knækkurven id_vaskhænder" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1729.141113,-1487.758301 L 1149.817017,-1002.627014"
-              class="id_knækkurven id_lockdowndk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1729.141113,-1487.758301 L 1759.161499,-1518.532959"
-              class="id_knækkurven id_aarhusuni" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 803.356201,-758.307190 L 1119.600952,-833.967834"
-              class="id_vaskhænder id_washyourhands" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 803.356201,-758.307190 L 360.167694,-976.233215"
-              class="id_vaskhænder id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 803.356201,-758.307190 L 780.091187,-513.254395"
-              class="id_vaskhænder id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 803.356201,-758.307190 L 853.610046,-631.189453"
-              class="id_vaskhænder id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -912.622864,-1828.473999 L 990.619507,-444.699036"
-              class="id_pressemøde id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -912.622864,-1828.473999 L -890.448853,-1885.683350"
-              class="id_pressemøde id_statsministeren" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -912.622864,-1828.473999 L 780.091187,-513.254395"
-              class="id_pressemøde id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -912.622864,-1828.473999 L -146.028778,-1529.985840"
-              class="id_pressemøde id_dk" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 74.646675,-1478.756348 L 140.603760,-1699.373657"
-              class="id_danmarklukkerned id_pandemia" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 74.646675,-1478.756348 L 188.576904,-1613.278198"
-              class="id_danmarklukkerned id_hamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 74.646675,-1478.756348 L 360.167694,-976.233215"
-              class="id_danmarklukkerned id_lockdown" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 74.646675,-1478.756348 L 264.183868,-1917.007690"
-              class="id_danmarklukkerned id_jegbliverhjemme"
-              stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 360.167694,-976.233215 L 1149.817017,-1002.627014"
-              class="id_lockdown id_lockdowndk" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 360.167694,-976.233215 L 188.576904,-1613.278198"
-              class="id_lockdown id_hamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 360.167694,-976.233215 L 1119.600952,-833.967834"
-              class="id_lockdown id_washyourhands" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 360.167694,-976.233215 L 386.439545,-1804.029297"
-              class="id_lockdown id_stophamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 360.167694,-976.233215 L 780.091187,-513.254395"
-              class="id_lockdown id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 360.167694,-976.233215 L 853.610046,-631.189453"
-              class="id_lockdown id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 360.167694,-976.233215 L 990.619507,-444.699036"
-              class="id_lockdown id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 360.167694,-976.233215 L 846.612366,-1015.620789"
-              class="id_lockdown id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 360.167694,-976.233215 L 617.610779,-47.743229"
-              class="id_lockdown id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 360.167694,-976.233215 L 1292.133545,-955.052490"
-              class="id_lockdown id_staythefuckhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1149.817017,-1002.627014 L 1004.631653,-555.608704"
-              class="id_lockdowndk id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1149.817017,-1002.627014 L 1297.005493,-1425.386963"
-              class="id_lockdowndk id_lortevirus" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1149.817017,-1002.627014 L 1133.878418,-603.808777"
-              class="id_lockdowndk id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1149.817017,-1002.627014 L 1061.327881,-713.950806"
-              class="id_lockdowndk id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1251.832275,-281.251556 L 1652.123291,-471.810303"
-              class="id_paspåhinanden id_jegfinderselvud" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1251.832275,-281.251556 L 780.091187,-513.254395"
-              class="id_paspåhinanden id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 1251.832275,-281.251556 L 853.610046,-631.189453"
-              class="id_paspåhinanden id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1251.832275,-281.251556 L 617.610779,-47.743229"
-              class="id_paspåhinanden id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1251.832275,-281.251556 L 990.619507,-444.699036"
-              class="id_paspåhinanden id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 188.576904,-1613.278198 L 140.603760,-1699.373657"
-              class="id_hamstring id_pandemia" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 188.576904,-1613.278198 L -146.028778,-1529.985840"
-              class="id_hamstring id_dk" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 188.576904,-1613.278198 L 57.288357,-1790.041016"
-              class="id_hamstring id_stop" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 188.576904,-1613.278198 L 1297.005493,-1425.386963"
-              class="id_hamstring id_lortevirus" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 188.576904,-1613.278198 L 386.439545,-1804.029297"
-              class="id_hamstring id_stophamstring" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 188.576904,-1613.278198 L 846.612366,-1015.620789"
-              class="id_hamstring id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M -146.028778,-1529.985840 L 57.288357,-1790.041016"
-              class="id_dk id_stop" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M -146.028778,-1529.985840 L 780.091187,-513.254395"
-              class="id_dk id_blivhjemme" stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 386.439545,-1804.029297 L 140.603760,-1699.373657"
-              class="id_stophamstring id_pandemia" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1652.123291,-471.810303 L 990.619507,-444.699036"
-              class="id_jegfinderselvud id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1352.674194,784.673096 L 617.610779,-47.743229"
-              class="id_ynwa id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1352.674194,784.673096 L 1133.878418,-603.808777"
-              class="id_ynwa id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1352.674194,784.673096 L 1061.327881,-713.950806"
-              class="id_ynwa id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 140.603760,-1699.373657 L 1133.878418,-603.808777"
-              class="id_pandemia id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 21.288794,1704.002808 L 846.612366,-1015.620789"
-              class="id_norge id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1297.005493,-1425.386963 L 1004.631653,-555.608704"
-              class="id_lortevirus id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1119.600952,-833.967834 L 990.619507,-444.699036"
-              class="id_washyourhands id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1119.600952,-833.967834 L 1137.958618,-664.239075"
-              class="id_washyourhands id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1119.600952,-833.967834 L 1133.878418,-603.808777"
-              class="id_washyourhands id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1119.600952,-833.967834 L 1061.327881,-713.950806"
-              class="id_washyourhands id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1119.600952,-833.967834 L 780.091187,-513.254395"
-              class="id_washyourhands id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1119.600952,-833.967834 L 853.610046,-631.189453"
-              class="id_washyourhands id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="8.0"
-              d="M 1092.216187,-515.517456 L 990.619507,-444.699036"
-              class="id_staysafe id_stayhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1092.216187,-515.517456 L 1137.958618,-664.239075"
-              class="id_staysafe id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1092.216187,-515.517456 L 1004.631653,-555.608704"
-              class="id_staysafe id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1092.216187,-515.517456 L 780.091187,-513.254395"
-              class="id_staysafe id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 1092.216187,-515.517456 L 1133.878418,-603.808777"
-              class="id_staysafe id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1092.216187,-515.517456 L 1061.327881,-713.950806"
-              class="id_staysafe id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 990.619507,-444.699036 L 1137.958618,-664.239075"
-              class="id_stayhome id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="8.0"
-              d="M 990.619507,-444.699036 L 1004.631653,-555.608704"
-              class="id_stayhome id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 990.619507,-444.699036 L 1292.133545,-955.052490"
-              class="id_stayhome id_staythefuckhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="17.0"
-              d="M 990.619507,-444.699036 L 780.091187,-513.254395"
-              class="id_stayhome id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 990.619507,-444.699036 L 1133.878418,-603.808777"
-              class="id_stayhome id_stayathome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="4.0"
-              d="M 990.619507,-444.699036 L 1061.327881,-713.950806"
-              class="id_stayhome id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 990.619507,-444.699036 L 853.610046,-631.189453"
-              class="id_stayhome id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 990.619507,-444.699036 L 1045.836426,1779.559570"
-              class="id_stayhome id_hergårdetgodt" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 990.619507,-444.699036 L 617.610779,-47.743229"
-              class="id_stayhome id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1118.648315,10.115600 L 617.610779,-47.743229"
-              class="id_zulucs id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1118.648315,10.115600 L 780.091187,-513.254395"
-              class="id_zulucs id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 1133.878418,-603.808777 L 1004.631653,-555.608704"
-              class="id_stayathome id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="13.0"
-              d="M 1133.878418,-603.808777 L 780.091187,-513.254395"
-              class="id_stayathome id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1133.878418,-603.808777 L 1137.958618,-664.239075"
-              class="id_stayathome id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="6.0"
-              d="M 1133.878418,-603.808777 L 1061.327881,-713.950806"
-              class="id_stayathome id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1133.878418,-603.808777 L 853.610046,-631.189453"
-              class="id_stayathome id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1292.133545,-955.052490 L 780.091187,-513.254395"
-              class="id_staythefuckhome id_blivhjemme" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="16.0"
-              d="M 780.091187,-513.254395 L 853.610046,-631.189453"
-              class="id_blivhjemme id_holdafstand" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="8.0"
-              d="M 780.091187,-513.254395 L 1004.631653,-555.608704"
-              class="id_blivhjemme id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 780.091187,-513.254395 L 1061.327881,-713.950806"
-              class="id_blivhjemme id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 780.091187,-513.254395 L 617.610779,-47.743229"
-              class="id_blivhjemme id_sammenhverforsig" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 780.091187,-513.254395 L 846.612366,-1015.620789"
-              class="id_blivhjemme id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 780.091187,-513.254395 L 291.498627,-598.342773"
-              class="id_blivhjemme id_gdpr" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 780.091187,-513.254395 L 1137.958618,-664.239075"
-              class="id_blivhjemme id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 617.610779,-47.743229 L 846.612366,-1015.620789"
-              class="id_sammenhverforsig id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 617.610779,-47.743229 L 1045.836426,1779.559570"
-              class="id_sammenhverforsig id_hergårdetgodt" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 853.610046,-631.189453 L 1004.631653,-555.608704"
-              class="id_holdafstand id_staythefhome" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 853.610046,-631.189453 L 1061.327881,-713.950806"
-              class="id_holdafstand id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 853.610046,-631.189453 L 1137.958618,-664.239075"
-              class="id_holdafstand id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1004.631653,-555.608704 L 1137.958618,-664.239075"
-              class="id_staythefhome id_stayhomesavelives" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="2.0"
-              d="M 1004.631653,-555.608704 L 1061.327881,-713.950806"
-              class="id_staythefhome id_socialdistancing" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 1004.631653,-555.608704 L 846.612366,-1015.620789"
-              class="id_staythefhome id_hjemmekontor" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="3.0"
-              d="M 1061.327881,-713.950806 L 1137.958618,-664.239075"
-              class="id_socialdistancing id_stayhomesavelives"
-              stroke-opacity="1.0" stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 2884.795654,837.950989 L 2915.906982,858.514893"
-              class="id_galgenhumor id_finderselvud" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-        <path fill="none" stroke-width="1.0"
-              d="M 782.264954,2165.230713 L 1045.836426,1779.559570"
-              class="id_publicservice id_hergårdetgodt" stroke-opacity="1.0"
-              stroke="#ff5d00"/>
-    </g>
-    <g id="nodes">
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="2.1427667"
-                class="id_panik" cy="-1811.0994" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.882759" cx="630.14905"
-                class="id_isolation" cy="-1122.399" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.737931" cx="-271.93854"
-                class="id_pandemic" cy="-1521.8483" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.303449" cx="729.4075"
-                class="id_nyheder" cy="1578.6532" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.027586" cx="1294.5635"
-                class="id_copenhagen" cy="-216.61453" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.882759" cx="1254.6932"
-                class="id_københavn" cy="-163.63637" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="577.388"
-                class="id_breakingnews" cy="1675.699" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.1448274" cx="998.73676"
-                class="id_koronavirus" cy="1408.97" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.606896" cx="-358.97406"
-                class="id_pandemi" cy="-1541.0856" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="10.331035" cx="613.27014"
-                class="id_news" cy="1605.6047" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="13.662069" cx="321.7939"
-                class="id_twitterhjerne" cy="-218.75877" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.724138" cx="655.23834"
-                class="id_convid19" cy="-941.7483" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="-1713.2913"
-                class="id_vipasserpåhinanden" cy="387.1389" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="269.24557"
-                class="id_toiletpapir" cy="-1691.6456" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.013793" cx="283.9555"
-                class="id_gær" cy="-1641.8192" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="12.358622" cx="497.79504"
-                class="id_politidk" cy="-393.25418" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.724138" cx="561.30756"
-                class="id_breaking" cy="1714.7697" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.172414" cx="923.3682"
-                class="id_flattenthecurve" cy="-270.68933" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="1729.1411"
-                class="id_knækkurven" cy="-1487.7583" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.593103" cx="803.3562"
-                class="id_vaskhænder" cy="-758.3072" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="-912.62286"
-                class="id_pressemøde" cy="-1828.474" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.751724" cx="74.646675"
-                class="id_danmarklukkerned" cy="-1478.7563" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="14.965517" cx="360.1677"
-                class="id_lockdown" cy="-976.2332" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="1149.817"
-                class="id_lockdowndk" cy="-1002.627" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.462069" cx="1251.8323"
-                class="id_paspåhinanden" cy="-281.25156" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="12.213793" cx="188.5769"
-                class="id_hamstring" cy="-1613.2782" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.462069" cx="-146.02878"
-                class="id_dk" cy="-1529.9858" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.8689656" cx="386.43954"
-                class="id_stophamstring" cy="-1804.0293" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.1448274" cx="1652.1233"
-                class="id_jegfinderselvud" cy="-471.8103" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.4344826" cx="1352.6742"
-                class="id_ynwa" cy="784.6731" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="140.60376"
-                class="id_pandemia" cy="-1699.3737" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.5793104" cx="21.288794"
-                class="id_norge" cy="1704.0028" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.5793104" cx="57.288357"
-                class="id_stop" cy="-1790.041" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="1297.0055"
-                class="id_lortevirus" cy="-1425.387" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.448276" cx="1119.601"
-                class="id_washyourhands" cy="-833.96783" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.606896" cx="1092.2162"
-                class="id_staysafe" cy="-515.51746" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.1448274" cx="264.18387"
-                class="id_jegbliverhjemme" cy="-1917.0077" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="18.44138" cx="990.6195"
-                class="id_stayhome" cy="-444.69904" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.4344826" cx="1118.6483"
-                class="id_zulucs" cy="10.1156" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="14.241379" cx="1133.8784"
-                class="id_stayathome" cy="-603.8088" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.5793104" cx="1292.1335"
-                class="id_staythefuckhome" cy="-955.0525" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="27.565517" cx="780.0912"
-                class="id_blivhjemme" cy="-513.2544" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="12.648275" cx="617.6108"
-                class="id_sammenhverforsig" cy="-47.74323" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="13.662069" cx="853.61005"
-                class="id_holdafstand" cy="-631.18945" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="12.937931" cx="1004.63165"
-                class="id_staythefhome" cy="-555.6087" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="11.77931" cx="1061.3279"
-                class="id_socialdistancing" cy="-713.9508" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="9.896551" cx="1137.9586"
-                class="id_stayhomesavelives" cy="-664.2391" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="8.737931" cx="846.61237"
-                class="id_hjemmekontor" cy="-1015.6208" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="516.94165"
-                class="id_dkkrim" cy="-317.13742" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.4344826" cx="716.244"
-                class="id_regeringdk" cy="1642.3463" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.1448274" cx="1759.1615"
-                class="id_aarhusuni" cy="-1518.533" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="-890.44885"
-                class="id_statsministeren" cy="-1885.6833" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.1448274" cx="2884.7957"
-                class="id_galgenhumor" cy="837.951" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.0" cx="2915.907"
-                class="id_finderselvud" cy="858.5149" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="291.49863"
-                class="id_gdpr" cy="-598.3428" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.289655" cx="782.26495"
-                class="id_publicservice" cy="2165.2307" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d00" r="7.4344826" cx="1045.8364"
-                class="id_hergårdetgodt" cy="1779.5596" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-    </g>
-    <g id="node-labels">
-        <text font-size="37" x="2.1427667" y="-1802.1475" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_panik">
-            panik
-        </text>
-        <text font-size="41" x="630.14905" y="-1114.4646" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_isolation">
-            isolation
-        </text>
-        <text font-size="40" x="-271.93854" y="-1512.1705" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_pandemic">
-            pandemic
-        </text>
-        <text font-size="38" x="729.4075" y="1587.847" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_nyheder">
-            nyheder
-        </text>
-        <text font-size="42" x="1294.5635" y="-206.45291" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_copenhagen">
-            copenhagen
-        </text>
-        <text font-size="41" x="1254.6932" y="-155.37831" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_københavn">
-            københavn
-        </text>
-        <text font-size="37" x="577.388" y="1684.6509" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_breakingnews">
-            breakingnews
-        </text>
-        <text font-size="33" x="998.73676" y="1415.3562" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_koronavirus">
-            koronavirus
-        </text>
-        <text font-size="44" x="-358.97406" y="-1530.4401" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_pandemi">
-            pandemi
-        </text>
-        <text font-size="47" x="613.27014" y="1612.3557" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_news">
-            news
-        </text>
-        <text font-size="61" x="321.7939" y="-204.00023" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_twitterhjerne">
-            twitterhjerne
-        </text>
-        <text font-size="36" x="655.23834" y="-934.7815" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_convid19">
-            convid19
-        </text>
-        <text font-size="37" x="-1713.2913" y="397.1838" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_vipasserpåhinanden">
-            vipasserpåhinanden
-        </text>
-        <text font-size="39" x="269.24557" y="-1682.2098" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_toiletpapir">
-            toiletpapir
-        </text>
-        <text font-size="37" x="283.9555" y="-1634.7131" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_gær">
-            gær
-        </text>
-        <text font-size="55" x="497.79504" y="-379.9473" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_politidk">
-            politidk
-        </text>
-        <text font-size="36" x="561.30756" y="1723.4796" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_breaking">
-            breaking
-        </text>
-        <text font-size="42" x="923.3682" y="-262.5614" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_flattenthecurve">
-            flattenthecurve
-        </text>
-        <text font-size="34" x="1729.1411" y="-1481.1786" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_knækkurven">
-            knækkurven
-        </text>
-        <text font-size="40" x="803.3562" y="-750.5663" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_vaskhænder">
-            vaskhænder
-        </text>
-        <text font-size="39" x="-912.62286" y="-1819.0382" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_pressemøde">
-            pressemøde
-        </text>
-        <text font-size="45" x="74.646675" y="-1470.0479" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_danmarklukkerned">
-            danmarklukkerned
-        </text>
-        <text font-size="66" x="360.1677" y="-963.46075" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_lockdown">
-            lockdown
-        </text>
-        <text font-size="39" x="1149.817" y="-995.07965" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_lockdowndk">
-            lockdowndk
-        </text>
-        <text font-size="43" x="1251.8323" y="-269.57773" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_paspåhinanden">
-            paspåhinanden
-        </text>
-        <text font-size="55" x="188.5769" y="-1599.9713" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_hamstring">
-            hamstring
-        </text>
-        <text font-size="43" x="-146.02878" y="-1521.6644" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dk">
-            dk
-        </text>
-        <text font-size="37" x="386.43954" y="-1795.0774" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_stophamstring">
-            stophamstring
-        </text>
-        <text font-size="33" x="1652.1233" y="-463.82617" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_jegfinderselvud">
-            jegfinderselvud
-        </text>
-        <text font-size="35" x="1352.6742" y="791.3951" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_ynwa">
-            ynwa
-        </text>
-        <text font-size="39" x="140.60376" y="-1689.9379" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_pandemia">
-            pandemia
-        </text>
-        <text font-size="35" x="21.288794" y="1710.7249" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_norge">
-            norge
-        </text>
-        <text font-size="35" x="57.288357" y="-1782.0771" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_stop">
-            stop
-        </text>
-        <text font-size="34" x="1297.0055" y="-1418.8073" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_lortevirus">
-            lortevirus
-        </text>
-        <text font-size="39" x="1119.601" y="-824.53204" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_washyourhands">
-            washyourhands
-        </text>
-        <text font-size="44" x="1092.2162" y="-504.87195" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_staysafe">
-            staysafe
-        </text>
-        <text font-size="33" x="264.18387" y="-1909.0236" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_jegbliverhjemme">
-            jegbliverhjemme
-        </text>
-        <text font-size="79" x="990.6195" y="-425.5855" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_stayhome">
-            stayhome
-        </text>
-        <text font-size="35" x="1118.6483" y="16.888874" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_zulucs">
-            zulucs
-        </text>
-        <text font-size="63" x="1133.8784" y="-588.56635" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_stayathome">
-            stayathome
-        </text>
-        <text font-size="35" x="1292.1335" y="-946.5845" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_staythefuckhome">
-            staythefuckhome
-        </text>
-        <text font-size="108" x="780.0912" y="-487.1245" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_blivhjemme">
-            blivhjemme
-        </text>
-        <text font-size="57" x="617.6108" y="-33.952457" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_sammenhverforsig">
-            sammenhverforsig
-        </text>
-        <text font-size="61" x="853.61005" y="-619.3846" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_holdafstand">
-            holdafstand
-        </text>
-        <text font-size="58" x="1004.63165" y="-541.576" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_staythefhome">
-            staythefhome
-        </text>
-        <text font-size="53" x="1061.3279" y="-701.1278" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_socialdistancing">
-            socialdistancing
-        </text>
-        <text font-size="45" x="1137.9586" y="-653.3516" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_stayhomesavelives">
-            stayhomesavelives
-        </text>
-        <text font-size="40" x="846.61237" y="-1005.94305" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_hjemmekontor">
-            hjemmekontor
-        </text>
-        <text font-size="34" x="516.94165" y="-310.55768" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_dkkrim">
-            dkkrim
-        </text>
-        <text font-size="35" x="716.244" y="1650.8143" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_regeringdk">
-            regeringdk
-        </text>
-        <text font-size="33" x="1759.1615" y="-1512.1467" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_aarhusuni">
-            aarhusuni
-        </text>
-        <text font-size="34" x="-890.44885" y="-1879.1036" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_statsministeren">
-            statsministeren
-        </text>
-        <text font-size="33" x="2884.7957" y="845.9351" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_galgenhumor">
-            galgenhumor
-        </text>
-        <text font-size="33" x="2915.907" y="864.9011" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_finderselvud">
-            finderselvud
-        </text>
-        <text font-size="34" x="291.49863" y="-590.1167" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_gdpr">
-            gdpr
-        </text>
-        <text font-size="34" x="782.26495" y="2173.4568" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_publicservice">
-            publicservice
-        </text>
-        <text font-size="35" x="1045.8364" y="1789.0615" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="DejaVu Sans" class="id_hergårdetgodt">
-            hergårdetgodt
-        </text>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="text/ecmascript"
+   width="4950"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-1722 -1925 4950 4250"
+   height="4250"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg593"
+   sodipodi:docname="blivhjemme.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata599">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs597" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     id="namedview595"
+     showgrid="false"
+     inkscape:zoom="0.11517814"
+     inkscape:cx="3177.674"
+     inkscape:cy="2208.3121"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg593" />
+  <g
+     id="edges"
+     transform="translate(199.69068,82.54237)">
+    <path
+       d="M 2.142767,-1811.0994 188.5769,-1613.2782"
+       class="id_panik id_hamstring"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 2.142767,-1811.0994 -274.081307,289.2511"
+       class="id_panik id_pandemic"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 2.142767,-1811.0994 -361.116827,270.0138"
+       class="id_panik id_pandemi"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 2.142767,-1811.0994 55.14559,21.0584"
+       class="id_panik id_stop"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 630.14905,-1122.399 360.16769,-976.23321"
+       class="id_isolation id_lockdown"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 630.14905,-1122.399 149.94214,609.1446"
+       class="id_isolation id_blivhjemme"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 630.14905,-1122.399 503.72935,518.59022"
+       class="id_isolation id_stayathome"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 630.14905,-1122.399 360.47046,677.69996"
+       class="id_isolation id_stayhome"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 630.14905,-1122.399 507.80955,458.15993"
+       class="id_isolation id_stayhomesavelives"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 630.14905,-1122.399 1119.601,-833.96783"
+       class="id_isolation id_washyourhands"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 630.14905,-1122.399 431.17885,408.44819"
+       class="id_isolation id_socialdistancing"
+       id="path22"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -271.93854,-1521.8483 -87.03552,-19.2373"
+       class="id_pandemic id_pandemi"
+       id="path24"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m -271.93854,-1521.8483 412.5423,-177.5254"
+       class="id_pandemic id_pandemia"
+       id="path26"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -271.93854,-1521.8483 125.90976,-8.1375"
+       class="id_pandemic id_dk"
+       id="path28"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -271.93854,-1521.8483 885.20868,3127.453"
+       class="id_pandemic id_news"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -271.93854,-1521.8483 1133.8784,-603.80878"
+       class="id_pandemic id_stayathome"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 729.40747,1578.6532 1294.5635,-216.61453"
+       class="id_nyheder id_copenhagen"
+       id="path34"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 729.40747,1578.6532 1254.6932,-163.63637"
+       class="id_nyheder id_københavn"
+       id="path36"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 729.40747,1578.6532 321.79392,-218.75877"
+       class="id_nyheder id_twitterhjerne"
+       id="path38"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 729.40747,1578.6532 -13.16345,63.6931"
+       class="id_nyheder id_regeringdk"
+       id="path40"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 729.40747,1578.6532 360.16769,-976.23321"
+       class="id_nyheder id_lockdown"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 729.40747,1578.6532 -116.13733,26.9515"
+       class="id_nyheder id_news"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1294.5635,-216.61453 -39.8703,52.97816"
+       class="id_copenhagen id_københavn"
+       id="path46"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M 1294.5635,-216.61453 1092.2162,-515.51746"
+       class="id_copenhagen id_staysafe"
+       id="path48"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1294.5635,-216.61453 -42.7312,-64.63703"
+       class="id_copenhagen id_paspåhinanden"
+       id="path50"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M 1294.5635,-216.61453 1004.6317,-555.6087"
+       class="id_copenhagen id_staythefhome"
+       id="path52"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1294.5635,-216.61453 990.61951,-444.69904"
+       class="id_copenhagen id_stayhome"
+       id="path54"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1294.5635,-216.61453 853.61005,-631.18945"
+       class="id_copenhagen id_holdafstand"
+       id="path56"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1254.6932,-163.63637 -2.8609,-117.61519"
+       class="id_københavn id_paspåhinanden"
+       id="path58"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 1254.6932,-163.63637 853.61005,-631.18945"
+       class="id_københavn id_holdafstand"
+       id="path60"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1254.6932,-163.63637 497.79504,-393.25418"
+       class="id_københavn id_politidk"
+       id="path62"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 577.388,1675.699 35.88214,-70.0943"
+       class="id_breakingnews id_news"
+       id="path64"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m 577.388,1675.699 -16.08044,39.0707"
+       class="id_breakingnews id_breaking"
+       id="path66"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 998.73676,1408.97 -358.97406,-1541.0856"
+       class="id_koronavirus id_pandemi"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -358.97406,-1541.0856 499.57782,-158.2881"
+       class="id_pandemi id_pandemia"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -358.97406,-1541.0856 212.94528,11.0998"
+       class="id_pandemi id_dk"
+       id="path72"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -358.97406,-1541.0856 719.14175,564.85239"
+       class="id_pandemi id_lockdown"
+       id="path74"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -358.97406,-1541.0856 1133.8784,-603.80878"
+       class="id_pandemi id_stayathome"
+       id="path76"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -358.97406,-1541.0856 780.09119,-513.2544"
+       class="id_pandemi id_blivhjemme"
+       id="path78"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 613.27014,1605.6047 -51.96258,109.165"
+       class="id_news id_breaking"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 613.27014,1605.6047 102.97388,36.7416"
+       class="id_news id_regeringdk"
+       id="path82"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 613.27014,1605.6047 780.09119,-513.2544"
+       class="id_news id_blivhjemme"
+       id="path84"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 497.79504,-393.25418"
+       class="id_twitterhjerne id_politidk"
+       id="path86"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 -146.02878,-1529.9858"
+       class="id_twitterhjerne id_dk"
+       id="path88"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m 321.79392,-218.75877 601.57431,-51.93056"
+       class="id_twitterhjerne id_flattenthecurve"
+       id="path90"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 617.61078,-47.743229"
+       class="id_twitterhjerne id_sammenhverforsig"
+       id="path92"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 321.79392,-218.75877 38.37377,-757.47444"
+       class="id_twitterhjerne id_lockdown"
+       id="path94"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 188.5769,-1613.2782"
+       class="id_twitterhjerne id_hamstring"
+       id="path96"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 846.61237,-1015.6208"
+       class="id_twitterhjerne id_hjemmekontor"
+       id="path98"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 853.61005,-631.18945"
+       class="id_twitterhjerne id_holdafstand"
+       id="path100"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 780.09119,-513.2544"
+       class="id_twitterhjerne id_blivhjemme"
+       id="path102"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 782.26495,2165.2307"
+       class="id_twitterhjerne id_publicservice"
+       id="path104"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 321.79392,-218.75877 803.3562,-758.30719"
+       class="id_twitterhjerne id_vaskhænder"
+       id="path106"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 655.23834,-941.74829 406.08956,227.79748"
+       class="id_convid19 id_socialdistancing"
+       id="path108"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 655.23834,-941.74829 780.09119,-513.2544"
+       class="id_convid19 id_blivhjemme"
+       id="path110"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -1713.2913,387.13889 360.16769,-976.23321"
+       class="id_vipasserpåhinanden id_lockdown"
+       id="path112"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -1713.2913,387.13889 74.646675,-1478.7563"
+       class="id_vipasserpåhinanden id_danmarklukkerned"
+       id="path114"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 269.24557,-1691.6456 14.70994,49.8264"
+       class="id_toiletpapir id_gær"
+       id="path116"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 269.24557,-1691.6456 -80.66867,78.3674"
+       class="id_toiletpapir id_hamstring"
+       id="path118"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m 269.24557,-1691.6456 117.19397,-112.3837"
+       class="id_toiletpapir id_stophamstring"
+       id="path120"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 269.24557,-1691.6456 90.92212,715.41239"
+       class="id_toiletpapir id_lockdown"
+       id="path122"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 269.24557,-1691.6456 74.646675,-1478.7563"
+       class="id_toiletpapir id_danmarklukkerned"
+       id="path124"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 283.95551,-1641.8192 -95.37861,28.541"
+       class="id_gær id_hamstring"
+       id="path126"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 283.95551,-1641.8192 76.21218,665.58599"
+       class="id_gær id_lockdown"
+       id="path128"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 283.95551,-1641.8192 74.646675,-1478.7563"
+       class="id_gær id_danmarklukkerned"
+       id="path130"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 74.646675,-1478.7563"
+       class="id_politidk id_danmarklukkerned"
+       id="path132"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 188.5769,-1613.2782"
+       class="id_politidk id_hamstring"
+       id="path134"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 497.79504,-393.25418 19.14661,76.11676"
+       class="id_politidk id_dkkrim"
+       id="path136"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 2884.7957,837.95099"
+       class="id_politidk id_galgenhumor"
+       id="path138"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 -890.44885,-1885.6834"
+       class="id_politidk id_statsministeren"
+       id="path140"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 780.09119,-513.2544"
+       class="id_politidk id_blivhjemme"
+       id="path142"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:7;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 21.288794,1704.0028"
+       class="id_politidk id_norge"
+       id="path144"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 497.79504,-393.25418 636.08336,-210.5546"
+       class="id_politidk id_stayathome"
+       id="path146"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 617.61078,-47.743229"
+       class="id_politidk id_sammenhverforsig"
+       id="path148"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 853.61005,-631.18945"
+       class="id_politidk id_holdafstand"
+       id="path150"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 497.79504,-393.25418 1137.9586,-664.23907"
+       class="id_politidk id_stayhomesavelives"
+       id="path152"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 923.36823,-270.68933 617.61078,-47.743229"
+       class="id_flattenthecurve id_sammenhverforsig"
+       id="path154"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 923.36823,-270.68933 328.46407,-10.56223"
+       class="id_flattenthecurve id_paspåhinanden"
+       id="path156"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 923.36823,-270.68933 67.25128,-174.00971"
+       class="id_flattenthecurve id_stayhome"
+       id="path158"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 923.36823,-270.68933 1292.1335,-955.05249"
+       class="id_flattenthecurve id_staythefuckhome"
+       id="path160"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 923.36823,-270.68933 846.61237,-1015.6208"
+       class="id_flattenthecurve id_hjemmekontor"
+       id="path162"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 923.36823,-270.68933 780.09119,-513.2544"
+       class="id_flattenthecurve id_blivhjemme"
+       id="path164"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 923.36823,-270.68933 1004.6317,-555.6087"
+       class="id_flattenthecurve id_staythefhome"
+       id="path166"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1729.1411,-1487.7583 803.3562,-758.30719"
+       class="id_knækkurven id_vaskhænder"
+       id="path168"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1729.1411,-1487.7583 1149.817,-1002.627"
+       class="id_knækkurven id_lockdowndk"
+       id="path170"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1729.1411,-1487.7583 30.0204,-30.7747"
+       class="id_knækkurven id_aarhusuni"
+       id="path172"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 803.3562,-758.30719 316.2448,-75.66064"
+       class="id_vaskhænder id_washyourhands"
+       id="path174"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 803.3562,-758.30719 360.16769,-976.23321"
+       class="id_vaskhænder id_lockdown"
+       id="path176"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 803.3562,-758.30719 780.09119,-513.2544"
+       class="id_vaskhænder id_blivhjemme"
+       id="path178"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m 803.3562,-758.30719 50.25385,127.11774"
+       class="id_vaskhænder id_holdafstand"
+       id="path180"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -912.62286,-1828.474 990.61951,-444.69904"
+       class="id_pressemøde id_stayhome"
+       id="path182"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -912.62286,-1828.474 22.17401,-57.2094"
+       class="id_pressemøde id_statsministeren"
+       id="path184"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -912.62286,-1828.474 780.09119,-513.2544"
+       class="id_pressemøde id_blivhjemme"
+       id="path186"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m -912.62286,-1828.474 766.59408,298.4882"
+       class="id_pressemøde id_dk"
+       id="path188"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 74.646675,-1478.7563 65.957085,-220.6174"
+       class="id_danmarklukkerned id_pandemia"
+       id="path190"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 74.646675,-1478.7563 188.5769,-1613.2782"
+       class="id_danmarklukkerned id_hamstring"
+       id="path192"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M 74.646675,-1478.7563 360.16769,-976.23321"
+       class="id_danmarklukkerned id_lockdown"
+       id="path194"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 74.646675,-1478.7563 264.18387,-1917.0077"
+       class="id_danmarklukkerned id_jegbliverhjemme"
+       id="path196"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 360.16769,-976.23321 1149.817,-1002.627"
+       class="id_lockdown id_lockdowndk"
+       id="path198"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 360.16769,-976.23321 188.5769,-1613.2782"
+       class="id_lockdown id_hamstring"
+       id="path200"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M 360.16769,-976.23321 1119.601,-833.96783"
+       class="id_lockdown id_washyourhands"
+       id="path202"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 360.16769,-976.23321 26.27185,-827.79609"
+       class="id_lockdown id_stophamstring"
+       id="path204"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 360.16769,-976.23321 419.9235,462.97881"
+       class="id_lockdown id_blivhjemme"
+       id="path206"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="m 360.16769,-976.23321 493.44236,345.04376"
+       class="id_lockdown id_holdafstand"
+       id="path208"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 360.16769,-976.23321 630.45182,531.53417"
+       class="id_lockdown id_stayhome"
+       id="path210"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 360.16769,-976.23321 486.44468,-39.38759"
+       class="id_lockdown id_hjemmekontor"
+       id="path212"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 360.16769,-976.23321 617.61078,-47.743229"
+       class="id_lockdown id_sammenhverforsig"
+       id="path214"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 360.16769,-976.23321 931.96581,21.18072"
+       class="id_lockdown id_staythefuckhome"
+       id="path216"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1149.817,-1002.627 -145.1853,447.0183"
+       class="id_lockdowndk id_staythefhome"
+       id="path218"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1149.817,-1002.627 147.1885,-422.76"
+       class="id_lockdowndk id_lortevirus"
+       id="path220"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1149.817,-1002.627 -15.9386,398.81822"
+       class="id_lockdowndk id_stayathome"
+       id="path222"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1149.817,-1002.627 -88.4891,288.67619"
+       class="id_lockdowndk id_socialdistancing"
+       id="path224"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1251.8323,-281.25156 400.291,-190.55874"
+       class="id_paspåhinanden id_jegfinderselvud"
+       id="path226"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1251.8323,-281.25156 780.09119,-513.2544"
+       class="id_paspåhinanden id_blivhjemme"
+       id="path228"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1251.8323,-281.25156 853.61005,-631.18945"
+       class="id_paspåhinanden id_holdafstand"
+       id="path230"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="M 1251.8323,-281.25156 617.61078,-47.743229"
+       class="id_paspåhinanden id_sammenhverforsig"
+       id="path232"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 1251.8323,-281.25156 990.61951,-444.69904"
+       class="id_paspåhinanden id_stayhome"
+       id="path234"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 188.5769,-1613.2782 -47.97314,-86.0955"
+       class="id_hamstring id_pandemia"
+       id="path236"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="m 188.5769,-1613.2782 -334.60568,83.2924"
+       class="id_hamstring id_dk"
+       id="path238"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 188.5769,-1613.2782 57.288357,-1790.041"
+       class="id_hamstring id_stop"
+       id="path240"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 188.5769,-1613.2782 1108.4286,187.8912"
+       class="id_hamstring id_lortevirus"
+       id="path242"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 188.5769,-1613.2782 197.86264,-190.7511"
+       class="id_hamstring id_stophamstring"
+       id="path244"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 188.5769,-1613.2782 658.03547,597.6574"
+       class="id_hamstring id_hjemmekontor"
+       id="path246"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M -146.02878,-1529.9858 57.288357,-1790.041"
+       class="id_dk id_stop"
+       id="path248"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M -146.02878,-1529.9858 780.09119,-513.2544"
+       class="id_dk id_blivhjemme"
+       id="path250"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 386.43954,-1804.0293 -245.83578,104.6556"
+       class="id_stophamstring id_pandemia"
+       id="path252"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1652.1233,-471.8103 -661.50379,27.11126"
+       class="id_jegfinderselvud id_stayhome"
+       id="path254"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1352.6742,784.6731 617.61078,-47.743229"
+       class="id_ynwa id_sammenhverforsig"
+       id="path256"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1352.6742,784.6731 1133.8784,-603.80878"
+       class="id_ynwa id_stayathome"
+       id="path258"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1352.6742,784.6731 1061.3279,-713.95081"
+       class="id_ynwa id_socialdistancing"
+       id="path260"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 140.60376,-1699.3737 1133.8784,-603.80878"
+       class="id_pandemia id_stayathome"
+       id="path262"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 21.288794,1704.0028 846.61237,-1015.6208"
+       class="id_norge id_hjemmekontor"
+       id="path264"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1297.0055,-1425.387 -292.3738,869.7783"
+       class="id_lortevirus id_staythefhome"
+       id="path266"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1119.601,-833.96783 990.61951,-444.69904"
+       class="id_washyourhands id_stayhome"
+       id="path268"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1119.601,-833.96783 18.3576,169.72876"
+       class="id_washyourhands id_stayhomesavelives"
+       id="path270"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1119.601,-833.96783 14.2774,230.15905"
+       class="id_washyourhands id_stayathome"
+       id="path272"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1119.601,-833.96783 -58.2731,120.01702"
+       class="id_washyourhands id_socialdistancing"
+       id="path274"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 1119.601,-833.96783 780.09119,-513.2544"
+       class="id_washyourhands id_blivhjemme"
+       id="path276"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1119.601,-833.96783 853.61005,-631.18945"
+       class="id_washyourhands id_holdafstand"
+       id="path278"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1092.2162,-515.51746 -101.59669,70.81842"
+       class="id_staysafe id_stayhome"
+       id="path280"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:8;stroke-opacity:1" />
+    <path
+       d="m 1092.2162,-515.51746 45.7424,-148.72161"
+       class="id_staysafe id_stayhomesavelives"
+       id="path282"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1092.2162,-515.51746 -87.5845,-40.09124"
+       class="id_staysafe id_staythefhome"
+       id="path284"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1092.2162,-515.51746 -312.12501,2.26306"
+       class="id_staysafe id_blivhjemme"
+       id="path286"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1092.2162,-515.51746 41.6622,-88.29132"
+       class="id_staysafe id_stayathome"
+       id="path288"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m 1092.2162,-515.51746 -30.8883,-198.43335"
+       class="id_staysafe id_socialdistancing"
+       id="path290"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 1137.9586,-664.23907"
+       class="id_stayhome id_stayhomesavelives"
+       id="path292"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 1004.6317,-555.6087"
+       class="id_stayhome id_staythefhome"
+       id="path294"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:8;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 1292.1335,-955.05249"
+       class="id_stayhome id_staythefuckhome"
+       id="path296"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 780.09119,-513.2544"
+       class="id_stayhome id_blivhjemme"
+       id="path298"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:17;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 1133.8784,-603.80878"
+       class="id_stayhome id_stayathome"
+       id="path300"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 990.61951,-444.69904 70.70839,-269.25177"
+       class="id_stayhome id_socialdistancing"
+       id="path302"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:4;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 853.61005,-631.18945"
+       class="id_stayhome id_holdafstand"
+       id="path304"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 1045.8364,1779.5596"
+       class="id_stayhome id_hergårdetgodt"
+       id="path306"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 990.61951,-444.69904 617.61078,-47.743229"
+       class="id_stayhome id_sammenhverforsig"
+       id="path308"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1118.6483,10.1156 617.61078,-47.743229"
+       class="id_zulucs id_sammenhverforsig"
+       id="path310"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1118.6483,10.1156 -338.55711,-523.37"
+       class="id_zulucs id_blivhjemme"
+       id="path312"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1133.8784,-603.80878 -129.2467,48.20008"
+       class="id_stayathome id_staythefhome"
+       id="path314"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M 1133.8784,-603.80878 780.09119,-513.2544"
+       class="id_stayathome id_blivhjemme"
+       id="path316"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:13;stroke-opacity:1" />
+    <path
+       d="m 1133.8784,-603.80878 4.0802,-60.43029"
+       class="id_stayathome id_stayhomesavelives"
+       id="path318"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1133.8784,-603.80878 -72.5505,-110.14203"
+       class="id_stayathome id_socialdistancing"
+       id="path320"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:6;stroke-opacity:1" />
+    <path
+       d="M 1133.8784,-603.80878 853.61005,-631.18945"
+       class="id_stayathome id_holdafstand"
+       id="path322"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 1292.1335,-955.05249 780.09119,-513.2544"
+       class="id_staythefuckhome id_blivhjemme"
+       id="path324"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 780.09119,-513.2544 73.51886,-117.93505"
+       class="id_blivhjemme id_holdafstand"
+       id="path326"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:16;stroke-opacity:1" />
+    <path
+       d="m 780.09119,-513.2544 224.54051,-42.3543"
+       class="id_blivhjemme id_staythefhome"
+       id="path328"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:8;stroke-opacity:1" />
+    <path
+       d="M 780.09119,-513.2544 1061.3279,-713.95081"
+       class="id_blivhjemme id_socialdistancing"
+       id="path330"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:5;stroke-opacity:1" />
+    <path
+       d="M 780.09119,-513.2544 617.61078,-47.743229"
+       class="id_blivhjemme id_sammenhverforsig"
+       id="path332"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m 780.09119,-513.2544 66.52118,-502.3664"
+       class="id_blivhjemme id_hjemmekontor"
+       id="path334"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 780.09119,-513.2544 291.49863,-598.34277"
+       class="id_blivhjemme id_gdpr"
+       id="path336"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 780.09119,-513.2544 1137.9586,-664.23907"
+       class="id_blivhjemme id_stayhomesavelives"
+       id="path338"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 617.61078,-47.743229 846.61237,-1015.6208"
+       class="id_sammenhverforsig id_hjemmekontor"
+       id="path340"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 617.61078,-47.743229 1045.8364,1779.5596"
+       class="id_sammenhverforsig id_hergårdetgodt"
+       id="path342"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 853.61005,-631.18945 151.02165,75.58075"
+       class="id_holdafstand id_staythefhome"
+       id="path344"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m 853.61005,-631.18945 207.71785,-82.76136"
+       class="id_holdafstand id_socialdistancing"
+       id="path346"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 853.61005,-631.18945 284.34855,-33.04962"
+       class="id_holdafstand id_stayhomesavelives"
+       id="path348"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1004.6317,-555.6087 133.3269,-108.63037"
+       class="id_staythefhome id_stayhomesavelives"
+       id="path350"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 1004.6317,-555.6087 56.6962,-158.34211"
+       class="id_staythefhome id_socialdistancing"
+       id="path352"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="M 1004.6317,-555.6087 846.61237,-1015.6208"
+       class="id_staythefhome id_hjemmekontor"
+       id="path354"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 1061.3279,-713.95081 76.6307,49.71174"
+       class="id_socialdistancing id_stayhomesavelives"
+       id="path356"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:3;stroke-opacity:1" />
+    <path
+       d="m 2884.7957,837.95099 31.1113,20.5639"
+       class="id_galgenhumor id_finderselvud"
+       id="path358"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 782.26495,2165.2307 1045.8364,1779.5596"
+       class="id_publicservice id_hergårdetgodt"
+       id="path360"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff5d00;stroke-width:1;stroke-opacity:1" />
+  </g>
+  <g
+     id="nodes"
+     transform="translate(199.69068,82.54237)">
+    <circle
+       r="8.013793"
+       cx="2.1427667"
+       class="id_panik"
+       cy="-1811.0994"
+       id="circle363"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.8827591"
+       cx="630.14905"
+       class="id_isolation"
+       cy="-1122.399"
+       id="circle365"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.7379313"
+       cx="-271.93854"
+       class="id_pandemic"
+       cy="-1521.8483"
+       id="circle367"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.3034487"
+       cx="729.40747"
+       class="id_nyheder"
+       cy="1578.6532"
+       id="circle369"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.027586"
+       cx="1294.5635"
+       class="id_copenhagen"
+       cy="-216.61453"
+       id="circle371"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.8827591"
+       cx="1254.6932"
+       class="id_københavn"
+       cy="-163.63637"
+       id="circle373"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.013793"
+       cx="577.388"
+       class="id_breakingnews"
+       cy="1675.699"
+       id="circle375"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.1448274"
+       cx="998.73676"
+       class="id_koronavirus"
+       cy="1408.97"
+       id="circle377"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.6068964"
+       cx="-358.97406"
+       class="id_pandemi"
+       cy="-1541.0856"
+       id="circle379"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="10.331035"
+       cx="613.27014"
+       class="id_news"
+       cy="1605.6047"
+       id="circle381"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="13.662069"
+       cx="321.79391"
+       class="id_twitterhjerne"
+       cy="-218.75877"
+       id="circle383"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.7241378"
+       cx="655.23834"
+       class="id_convid19"
+       cy="-941.74829"
+       id="circle385"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.013793"
+       cx="-1713.2913"
+       class="id_vipasserpåhinanden"
+       cy="387.13889"
+       id="circle387"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.4482756"
+       cx="269.24557"
+       class="id_toiletpapir"
+       cy="-1691.6456"
+       id="circle389"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.013793"
+       cx="283.95551"
+       class="id_gær"
+       cy="-1641.8192"
+       id="circle391"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="12.358622"
+       cx="497.79504"
+       class="id_politidk"
+       cy="-393.25418"
+       id="circle393"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.7241378"
+       cx="561.30756"
+       class="id_breaking"
+       cy="1714.7697"
+       id="circle395"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.1724138"
+       cx="923.36823"
+       class="id_flattenthecurve"
+       cy="-270.68933"
+       id="circle397"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.2896552"
+       cx="1729.1411"
+       class="id_knækkurven"
+       cy="-1487.7583"
+       id="circle399"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.5931034"
+       cx="803.3562"
+       class="id_vaskhænder"
+       cy="-758.30719"
+       id="circle401"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.4482756"
+       cx="-912.62286"
+       class="id_pressemøde"
+       cy="-1828.474"
+       id="circle403"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.7517242"
+       cx="74.646675"
+       class="id_danmarklukkerned"
+       cy="-1478.7563"
+       id="circle405"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14.965517"
+       cx="360.16769"
+       class="id_lockdown"
+       cy="-976.23322"
+       id="circle407"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.4482756"
+       cx="1149.817"
+       class="id_lockdowndk"
+       cy="-1002.627"
+       id="circle409"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.4620686"
+       cx="1251.8323"
+       class="id_paspåhinanden"
+       cy="-281.25156"
+       id="circle411"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="12.213793"
+       cx="188.5769"
+       class="id_hamstring"
+       cy="-1613.2782"
+       id="circle413"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.4620686"
+       cx="-146.02878"
+       class="id_dk"
+       cy="-1529.9858"
+       id="circle415"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.8689656"
+       cx="386.43954"
+       class="id_stophamstring"
+       cy="-1804.0293"
+       id="circle417"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.1448274"
+       cx="1652.1233"
+       class="id_jegfinderselvud"
+       cy="-471.8103"
+       id="circle419"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="1352.6742"
+       class="id_ynwa"
+       cy="784.6731"
+       id="circle421"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.4482756"
+       cx="140.60376"
+       class="id_pandemia"
+       cy="-1699.3737"
+       id="circle423"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.5793104"
+       cx="21.288794"
+       class="id_norge"
+       cy="1704.0028"
+       id="circle425"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.5793104"
+       cx="57.288357"
+       class="id_stop"
+       cy="-1790.041"
+       id="circle427"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.2896552"
+       cx="1297.0055"
+       class="id_lortevirus"
+       cy="-1425.387"
+       id="circle429"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.4482756"
+       cx="1119.601"
+       class="id_washyourhands"
+       cy="-833.96783"
+       id="circle431"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.6068964"
+       cx="1092.2162"
+       class="id_staysafe"
+       cy="-515.51746"
+       id="circle433"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.1448274"
+       cx="264.18387"
+       class="id_jegbliverhjemme"
+       cy="-1917.0077"
+       id="circle435"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="18.44138"
+       cx="990.61951"
+       class="id_stayhome"
+       cy="-444.69904"
+       id="circle437"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="1118.6483"
+       class="id_zulucs"
+       cy="10.1156"
+       id="circle439"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14.241379"
+       cx="1133.8784"
+       class="id_stayathome"
+       cy="-603.80878"
+       id="circle441"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.5793104"
+       cx="1292.1335"
+       class="id_staythefuckhome"
+       cy="-955.05249"
+       id="circle443"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="27.565517"
+       cx="780.09119"
+       class="id_blivhjemme"
+       cy="-513.25439"
+       id="circle445"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="12.648275"
+       cx="617.61078"
+       class="id_sammenhverforsig"
+       cy="-47.743229"
+       id="circle447"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="13.662069"
+       cx="853.61005"
+       class="id_holdafstand"
+       cy="-631.18945"
+       id="circle449"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="12.937931"
+       cx="1004.6317"
+       class="id_staythefhome"
+       cy="-555.6087"
+       id="circle451"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="11.77931"
+       cx="1061.3279"
+       class="id_socialdistancing"
+       cy="-713.95081"
+       id="circle453"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="9.8965511"
+       cx="1137.9586"
+       class="id_stayhomesavelives"
+       cy="-664.23907"
+       id="circle455"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8.7379313"
+       cx="846.61237"
+       class="id_hjemmekontor"
+       cy="-1015.6208"
+       id="circle457"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.2896552"
+       cx="516.94165"
+       class="id_dkkrim"
+       cy="-317.13742"
+       id="circle459"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="716.24402"
+       class="id_regeringdk"
+       cy="1642.3463"
+       id="circle461"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.1448274"
+       cx="1759.1615"
+       class="id_aarhusuni"
+       cy="-1518.533"
+       id="circle463"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.2896552"
+       cx="-890.44885"
+       class="id_statsministeren"
+       cy="-1885.6833"
+       id="circle465"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.1448274"
+       cx="2884.7957"
+       class="id_galgenhumor"
+       cy="837.95099"
+       id="circle467"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7"
+       cx="2915.907"
+       class="id_finderselvud"
+       cy="858.51489"
+       id="circle469"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.2896552"
+       cx="291.49863"
+       class="id_gdpr"
+       cy="-598.34277"
+       id="circle471"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.2896552"
+       cx="782.26495"
+       class="id_publicservice"
+       cy="2165.2307"
+       id="circle473"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="7.4344826"
+       cx="1045.8364"
+       class="id_hergårdetgodt"
+       cy="1779.5596"
+       id="circle475"
+       style="fill:#ff5d00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+  </g>
+  <g
+     id="node-labels"
+     transform="translate(199.69068,82.54237)">
+    <text
+       font-size="37"
+       x="2.1427667"
+       y="-1802.1475"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_panik"
+       id="text478">panik</text>
+    <text
+       font-size="41"
+       x="630.14905"
+       y="-1114.4646"
+       style="font-size:41px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_isolation"
+       id="text480">isolation</text>
+    <text
+       font-size="40"
+       x="-271.93854"
+       y="-1512.1705"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_pandemic"
+       id="text482">pandemic</text>
+    <text
+       font-size="38"
+       x="729.40747"
+       y="1587.847"
+       style="font-size:38px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_nyheder"
+       id="text484">nyheder</text>
+    <text
+       font-size="42"
+       x="1294.5635"
+       y="-206.45291"
+       style="font-size:42px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_copenhagen"
+       id="text486">copenhagen</text>
+    <text
+       font-size="41"
+       x="1254.6932"
+       y="-155.37831"
+       style="font-size:41px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_københavn"
+       id="text488">københavn</text>
+    <text
+       font-size="37"
+       x="577.388"
+       y="1684.6509"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_breakingnews"
+       id="text490">breakingnews</text>
+    <text
+       font-size="33"
+       x="998.73676"
+       y="1415.3562"
+       style="font-size:33px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_koronavirus"
+       id="text492">koronavirus</text>
+    <text
+       font-size="44"
+       x="-358.97406"
+       y="-1530.4401"
+       style="font-size:44px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_pandemi"
+       id="text494">pandemi</text>
+    <text
+       font-size="47"
+       x="613.27014"
+       y="1612.3557"
+       style="font-size:47px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_news"
+       id="text496">news</text>
+    <text
+       font-size="61"
+       x="321.79391"
+       y="-204.00023"
+       style="font-size:61px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_twitterhjerne"
+       id="text498">twitterhjerne</text>
+    <text
+       font-size="36"
+       x="655.23834"
+       y="-934.78149"
+       style="font-size:36px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_convid19"
+       id="text500">convid19</text>
+    <text
+       font-size="37"
+       x="-1713.2913"
+       y="397.18381"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_vipasserpåhinanden"
+       id="text502">vipasserpåhinanden</text>
+    <text
+       font-size="39"
+       x="269.24557"
+       y="-1682.2098"
+       style="font-size:39px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_toiletpapir"
+       id="text504">toiletpapir</text>
+    <text
+       font-size="37"
+       x="283.95551"
+       y="-1634.7131"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_gær"
+       id="text506">gær</text>
+    <text
+       font-size="55"
+       x="497.79504"
+       y="-379.9473"
+       style="font-size:55px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_politidk"
+       id="text508">politidk</text>
+    <text
+       font-size="36"
+       x="561.30756"
+       y="1723.4796"
+       style="font-size:36px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_breaking"
+       id="text510">breaking</text>
+    <text
+       font-size="42"
+       x="923.36823"
+       y="-262.5614"
+       style="font-size:42px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_flattenthecurve"
+       id="text512">flattenthecurve</text>
+    <text
+       font-size="34"
+       x="1729.1411"
+       y="-1481.1786"
+       style="font-size:34px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_knækkurven"
+       id="text514">knækkurven</text>
+    <text
+       font-size="40"
+       x="803.3562"
+       y="-750.56628"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_vaskhænder"
+       id="text516">vaskhænder</text>
+    <text
+       font-size="39"
+       x="-912.62286"
+       y="-1819.0382"
+       style="font-size:39px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_pressemøde"
+       id="text518">pressemøde</text>
+    <text
+       font-size="45"
+       x="74.646675"
+       y="-1470.0479"
+       style="font-size:45px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_danmarklukkerned"
+       id="text520">danmarklukkerned</text>
+    <text
+       font-size="66"
+       x="360.16769"
+       y="-963.46075"
+       style="font-size:66px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_lockdown"
+       id="text522">lockdown</text>
+    <text
+       font-size="39"
+       x="1149.817"
+       y="-995.07965"
+       style="font-size:39px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_lockdowndk"
+       id="text524">lockdowndk</text>
+    <text
+       font-size="43"
+       x="1251.8323"
+       y="-269.57773"
+       style="font-size:43px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_paspåhinanden"
+       id="text526">paspåhinanden</text>
+    <text
+       font-size="55"
+       x="188.5769"
+       y="-1599.9713"
+       style="font-size:55px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_hamstring"
+       id="text528">hamstring</text>
+    <text
+       font-size="43"
+       x="-146.02878"
+       y="-1521.6644"
+       style="font-size:43px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dk"
+       id="text530">dk</text>
+    <text
+       font-size="37"
+       x="386.43954"
+       y="-1795.0774"
+       style="font-size:37px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_stophamstring"
+       id="text532">stophamstring</text>
+    <text
+       font-size="33"
+       x="1652.1233"
+       y="-463.82617"
+       style="font-size:33px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_jegfinderselvud"
+       id="text534">jegfinderselvud</text>
+    <text
+       font-size="35"
+       x="1352.6742"
+       y="791.39508"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_ynwa"
+       id="text536">ynwa</text>
+    <text
+       font-size="39"
+       x="140.60376"
+       y="-1689.9379"
+       style="font-size:39px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_pandemia"
+       id="text538">pandemia</text>
+    <text
+       font-size="35"
+       x="21.288794"
+       y="1710.7249"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_norge"
+       id="text540">norge</text>
+    <text
+       font-size="35"
+       x="57.288357"
+       y="-1782.0771"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_stop"
+       id="text542">stop</text>
+    <text
+       font-size="34"
+       x="1297.0055"
+       y="-1418.8073"
+       style="font-size:34px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_lortevirus"
+       id="text544">lortevirus</text>
+    <text
+       font-size="39"
+       x="1119.601"
+       y="-824.53204"
+       style="font-size:39px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_washyourhands"
+       id="text546">washyourhands</text>
+    <text
+       font-size="44"
+       x="1092.2162"
+       y="-504.87195"
+       style="font-size:44px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_staysafe"
+       id="text548">staysafe</text>
+    <text
+       font-size="33"
+       x="264.18387"
+       y="-1909.0236"
+       style="font-size:33px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_jegbliverhjemme"
+       id="text550">jegbliverhjemme</text>
+    <text
+       font-size="79"
+       x="990.61951"
+       y="-425.58551"
+       style="font-size:79px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_stayhome"
+       id="text552">stayhome</text>
+    <text
+       font-size="35"
+       x="1118.6483"
+       y="16.888874"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_zulucs"
+       id="text554">zulucs</text>
+    <text
+       font-size="63"
+       x="1133.8784"
+       y="-588.56635"
+       style="font-size:63px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_stayathome"
+       id="text556">stayathome</text>
+    <text
+       font-size="35"
+       x="1292.1335"
+       y="-946.58447"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_staythefuckhome"
+       id="text558">staythefuckhome</text>
+    <text
+       font-size="108"
+       x="780.09119"
+       y="-487.12451"
+       style="font-size:108px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_blivhjemme"
+       id="text560">blivhjemme</text>
+    <text
+       font-size="57"
+       x="617.61078"
+       y="-33.952457"
+       style="font-size:57px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_sammenhverforsig"
+       id="text562">sammenhverforsig</text>
+    <text
+       font-size="61"
+       x="853.61005"
+       y="-619.38458"
+       style="font-size:61px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_holdafstand"
+       id="text564">holdafstand</text>
+    <text
+       font-size="58"
+       x="1004.6317"
+       y="-541.57599"
+       style="font-size:58px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_staythefhome"
+       id="text566">staythefhome</text>
+    <text
+       font-size="53"
+       x="1061.3279"
+       y="-701.12781"
+       style="font-size:53px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_socialdistancing"
+       id="text568">socialdistancing</text>
+    <text
+       font-size="45"
+       x="1137.9586"
+       y="-653.35162"
+       style="font-size:45px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_stayhomesavelives"
+       id="text570">stayhomesavelives</text>
+    <text
+       font-size="40"
+       x="846.61237"
+       y="-1005.9431"
+       style="font-size:40px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_hjemmekontor"
+       id="text572">hjemmekontor</text>
+    <text
+       font-size="34"
+       x="516.94165"
+       y="-310.55768"
+       style="font-size:34px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_dkkrim"
+       id="text574">dkkrim</text>
+    <text
+       font-size="35"
+       x="716.24402"
+       y="1650.8143"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_regeringdk"
+       id="text576">regeringdk</text>
+    <text
+       font-size="33"
+       x="1759.1615"
+       y="-1512.1467"
+       style="font-size:33px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_aarhusuni"
+       id="text578">aarhusuni</text>
+    <text
+       font-size="34"
+       x="-890.44885"
+       y="-1879.1036"
+       style="font-size:34px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_statsministeren"
+       id="text580">statsministeren</text>
+    <text
+       font-size="33"
+       x="2884.7957"
+       y="845.93512"
+       style="font-size:33px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_galgenhumor"
+       id="text582">galgenhumor</text>
+    <text
+       font-size="33"
+       x="2915.907"
+       y="864.90112"
+       style="font-size:33px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_finderselvud"
+       id="text584">finderselvud</text>
+    <text
+       font-size="34"
+       x="291.49863"
+       y="-590.1167"
+       style="font-size:34px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_gdpr"
+       id="text586">gdpr</text>
+    <text
+       font-size="34"
+       x="782.26495"
+       y="2173.4568"
+       style="font-size:34px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_publicservice"
+       id="text588">publicservice</text>
+    <text
+       font-size="35"
+       x="1045.8364"
+       y="1789.0615"
+       style="font-size:35px;font-family:'DejaVu Sans';dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_hergårdetgodt"
+       id="text590">hergårdetgodt</text>
+  </g>
 </svg>
