@@ -70,6 +70,9 @@
 									<li>Perioden omkring selve nedlukningen (9/3 til 13/3).</li>
 									<li>Perioden efter nedlukningen og frem til vores datasæt foreløbigt slutter (14/3 til 24/3).</li>
 								</ol>
+								<a href="images/period0.svg" class="image fit"><img src="images/period0.svg" alt="" /></a>
+								<br />
+
 							</p>
 <!--2.1.-->
 							<h4>2.1. Hashtag-netværket i perioden op til nedlukningen</h4>
@@ -126,9 +129,6 @@
 								</ul>
 							</p>
 							<a href="images/cluster_line_plot.svg" class="image fit"><img src="images/cluster_line_plot.svg" alt="" /></a>
-							<br />
-							<p>Endelig er det væsentligt at bemærke, at mængden af hashtags (og tweets) relateret til vores søgeord generelt er steget markant over den samlede periode (24/2-24/3). Forbundet hermed ses det tillige, at der nu helt alment er flere hashtags, der agerer “broer” mellem de enkelte debat-klynger. Selvom klyngerne således stadig er tydelige som del-temaer i det samlede corona-diskussions-landskab, så indikerer dette forhold altså tillige, at der i denne seneste periode samtidig foregår mere debat på kryds og tværs mellem dem.</p>
-							<br />
 <!--3.-->
 							<h3>3. Hvad diskuteres der i twitter-landskabets klynger?</h3>
 							<p>For bedre at kunne identificere og analysere hvilke underproblemstillinger, der rejser sig og bliver diskuteret inden for de mest tungtvejende tema-klynger i det danske corona-twitterlandskab , ‘zoomer’ vi nu ind på hhv. SUND-, ØKOPOL- og REAK-klyngerne.
@@ -180,7 +180,7 @@
 							</p>
 							<a href="images/cluster_8_line_plot.svg" class="image fit"><img src="images/cluster_8_line_plot.svg" alt="" /></a>
 <!--4.-->
-							<h3>Spørgsmål for videre undersøgelser</h3>
+							<h3>4. Spørgsmål for videre undersøgelser</h3>
 							<p>Den foreløbige kortlægning af det danske twitter-landskab i relation til corona bekræfter og rejser en række spørgsmål for videre analyse. Det gælder bl.a. følgende:
 								<ol>
 									<li><u>Overordnet om den danske corona-håndtering</u></li>
@@ -207,8 +207,30 @@
 								</ol>
 								I vores næste opslag vil vi særligt fokusere på det første underspørgsmål herover.
 							</p>
-<!--Fodnoter-->
-							<h5>Referencer</h5>
+<!--5.-->
+							<h3>5. Data og metode</h3>
+							<p>Data er høstet vha. Twitters search API (‘application programming interface’), som kræver tilkøb af en premium konto, og gør det muligt at søge 30 dage tilbage i tid. Søgningen er udført i Python. Vores første søgning bestod af 147 søgeord forbundet til corona og pandemiens implikationer, hvilket samlet gav et datasæt på 397.447 tweets. Fra dette rådatasæt har vi gjort følgende:
+								<ul>
+									<li>Selvom vi anvendte et dansk sprogfilter ifm. Twitters search API, indeholdte det høstede datasæt en række udenlandske Tweets. For at fjerne disse, anvendte vi Python-pakken ‘langdetect’ til at vurdere hver brugers sprog på tværs af vedkommendes tweets, og medtog kun de brugere, der blev vurderet til at tweete på dansk.</li>
+									<li>Herefter medtog vi kun tweets, som indeholdte ordene ‘corona’, ‘covid’, ‘virus’, ‘epidemi’ og/eller ‘pandemi’, samt tweets, der ikke var retweets. Slutteligt ekskluderede vi tweets fra d. 23/2 og 25/3, da disse dage ikke blev fuldstændigt høstet af vores søgning.</li>
+									<li>Samlet givet dette et datsæt bestående af 67.010 tweets (18% af rådatasættet), fordelt på 15.342 unikke brugere.</li>
+									<li>Herfra har vi opgjort sammenforekomster af hashtags. I vores grafer har vi kun inkluderet de hashtags, der er i) brugt mere end 10 gange, samt ii) brugt af mindst to brugere. For hver fase har vi talt antallet af brugere, der har sammenkædet hvert par af hashtag, så fx bots ikke har kunne øge optællingen.</li>
+								</l>
+								<br />
+							Hashtag-klyngerne og de enkelte hashtags placering i netværket er udregnet baseret på baggrund af det samlede brutto-datasæt. Når vi har zoomet ind på bestemte faser eller klynger, har vi fastholdt den samlede klyngeopdeling og hashtaggenes placering.
+								<br /><br />
+								Det er, som indikeret indledningsvist, vigtigt at holde sig for øje, at twitter-data repræsenterer en særlig type del-offentlighed i et samfund som det danske (og transnationalt). Officielle aktører, myndigheder, interesseorganisationer og lignende fylder generelt meget, mens højst op mod 10% af den danske befolkning regelmæssigt benytter mediet. Alligevel, eller af samme grund, spiller mediet en vis rolle til dagsordens-påvirkning.
+								<br /><br />
+								At høste et validt twitter-datasæt, som det er forsøgt gjort her, er forbundet med udfordringer, som er velbeskrevne i digital metodelitteratur og litteratur om social data-videnskab (REFS!). Mest af alt er der spørgsmål om de søgeord, der definerer det udsnit (sample), som faktisk høstes. Selv om corona-emnet er relativt velafgrænset, så er det sandsynligt, at vores indhøstning rummer visse mindre fejlkilder af denne art, som det er vanskeligt at efterprøve entydigt. Vi vil også fortsætte disse, mere metodologiske undersøgelser, i den kommende tid.
+								<br /><br />
+								Den primære metode, som bringes i anvendelse her, kan betegnes som ‘co-hashtag’ analyse, altså analyse af sam-forekomsten af hashtags i et twitter-datasæt. Metoden er ganske udbredt, som én blandt flere metoder til at kortlægge overordnede dynamikker i et twitter-diskussions-landskab (REF). Den har, som de fleste beslægtede metoder til analyse af “store” sociale data, en række velkendte udfordringer og usikkerhedsmomenter. Særligt er metoden sårbar over for mangler i dataudtrækket (sample), fordi dette generelt gælder for de typer netværks-beregninger, der her benyttes (f.eks. i relation til de såkaldte modularitets-mål). Vi har forsøgt at tage højde for disse usikkerheder, bl.a. gennem her i analysen at fokusere på brede og overordnede træk i klynge-fordelingerne.
+								<br /><br />
+								Når vi fremadrettet ønsker at dykke dybere ned i nogle af de mønstre, der fremtræder her, vil det kræve at co-hashtag tilgangen suppleres med andre egnede teknikker og metoder. Det kan både dreje sig om mere-eller-mindre automatiserede tekstanalytiske teknikker (superviseret maskin-læring) og kvalitative teknikker til kodning og analyse af meningsindhold. Som nævnt er der desuden stort potentiale for at kombinere twitter-data og -analyse med supplerende observationsmetoder, herunder etnografiske og survey-baserede.
+								<br /><br />
+								Vi ønsker i videst mulig udstrækning at kunne dele det datasæt, som vi her analyserer på, med andre forskere og forskergrupper, med journalister og lignende, så længe det sker på GDPR-overholdende og data-etisk forsvarlig vis. Vi gør her opmærksom på, at vi anser det for et selvstændigt problem af relevans for undersøgelser som denne, at twitter- (og megen øvrig social medie-) data er proprietære og derfor ikke frit tilgængelige for forskersamfundet eller offentligheden i øvrigt. Vi har i praksis måttet acceptere dette forhold.<!--Fodnoter-->
+								<br /><br />
+
+							<h5>Noter og referencer</h5>
 							<p id="fooder1">[1] <a href = 'https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus'>https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus</a> - tal fra d. 1/4-20 kl. 14.00</p>
 						</section>
 				</div>
