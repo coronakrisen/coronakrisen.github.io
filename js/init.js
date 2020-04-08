@@ -118,7 +118,10 @@
 			}
 			
 		// Dropdowns.
-			$('#nav > ul').dropotron({
+			$('#header > #nav > ul').dropotron({
+				alignment: 'right'
+			});
+			$('#TOC > #nav > ul').dropotronL({
 				alignment: 'right'
 			});
 			

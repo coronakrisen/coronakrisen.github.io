@@ -1165,124 +1165,6 @@
 			#header .container nav {
 				right: 0;
 			}
-
-
-#TOC {
-		/*background-color: #fff;
-		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);*/
-		color: inherit;
-		cursor: default;
-		height: 3em;
-		left: 1em;
-		line-height: 3em;
-		position: fixed;
-		top: 100;
-		width: 10%;
-		z-index: 10000;
-	}
-
-		#TOC.reveal {
-			-moz-animation: reveal-header 0.5s;
-			-webkit-animation: reveal-header 0.5s;
-			-o-animation: reveal-header 0.5s;
-			-ms-animation: reveal-header 0.5s;
-			animation: reveal-header 0.5s;
-		}
-
-		#TOC.alt {
-			-moz-animation: none;
-			-webkit-animation: none;
-			-o-animation: none;
-			-ms-animation: none;
-			animation: none;
-			background-color: transparent;
-			box-shadow: none;
-			color: #fff;
-		}
-
-		#TOC h1 {
-			color: inherit;
-			font-size: 1em;
-			height: inherit;
-			left: 1.25em;
-			line-height: inherit;
-			margin: 0;
-			padding: 0;
-			position: absolute;
-			top: 0;
-		}
-
-			#TOC h1 span {
-				font-weight: 300;
-			}
-
-			#TOC h1 a {
-				border: 0;
-			}
-
-		#TOC nav {
-			height: inherit;
-			line-height: inherit;
-			position: absolute;
-			right: 0em;
-			top: 0;
-			vertical-align: middle;
-		}
-
-			#TOC nav > ul {
-				list-style: none;
-				margin: 0;
-				padding-left: 0;
-			}
-
-				#TOC nav > ul > li {
-					border-radius: 0.5em;
-					display: inline-block;
-					margin-left: 2em;
-					padding-left: 0;
-				}
-
-					#TOC nav > ul > li a {
-						border: 0;
-						color: inherit;
-						display: inline-block;
-						text-decoration: none;
-					}
-
-						#TOC nav > ul > li a.icon:before {
-							margin-right: 0.5em;
-						}
-
-					#TOC nav > ul > li:first-child {
-						margin-left: 0;
-					}
-
-					#TOC nav > ul > li .button {
-						height: 2.25em;
-						line-height: 2.25em;
-						margin-bottom: 0;
-						padding: 0 1em;
-						position: relative;
-						top: -0.075em;
-						vertical-align: middle;
-					}
-
-					#TOC nav > ul > li > ul {
-						display: none;
-					}
-
-		#TOC .container {
-			position: relative;
-		}
-
-			#TOC .container h1 {
-				left: 0;
-			}
-
-			#TOC .container nav {
-				right: 0;
-			}
-
 	.dropotron {
 		background: #fff;
 		border-radius: 0.5em;
@@ -1337,6 +1219,183 @@
 				height: 0.75em;
 				position: absolute;
 				right: 1.5em;
+				top: -0.375em;
+				width: 0.75em;
+				box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.075);
+				box-shadow: -1px -1px 2px 0 rgba(0, 0, 0, 0.05);
+			}
+
+	#TOC {
+		/*background-color: #fff;
+		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);*/
+		color: inherit;
+		cursor: default;
+		height: 3em;
+		left: 1.45em;
+		line-height: 3em;
+		position: fixed;
+		top: 100;
+		width: 10%;
+		z-index: 10000;
+	}
+
+		#TOC.reveal {
+			-moz-animation: reveal-header 0.5s;
+			-webkit-animation: reveal-header 0.5s;
+			-o-animation: reveal-header 0.5s;
+			-ms-animation: reveal-header 0.5s;
+			animation: reveal-header 0.5s;
+		}
+
+		#TOC.alt {
+			-moz-animation: none;
+			-webkit-animation: none;
+			-o-animation: none;
+			-ms-animation: none;
+			animation: none;
+			background-color: transparent;
+			box-shadow: none;
+			color: #fff;
+		}
+
+		#TOC h1 {
+			color: inherit;
+			font-size: 1em;
+			height: inherit;
+			left: 1.25em;
+			line-height: inherit;
+			margin: 0;
+			padding: 0;
+			position: absolute;
+			top: 0;
+		}
+
+			#TOC h1 span {
+				font-weight: 300;
+			}
+
+			#TOC h1 a {
+				border: 0;
+			}
+
+		#TOC nav {
+			height: inherit;
+			line-height: inherit;
+			position: static;
+			right: 0em;
+			top: 0;
+			vertical-align: middle;
+		}
+
+			#TOC nav > ul {
+				list-style: none;
+				margin: 0;
+				padding-left: 0;
+			}
+
+				#TOC nav > ul > li {
+					border-radius: 0.5em;
+					line-height: 2em;
+					display: inline-block;
+					margin-left: 2em;
+					padding-left: 0;
+				}
+
+					#TOC nav > ul > li a {
+						border: 0;
+						color: inherit;
+						display: inline-block;
+						text-decoration: none;
+					}
+
+						#TOC nav > ul > li a.icon:before {
+							margin-right: 0.5em;
+						}
+
+					#TOC nav > ul > li:first-child {
+						margin-left: 0;
+					}
+
+					#TOC nav > ul > li .button {
+						height: 2.25em;
+						line-height: 2.25em;
+						margin-bottom: 0;
+						padding: 0 1em;
+						position: relative;
+						top: -0.075em;
+						vertical-align: middle;
+					}
+
+					#TOC nav > ul > li > ul {
+						display: none;
+					}
+
+		#TOC .container {
+			position: relative;
+		}
+
+			#TOC .container h1 {
+				left: 0;
+			}
+
+			#TOC .container nav {
+				right: 0;
+			}
+			
+	.dropotronL {
+		background: #fff;
+		border-radius: 0.5em;
+		box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.05);
+		list-style: none;
+		margin-top: -0.75em;
+		min-width: 10em;
+		padding: 0.75em 0;
+	}
+
+		.dropotronL li {
+			padding: 0;
+		}
+
+			.dropotronL li a {
+				-moz-transition: none !important;
+				-webkit-transition: none !important;
+				-o-transition: none !important;
+				-ms-transition: none !important;
+				transition: none !important;
+				border: 0;
+				box-shadow: inset 0 1px 0 0 rgba(144, 144, 144, 0.2);
+				color: inherit;
+				display: block;
+				line-height: 2.25em;
+				padding: 0 1em;
+			}
+
+			.dropotronL li:first-child > a {
+				box-shadow: none;
+			}
+
+			.dropotronL li.active > a, .dropotronL li:hover > a {
+				background: #e0555a;
+				color: #ffffff !important;
+			}
+
+		.dropotronL.level-0 {
+			font-size: 0.9em;
+			margin-top: 1em;
+		}
+
+			.dropotronL.level-0:before {
+				-moz-transform: rotate(45deg);
+				-webkit-transform: rotate(45deg);
+				-o-transform: rotate(45deg);
+				-ms-transform: rotate(45deg);
+				transform: rotate(45deg);
+				background: #fff;
+				content: '';
+				display: block;
+				height: 0.75em;
+				position: absolute;
+				left: 1.5em;
 				top: -0.375em;
 				width: 0.75em;
 				box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.075);

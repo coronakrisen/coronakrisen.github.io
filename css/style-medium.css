@@ -184,3 +184,7 @@
 				display: inline-block;
 				width: 6.25em;
 			}
+
+	#TOC{
+		display:none;
+	}
