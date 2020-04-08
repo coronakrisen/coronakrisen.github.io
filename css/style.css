@@ -993,7 +993,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 5em 0 3em 0;
+		padding: 5em 0 0em 0;
 	}
 
 		.wrapper.style1 {
@@ -1440,8 +1440,9 @@
 		position: relative;
 		background: #ffffff;
 		border-radius: 0.5em;
-		margin-bottom: 2em;
-		padding: 3em;
+		margin-bottom: 0em;
+		padding: 10em;
+		padding-top: 2em;
 	}
 
 		#main > .container > :last-child,
