@@ -515,6 +515,19 @@
 				width: 100%;
 			}
 
+		.image.post {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 140%;
+			left: -20%;
+		}
+
+			.image.post img {
+				display: block;
+				width: 100%;
+			}
+
+
 /* List */
 
 	ol {
@@ -1341,7 +1354,7 @@
 			#TOC .container nav {
 				right: 0;
 			}
-			
+
 	.dropotronL {
 		background: #fff;
 		border-radius: 0.5em;

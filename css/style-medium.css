@@ -185,6 +185,22 @@
 				width: 6.25em;
 			}
 
+/* Table of Content */
+
 	#TOC{
 		display:none;
+	}
+
+/* Images */
+
+.image.post {
+	display: block;
+	margin: 0 0 2em 0;
+	width: 100%;
+	left: 0;
+}
+
+	.image.post img {
+		display: block;
+		width: 100%;
 	}
