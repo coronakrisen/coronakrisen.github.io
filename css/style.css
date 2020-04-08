@@ -1459,14 +1459,15 @@
 		background: #ffffff;
 		border-radius: 0.5em;
 		margin-bottom: 0em;
-		padding: 10em;
+		padding-left: 20%;
+		padding-right: 20%;
 		padding-top: 2em;
 		padding-bottom: 6em;
 	}
 
-		#main > .container > :last-child,
-		#main > .container > :last-child > :last-child,
-		#main > .container > :last-child > :last-child > :last-child {
+		#mainpost > .container > :last-child,
+		#mainpost > .container > :last-child > :last-child,
+		#mainpost > .container > :last-child > :last-child > :last-child {
 			margin-bottom: 0;
 		}
 
