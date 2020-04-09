@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Gårdhus | SODAS"
+  },
+  "text": {
+    "more": "Når to hashtags er blevet brugt i samme tweet har er der dannet en forbindelse, jo tykkere stregen er jo stærkere er forbindelsen. Jo større cirklen er jo flere forbindelse har noden.",
+    "intro": "Dette er en visualisering af netværket af sam-forekomster af Hashtags.",
+    "title": "Netværket for den fulde periode"
+  },
+  "legend": {
+    "edgeLabel": "Sam-forekomster",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Hashtags"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 5,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 4,
+      "minEdgeSize": 0.3,
+      "minNodeSize": 1,
+      "maxNodeSize": 15
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
