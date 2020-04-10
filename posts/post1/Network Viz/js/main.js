@@ -102,7 +102,7 @@ function initSigma(config) {
 				a.clusters[b.color].push(b.id);//SAH: push id not label
 
                 a.clusterNames[b.color] || (a.clusterNames[b.color] = []);
-                a.clusterNames[b.color] = b.attr.attributes["Modularity Class"];//The label of the group for color b.color (Perhaps you want b.attr["my_custom_column"] here)
+                a.clusterNames[b.color] = b.attr.attributes["Klynge"];//The label of the group for color b.color (Perhaps you want b.attr["my_custom_column"] here)
 
 
 			}
@@ -586,7 +586,7 @@ function nodeActive(a) {
         $GP.info_data.html(e.join("<br/>"))
     }
     $GP.info_data.show();
-    $GP.info_p.html("Connections:");
+    $GP.info_p.html("Forbindelser:");
     $GP.info.animate({width:'show'},350);
 	$GP.info_donnees.hide();
 	$GP.info_donnees.show();
