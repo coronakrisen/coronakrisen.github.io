@@ -8,7 +8,7 @@
     "text": "Gårdhus | SODAS"
   },
   "text": {
-    "more": "Når to hashtags er blevet brugt i samme tweet er der dannet en forbindelse.<br/>Størrelsen på stregen er afgjort af antallet af forbindelse mellem to hashtags.<br/>Størrelsen på cirklen er afgjort af hvor mange forbindelser noden har.",
+    "more": "Når to hashtags er blevet brugt i samme tweet er der dannet en forbindelse mellem dem.<br/>Størrelsen på stregen der forbinder to hashtags er afgjort af antallet af forbindelser mellem dem.<br/>Størrelsen på cirklen er afgjort af hvor mange forbindelser noden har.",
     "intro": "Dette er en visualisering af netværket af sam-forekomster af Hashtags.",
     "title": "Netværket for den fulde periode"
   },
