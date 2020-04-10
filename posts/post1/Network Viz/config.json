@@ -8,7 +8,7 @@
     "text": "Gårdhus | SODAS"
   },
   "text": {
-    "more": "Når to hashtags er blevet brugt i samme tweet har er der dannet en forbindelse, jo tykkere stregen er jo stærkere er forbindelsen. Jo større cirklen er jo flere forbindelse har noden.",
+    "more": "Når to hashtags er blevet brugt i samme tweet er der dannet en forbindelse.<br/>Størrelsen på stregen er afgjort af antallet af forbindelse mellem to hashtags.<br/>Størrelsen på cirklen er afgjort af hvor mange forbindelser noden har.",
     "intro": "Dette er en visualisering af netværket af sam-forekomster af Hashtags.",
     "title": "Netværket for den fulde periode"
   },
@@ -38,6 +38,8 @@
       "labelSize": "proportional",
       "labelSizeRatio" : 2,
       "hoverFontStyle": "bold",
+      "borderSize": 1.5,
+      "nodeBorderColor": "#fff",
       "defaultLabelSize": 20
     },
     "graphProperties": {

@@ -516,7 +516,7 @@ display: none;
 
 #information {
 display: none;
-background: #fff;
+background: inherit;
 padding: 1px 10px 10px 10px;
 }
 
