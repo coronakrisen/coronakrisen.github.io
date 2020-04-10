@@ -29,9 +29,9 @@
   "sigma": {
     "drawingProperties": {
       "defaultEdgeType": "straight",
+      "font": "DejaVu Sans",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
-      "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
       "labelThreshold": 1,
       "defaultLabelHoverColor": "#fff",
@@ -41,7 +41,7 @@
       "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 4,
+      "maxEdgeSize": 30,
       "minEdgeSize": 0.3,
       "minNodeSize": 3,
       "maxNodeSize": 20
