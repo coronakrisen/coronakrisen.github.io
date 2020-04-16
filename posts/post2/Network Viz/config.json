@@ -8,9 +8,9 @@
     "text": "Gårdhus | SODAS"
   },
   "text": {
-    "more": "Når to hashtags er blevet brugt i samme tweet har er der dannet en forbindelse, jo tykkere stregen er jo stærkere er forbindelsen. Jo større cirklen er jo flere forbindelse har noden.",
+    "more": "Når to hashtags er blevet brugt i samme tweet er der dannet en forbindelse mellem dem.<br/>Størrelsen på stregen der forbinder to hashtags er afgjort af antallet af forbindelser mellem dem.<br/>Størrelsen på cirklen er afgjort af hvor mange forbindelser noden har.",
     "intro": "Dette er en visualisering af netværket af sam-forekomster af Hashtags.",
-    "title": "Corona-diskussioner i det danske Twitter-landskab"
+    "title": "Netværket for den fulde periode"
   },
   "legend": {
     "edgeLabel": "Sam-forekomster",
@@ -29,21 +29,24 @@
   "sigma": {
     "drawingProperties": {
       "defaultEdgeType": "straight",
+      "font": "DejaVu Sans",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
-      "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
       "labelThreshold": 1,
       "defaultLabelHoverColor": "#fff",
-      "fontStyle": "bold",
+      "labelSize": "proportional",
+      "labelSizeRatio" : 2,
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "borderSize": 1.5,
+      "nodeBorderColor": "#fff",
+      "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 40,
+      "maxEdgeSize": 30,
       "minEdgeSize": 0.3,
-      "minNodeSize": 1,
-      "maxNodeSize": 15
+      "minNodeSize": 3,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
