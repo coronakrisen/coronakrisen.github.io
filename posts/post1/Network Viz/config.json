@@ -8,7 +8,7 @@
     "text": "Gårdhus | SODAS"
   },
   "text": {
-    "more": "Når to hashtags er blevet brugt i samme tweet er der dannet en forbindelse mellem dem.<br/>Størrelsen på stregen der forbinder to hashtags er afgjort af antallet af forbindelser mellem dem.<br/>Størrelsen på cirklen er afgjort af hvor mange forbindelser noden har.",
+    "more": "En streg mellem to cirkler viser, at en Twitter-bruger har sammenkædet de to hashtags, ved at bruge dem i samme tweet. Størrelsen på cirklen indikerer hvor ofte det pågældende hashtag er blevet brugt, og tykkelsen på stregerne mellem cirklerne indikerer, hvor ofte de to hashtags bliver kædet sammen i tweets. Netværket er visualiseret via brug af en algoritme, der for overskuelighedens skyld trækker forbundne hashtags tættere sammen og skubber de ikke-forbundne fra hinanden.</br></br>Ved brug af et såkaldt modularitets-mål har vi identificeret 9 klynger af særligt forbundne hashtags. Disse klynger er markeret på figuren ved hjælp af forskellige farver. Vi har, igen for overskuelighedens skyld, fjernet alle hashtags, der indeholder ‘corona’ eller ‘covid’, idet alle de undersøgte tweets nævner ord, der i sagens natur er relateret hertil (jf. vores søgeord). Herudover har vi også fjernet hashtaggene 'dkpol' og 'dkmedier', da disse bruges så generelt, at de ikke bærer megen information i sig selv, og forstyrrer grupperingen af de resterende hashtags i klynger.</br></br>Læs hele analysen <a href='https://coronakrisen.github.io/post1.html'>her</a>",
     "intro": "Dette er en visualisering af netværket af sam-forekomster af Hashtags.",
     "title": "Netværket for den fulde periode"
   },
