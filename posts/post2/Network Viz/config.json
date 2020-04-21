@@ -36,21 +36,21 @@
       "labelThreshold": 1,
       "defaultLabelHoverColor": "#fff",
       "labelSize": "proportional",
-      "labelSizeRatio" : 2,
+      "labelSizeRatio" : 1.5,
       "hoverFontStyle": "bold",
       "borderSize": 1.5,
       "nodeBorderColor": "#fff",
-      "defaultLabelSize": 20
+      "defaultLabelSize": 10
     },
     "graphProperties": {
       "maxEdgeSize": 30,
       "minEdgeSize": 0.3,
-      "minNodeSize": 3,
+      "minNodeSize": 1,
       "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
-      "minRatio": 0.75
+      "minRatio": 5
     }
   }
 }
