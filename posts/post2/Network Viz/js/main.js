@@ -77,7 +77,7 @@ function initSigma(config) {
 		mouseProps=config.sigma.mouseProperties;
 	else
 		mouseProps={
-        minRatio: 1, // How far can we zoom out?
+        minRatio: 10, // How far can we zoom out?
         maxRatio: 20, // How far can we zoom in?
     	};
 	
