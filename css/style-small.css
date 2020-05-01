@@ -133,3 +133,27 @@
 		#footer .icons {
 			margin: 0 0 2em 0;
 		}
+
+/* Image */
+	
+	.side-by-side {
+		width:100%;
+		padding:5px
+	}
+
+		.side-by-side img {
+			position:relative;
+			max-width:100%;
+		}
+
+		.side-by-side img.left {
+			left:0%;
+		}
+
+	.img_d1 {
+		display:none;
+	}
+
+	.img_d2 {
+		display:inline;
+	}

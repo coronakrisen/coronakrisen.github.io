@@ -161,9 +161,14 @@
 				color: #545454 !important;
 			}
 
-			#navPanel .link .indent-1 {
+			#navPanel .link.depth-1 {
 				display: inline-block;
-				width: 1.25em;
+				line-height:2em;
+			}
+
+			#navPanel .link .indent-1 {
+				display: inline-block !important;
+				width: 0em;
 			}
 
 			#navPanel .link .indent-2 {

@@ -502,6 +502,7 @@
 
 			.image.left img, .image.right img {
 				width: 100%;
+				height: 100%;
 			}
 
 		.image.fit {
@@ -526,13 +527,38 @@
 				display: block;
 				width: 100%;
 			}
+
+	.side-by-side {
+		float:left;
+		width:50%;
+		padding:5px
+	}
+
+		.side-by-side img {
+			position:relative;
+			max-width:170%;
+		}
+
+		.side-by-side img.left {
+			left:-70%;
+		}
+
+	.img_d1 {
+
+	}
+
+	.img_d2 {
+		display:none;
+	}
+
+
 /* iFrame */
 .resp-container {
     position: relative;
     overflow: hidden;
     padding-top: 0%;
-    width: 160%;
-    left: -30%;
+    width: 180%;
+    left: -40%;
 }
 
 .resp-iframe {
@@ -1588,11 +1614,6 @@
 		}
 	}
 
-/* Intro */
-	#intro {
-		color: #000;
-	}
-
 /* CTA */
 
 	#cta {
@@ -1631,3 +1652,16 @@
 		#footer .copyright {
 			font-size: 0.8em;
 		}
+
+/* Anchor */
+
+	.anchor {
+	    padding-top: 70px;
+	    margin-top: -70px;
+	}
+
+/* Bios */
+	.bio {
+		display:block;
+		min-height:180px;
+	}

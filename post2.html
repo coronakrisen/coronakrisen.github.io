@@ -1,0 +1,713 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162992775-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-162992775-1');
+		</script>
+		<title> Corona-lockdown har ændret stemningen på Twitter </title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.dropotronL.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.slidertron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<script type="text/javascript" src="js/blowup.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<link rel="icon" href="images/index.ico">
+
+	</head>
+	<body>
+
+		<!-- Header -->
+		<header id="header" class="skel-layers-fixed">
+			<h1><a href="index.html">CORONAKRISEN <span>Copenhagen Center for Social Data Science (SODAS)</span></a></h1>
+			<nav id="nav">
+				<ul>
+					<li><a href="index.html">Hjem</a></li>
+					<li>
+						<a href="" class="icon fa-angle-down">Opslag</a>
+						<ul>
+							<li><a href="post1.html">#1: Corona-diskussioner i det danske Twitter-landskab</a></li>
+							<li><a href="post2.html">#2: Corona-lockdown har ændret stemningen på Twitter</a></li>
+						</ul>
+					</li>
+					<li><a href="Om os.html">Om os</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<!-- TOC -->
+		<header id="TOC" class="skel-layers-fixed">
+			<nav id="nav">
+				<ul>
+					<li>
+						<a href="" class="icon fa-angle-down">Indholdsfortegnelse</a>
+						<ul>
+							<li> <a href="#1">1. Introduktion </a></li>
+							<li> <a href="#2">2. Hvad tweetes der om i relation til corona-epidemien i Danmark? </a></li>
+							<li> <a href="#2.1">2.1. Hashtag-netværket i perioden op til nedlukningen </a></li>
+							<li> <a href="#2.2">2.2. Hashtag-netværket i perioden under nedlukningen </a></li>
+							<li> <a href="#2.3">2.3. Hashtag-netværket i perioden efter nedlukningen </a></li>
+							<li> <a href="#2.4">2.4. Tema-klyngernes indbyrdes tyngde over tid </a></li>
+							<li> <a href="#3">3. Hvad diskuteres der i Twitter-landskabets klynger? </a></li>
+							<li> <a href="#3.1">3.1. Hvilke sundheds-emner optager Twitter-Danmark? </a></li>
+							<li> <a href="#3.2">3.2. Hvilke økonomisk-politiske emner optager Twitter-Danmark? </a></li>
+							<li> <a href="#3.3">3.3. Hvilke reaktioner på corona-krisen diskuterer Twitter-Danmark? </a></li>
+							<li> <a href="#4">4. Spørgsmål for vores næste opslag, samt videre undersøgelser </a></li>
+							<li> <a href="#5">5. Data & metode </a></li>
+							<li> <a href="#footers">Noter & Referencer </a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</header>
+
+<!-- Main -->
+			<section id="mainpost" class="wrapper style2">
+<!-- Overskrift -->
+				<header class="major">
+					<h2>Corona-lockdown har ændret tonen i danske Covid-19 tweets</h2>
+					</header>
+				<div class="container">
+						<p style="color:#000;">Tweets om corona har generelt en mere negative tone end andre tweets. Efter statsministeren annoncerede den delvise nedlukning, blev tonen på Twitter angående corona mindre negativ. Siden annonceringen taler Twitter-Danmark mindre om frygt og mere om (mis)tillid. Men tillid og mistillid til hvem eller hvad - og hvorfor?</p>
+						<p><sup><i>Udarbejdet af: Thyge Enggaard, Kristoffer Glavind, Emilie Gregersen, Tobias Gårdhus, Sofie Astrupgaard, Morten Axel Pedersen, Samantha Breslin & Friedolin Merhout</i></sup></p>
+
+					<!-- Content -->
+					<div style="background-color: #DCDCDC; padding: 10px; border: 0.5px solid grey; border-radius:15px">
+					<section id="summary">
+						<p><b>Take-aways:
+							<ul>
+								<li>Efter nedlukningen blev annonceret den 11. marts, bruger danske tweets om Corona tilsyneladende mere positivt-ladede ord. For tweets, der ikke eksplicit nævner Corona, sker der ingen ændring. Ændringen svarer til, at der i hvert fjerde tweet indgår et positivt-ladet ord mere (fx “tak”), eller et negativt-ladet ord mindre (fx “ødelagt”).</li>
+								<li>En analyse af sproglige affekter indikerer, at Twitter-Danmark efter nedlukningen i højere grad taler om tillid - og i mindre grad om frygt. Men tillid til hvad, og til hvem? Og kunne der være tale om mistillid i stedet?</li>
+								<li>En kvalitativ kodning af 500 tweets, indikerer at mistillid måske fylder mere end tillid, særligt hvad angår politikere, herunder regeringen, og internationale institutioner som EU, WHO og FN.</li>
+								<li>Kun hvad angår videnskaben og sundhedsvæsenet, fylder tillid markant mere end mistillid.</li></b>
+							</ul>
+						</p>
+					</section>
+				</div>
+				<br/>
+						<section style="color:#000;">
+<!-- 0. Introduktion -->
+							<h3 id="intro" class="anchor">Introduktion</h3>
+							<p style="margin-bottom:10px">Vores <a href="post1.html">første opslag</a> kortlagde hvilke emner, der optog Twitter-Danmark ifm. med corona-pandemien. Dette opslag består af fire dele, der ligger i forlængelse heraf:</p>
+								<ol>
+									<li><a href="#1"><b>En analyse af tonen i danske corona-tweets:</b></a> En kvantitativ analyse af den overordnede tone i danske tweets op til og efter at regeringen annoncerede den delvise nedlukning af Danmark.</li>
+
+									<li><a href="#2"><b>En analyse af en række affekter og attituder i danske corona-tweets:</b></a> En analyse af hvordan følelser og attituder sprogligt repræsenteres på Twitter og udvikler sig i samme periode. Denne består af tre dele:
+										<ol style="list-style:lower-alpha;padding-top:5px;margin-bottom:10px;">
+											<li><a href="#2.1">Den overordnede kvantitative udvikling:</a> En kvantitativ analyse af den overordnede udvikling i brug af ord knyttet til seks affekter og to attituder baseret på en affekt-model fra National Research Council Canada (NRC).</li>
+											<li><a href="#2.2">En kvalitativ sammenligning:</a> En kvalitativ analyse af tweets, der jf. NRCs model taler om tillid.</li>
+											<li><a href="#2.3">En justering af den kvantitative analyse:</a> En kvalitativ justering af modellen fra NRC og sammenligning af de tilpassede resultater med de oprindelige resultater.</li>
+										</ol>
+										</li>
+
+									<li><a href="#3"><b>En opdatering af centrale analyser fra forrige opslag:</b></a> Opdaterede emne-klynger fra “<a href="post1.html">Corona-diskussioner i det danske Twitter-landskab</a>” på baggrund af nye data. Dette indgår i afsnit 2.a. herover.</a></li>
+
+									<li><a href="#4"><b>Opsummerende refleksioner om hvad der kan forklare vores analysers resultater:</b></a> Som del af afsnit 1 og 2 redegør vi for forskellige teorier, der kan pege i retning af hvorfor vores analyser ser ud som de gør. Her samler vi op, og skitserer en retning for videre analyse</li>
+
+
+								</ol>
+
+<!-- 1. Sentiment -->
+							<h3 id="1" class="anchor">1. Tonen i corona-samtalen på Twitter blev mindre negativt ladet efter den delvise nedlukning - men hvad betyder det?</h3>
+
+							<p>I Danmark er meningsdannere, politikere og journalister overrepræsenterede på Twitter, som derfor ikke kan siges at repræsentere den brede befolkning. Herudover stemmer det, som folk skriver (offentligt) på sociale medier, ikke nødvendigvis overens med deres (private) holdninger og følelser. Men en analyse af indholdet af tweets kan give et billede af, hvordan tonen er blandt meningsdannere, beslutningstagere og nyhedsformidlere, samt den del af befolkningen, der er aktive på platformen.
+							<br/><br/>
+							Figur 1 viser udviklingen i tonen for alle tweets, der bruger ord forbundet med corona<sup><a href="#footers" class="ui-tooltip" title="Corona, COVID, virus, epidemi og pandemi eller ord der indeholder disse (fx COVID-19)."><span style="cursor: help;">[1]</span></a></sup>, og for de tweets, der ikke direkte indeholder sådanne ord<sup><a href="#footers" class="ui-tooltip" title="Ikke-covid’ er tweets, der indeholder et af vores 147 brede corona-søgeord, men ikke indeholder følgende direkte relaterede ord (eller ord, hvor et af følgende ord indgår som en del): 'corona', 'covid', 'virus', 'pandemi', 'epidemi', 'brydkurven', 'lockdowndk', ‘flattenthecurve', 'lockdown', 'denmarklockdown', 'smitte', 'smittekæde', 'smittekæden', 'lege', 'legeaftaler', 'legeaftale', 'udbrud', 'udbruddet', 'test', 'tests', 'teste', 'karantæne' , 'udsatte' , 'sårbare', 'restriktioner' , 'skolelukning', 'hjemmearbejde', 'kontaktforbud', 'udgangsforbud', 'risikogruppe', 'samfundssind', 'hackthepandemic', 'dksocial', 'blivhjemme', 'bliv hjemme', 'holdafstand','hold afstand', 'paspåhinanden', 'pas på hinanden', 'sammenhverforsig', 'sammen hver for sig','sammenmodcorona', 'sammen mod corona', 'TAKdk', 'coronakrise', 'krisetid', 'hamstring', 'hamstre', 'hamstrer'. Denne gruppe af tweets kan således godt omhandle corona, men formodentlig i mindre grad end covid-gruppen."><span style="cursor: help;">[2]</span></a></sup>. Den røde, stiplede linje markerer d. 11. marts, hvor den delvise nedlukning af store dele af Danmark blev annonceret.</p>
+
+<!-- fig1 -->
+							<a href="posts/post2/images/sentiment_dev_datav3.svg" class="image post" target="_blank"><img src="posts/post2/images/sentiment_dev_datav3.svg" alt=""/></a>
+							<div class = "table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 1 - Gennemsnitlig sentiment-score per dag over perioden</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+
+							<p>
+								Figuren viser, at tweets der nævner corona i gennemsnit blev mindre negative efter lockdownen blev annonceret. Derimod har tonen i tweets, der ikke direkte nævner corona-relaterede ord været nogenlunde konstant i hele perioden.
+								<br /><br />
+								Vores undersøgelse af tonen i disse tweets er lavet ved brug af en sentiment-analyse. Denne metode, der ofte anvendes til kvantitativ tekst-analyser, bygger på en liste af ord (‘ordbog’), som har fået tildelt en score fra -5 for det mest negative (fx “kraftedme”) til +5 for det mest positive (fx “hurra”). Afsnit 1.1. [indsæt som link] beskriver denne metoden og dens antagelser i flere detaljer, samt de forskellige fordele og ulemper, som er forbundet hermed.
+								<br /><br />
+								Ændringen i tonen, som figur 1 antyder, baserer sig på et gennemsnit over scoren for alle tweets, og kan derfor både stamme fra faldende brug af negativt ladede ord og fra stigende brug af positivt ladede ord. Figuren viser en gennemsnitlig ændring i sentiment på ~0,45. Det svarer til et ekstra “tak” i hver fjerde til femte tweet efter annonceringen af den delvise nedlukning, eller tilsvarende at “ødelagt” optræder en gang mindre i hver fjerde til femte tweet. Afsnit 1.2. [indsæt som link] viser 40 ord, der på forskellig vis bidrager til ændringen.
+								<br /><br />
+								Sentiment-analysen giver ikke et svar på hvorfor denne forandring er sket, og kan heller ikke fortælle os noget om hvorvidt den mindre negative tone på Twitter stemmer overens med brugernes følelser. Én mulig forklaring er, at forskellige Twitter-brugere har været aktive før og efter annonceringen af den delvise nedlukning. Ved kun at analysere en mindre række brugere, der er aktive over hele perioden, finder vi, at selv for denne gruppe, er tonen i deres tweets blevet mindre negativ. Afsnit 1.3. [indsæt som link] udfolder dette resultat.
+								<br /><br />
+								En sentiment-analyse har den fordel, at det er let at behandle store tekstmængder på én gang, og dermed pege på mønstre. Men en sådan analyse fortæller ikke umiddelbart hvorfor eller i hvilke specifikke sammenhænge brugen af bestemte ord har ændret sig. Derfor kan den dække over væsentlige nuancer i tweets om Corona. Hvorfor har Twitter-Danmark benyttet sig af færre negativt-ladede ord efter den delvise nedlukning? En spin-doktor vil givetvist finde årsagen i Mette Frederiksen og resten af regeringens håndtering af krisen - men disse nuancer kan vores analyser ikke sige noget om. Afsnit 1.4. [indsæt som link] nævner en række samfundsvidenskabelige teorier, der kan være relevante ift. at forstå udviklingen.
+							</p>
+
+<!-- 1.1. -->
+							<h4 id="1.1" class="anchor">1.1. Hvordan kan man undersøge en tone i en tekst?</h3>
+<!-- 1.1.1. -->
+							<h5 id="1.1.1" class="anchor">1.1.1. Kvantitative sentiment-analyser</h4>
+
+							<p>
+								Ifølge litteraturen på området har en såkaldt sentiment-analyse til formål at identificere og kvantificere den overordnede “tone” eller “holdning” i en tekst. Dette tager form af en opdeling af en tekst som værende hhv. ‘positiv/for’ eller ‘negativ/imod’ [REF]. Kvantitative sentiment-analyser er typisk ordbogs-baserede, dvs. de består i at sammenligne en given tekst (fx et tweet) med en liste af ord, der er klassificeret som enten positivt eller negativt ladede. Nogle ordbøger er udviklet over længere tid og på tværs af forskellige kontekster, andre er tilpasset eller udviklet specifikt til en given undersøgelse.
+								<br /><br />
+								I forhold til sentiment-analyser af danske tekster, har lektor <a href="https://www.dtu.dk/service/telefonbog/person?id=1755&tab=1" target="_blank">Finn Årup Nielsen</a> fra DTU Compute udviklet den såkaldte <a href = "https://github.com/fnielsen/afinn" target="_blank">AFINN</a>-model, der kan bruges til at kvantificere tonen i store tekstmængder baseret på en ordbogs-tilgang. AFINN-modellen tildeler en ladning (‘positiv’ eller ‘negativ’) til hvert ord der indgår i ordbogen, som desuden er gradueret på en skala fra fx -5 (mest ‘negativ’) til +5 (mest ‘positiv’). Sentiment-scoren for et enkelt tweet er givet som summen af sentiment-scoren for hvert ord, der indgår i tweetet.
+								<br /><br />
+								For at give et lille indblik i de AFINN-modellens ordbog, har vi i figur 2 vist udvalgte ord samt antallet af ord for hver score i AFINN-modellen. Her er det værd at bemærke to ting. For det første har langt de fleste ord en lav til moderat ladning (knap 80 pct af ordene har en score mellem -2 og 2. For det andet er der langt flere negativt ladede ord en positivt ladede ord. Cirka to-tredjedele af ordene er negativt ladede, hvilket betyder, at der er omtrent dobbelt så mange negativt ladede ord, som positivt ladede ord.
+							</p>
+
+<!-- fig2 -->
+							<div class="table-wrapper">
+								<table class="alt">
+									<thead>
+										<tr>
+											<th>Score</th>
+											<th>Eksempler på ord</th>
+											<th>Antal ord i denne kategori</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>5 (mest positiv</td>
+											<td>“Hurra”, “Betagende”, “Superb”</td>
+											<td>4</td>
+										</tr>
+										<tr>
+											<td>4</td>
+											<td>“Eminent”, “mesterværk”, “wow”</td>
+											<td>52</td>
+										</tr>
+										<tr>
+											<td>3</td>
+											<td> “bedste”, “glædelig”, “uimodståelig”</td>
+											<td>260</td>
+										</tr>
+										<tr>
+											<td>2</td>
+											<td>“ambitiøse”, “tak”, “velfortjent”</td>
+											<td>710</td>
+										</tr>
+										<tr>
+											<td>1</td>
+											<td>“accepteret”, “begår”, “fortjent”</td>
+											<td>208</td>
+										</tr>
+										<tr>
+											<td>-1</td>
+											<td>“affald”, “begravelser”, “stoppe”</td>
+											<td>308</td>
+										</tr>
+										<tr>
+											<td>-2</td>
+											<td>“frygt”, “smitte”, “voldsom”</td>
+											<td>1554</td>
+										</tr>
+										<tr>
+											<td>-3</td>
+											<td>“angst”, “tåbelig”, “voldelig”</td>
+											<td>409</td>
+										</tr>
+										<tr>
+											<td>-4</td>
+											<td>“fuck”, “lort”, “tortur”</td>
+											<td>37</td>
+										</tr>
+										<tr>
+											<td>-5 (mest negativ)</td>
+											<td>“kraftedme”, “møgso”, “son-of-a-bitch”</td>
+											<td>9</td>
+										</tr>
+									</tbody>
+								</table>
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 2 - Eksempler på ord og deres ladning fra AFINN-ordbogen</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+<!-- 1.1.2. -->
+							<h5 id="1.1.2" class="anchor">1.1.2. Hvad er problemerne med en sentiment analyse?</h4>
+							<p style="margin-bottom:10px">
+							Selvom sentiment-analyser er en effektiv måde at kategorisere store mængder data på, indeholder metoden en række problematiske antagelser, som alle gør analyserne skal fortolkes varsomt. Særligt vil vi fremhæve følgende:
+							</p>
+							<ul>
+								<li>Ord kan ikke nødvendigvis inddeles i ‘positive’ ‘neutrale’, og ‘negative’. ‘Krise’ er et eksempel på et ord, hvis ‘valens’ er svær at afgøre i den nuværende situation - er det ‘negativt’ eller ‘neutralt’?</li>
+								<li>Selv for ord, der i én kontekst synes at udtrykke noget ‘positivt’ eller ‘negativt’ [fx “en række virksomheder har udnyttet krisen til at forbedre deres produkter.”], kan denne forståelse ændres, når samme ord bruges i en ny kontekst [fx “en række virksomheder har udnyttet krisen ved at snyde sig til midler fra hjælpepakkerne.”].</li>
+								<li>En tekst samlede udtryk kan ikke nødvendigvis opsummeres som en sum af enkelte, udvalgte ord; fx kan ironi og sarkasme ændre komplet på forståelsen af teksten.</li>
+								<li>Enhver konkret udvikling af en ordbog indeholder en række valg af hvilke ord der indgår, og hvilke der ikke gør. Nogle ordbøger er udelukkende baseret på menneskelige vurderinger; andre benytter sig af en såkaldt superviseret tilgang, hvor en computer trænes til at generaliserer en menneskelig vurdering. I begge tilfælde kan der opstår ‘fejl’. På listen over positive ord, bliver brugt relativt mindre (se afsnit1.2.), indgår fx ordet ‘grand’, som vi ikke vurderer til at være ‘positivt’ (og måske slet ikke et dansk ord).</li>
+								<li>Størrelsen på ordbogen (hvor mange ord er medtaget) kan påvirke sentiment-scoren; jo flere ord, der er medtaget, des større kan sentiment-scoren blive. Dette er særligt en udfordring for mindre ordbøger, hvilket er en af grundene til, at vi i disse analyser har benyttet os af eksisterende ordbøger, frem for at udvikle vores egne.</li>
+							</ul>
+
+<!-- 1.2. -->
+							<h4 id="1.2" class="anchor">1.2. Hvilke forskydninger i ordbrug er med til at drive udviklingen?</h4>
+
+							<p style="margin-bottom:10px">
+							For bedre at forstå hvad der driver den gennemsnitlige udviklingen i tonen (+0.43), har vi kortlagt hvilke ord i afinn-ordbogen, der bliver brugt mere og mindre. Overordnet set kan ændringen opdeles i fire dele:
+							</p>
+							<ul>
+								<li>Negativt ladede ord, som bruges relativt mindre, øger den gennemsnitlige score med 0.66.</li>
+								<li>Positivt ladede ord, som bruger relativt mere, øger den gennemsnitlige score med 0.43.</li>
+								<li>Negativt ladede ord, som bruges relativt mere, mindsker den gennemsnitlige score med 0.52.</li>
+								<li>Positivt ladede ord, som bruges relativt mindre, mindsker den gennemsnitlige score med 0.13.</li>
+							</ul>
+
+							<p style="margin-bottom:10px">
+							Figur 3 viser de ti ord, der indenfor hver af de fire kategorier bidrager mest til den samlede udviklinge jf. afinn-modellen. Overordnet kan vi sige at:
+							</p>
+							<ul>
+								<li>De negativt ladede ord skifter fra at omhandle ‘aflysning’, ‘smitte’, og ‘frygt’, til at omhandle ‘krise’ og ‘død’.</li>
+								<li>De positivt ladede ord skifter fra at omhandle ‘anbefalinger’, ‘oplyser’ og ‘positiv’ til at omhandle ‘fantastisk’, ‘støtte og ‘glad.</li>
+							</ul>
+
+<!-- fig3 -->
+							<div class="table-wrapper">
+								<table class="alt">
+									<thead>
+										<tr>
+											<th>Negativt ladede ord, der bruges relativt mere</th>
+											<th>Negativt ladede ord, der bruges relativt mindre</th>
+											<th>Positivt ladede ord, der bruges relativt mere</th>
+											<th>Positivt ladede ord, der bruges relativt mindre</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>krisen</td>
+											<td>aflyse</td>
+											<td>bedre</td>
+											<td>grand</td>
+										</tr>
+										<tr>
+											<td>corona-krisen</td>
+											<td>aflyser</td>
+											<td>fantastisk</td>
+											<td>anbefalinger</td>
+										</tr>
+										<tr>
+											<td>døde</td>
+											<td>aflyst</td>
+											<td>støtte</td>
+											<td>sjov</td>
+										</tr>
+										<tr>
+											<td>dødsfald</td>
+											<td>ramt</td>
+											<td>glad</td>
+											<td>oplyser</td>
+										</tr>
+										<tr>
+											<td>krise</td>
+											<td>smitte</td>
+											<td>når</td>
+											<td>anbefaler</td>
+										</tr>
+											<td>død</td>
+											<td>frygt</td>
+											<td>hjælpe</td>
+											<td>positiv</td>
+										</tr>
+										<tr>
+											<td>corona-krise</td>
+											<td>smittede</td>
+											<td>god</td>
+											<td>anbefaling</td>
+										</tr>
+										<tr>
+											<td>svært</td>
+											<td>panik</td>
+											<td>hjælp</td>
+											<td>roligt</td>
+										</tr>
+										<tr>
+											<td>udsatte</td>
+											<td>influenza</td>
+											<td>tak</td>
+											<td>vækst</td>
+										</tr>
+										<tr>
+											<td>kriser</td>
+											<td>smittet</td>
+											<td>godt</td>
+											<td>forbedre</td>
+										</tr>
+									</tbody>
+								</table>
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 3 - Top 10 ord indenfor hver kategori, listet efter bidrag til ændring i gns. sentiment</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+
+<!-- 1.3. -->
+							<h4 id="1.3" class="anchor">1.3. Skyldes udviklingen en ændring i hvilke brugere, der er aktive?</h4>
+							<p>
+								Ændringen i Twitter-Danmarks ordbrug kan skyldes mange årsager. Én forklaring kan være, at brugere, der generelt benytter flere negativt ladede ord, er mindre aktive efter annonceringen af den delvise nedlukning. Det kan også være at brugere, der generelt benytter flere positivt ladede ord, er mere aktive herefter. 
+								<br /><br />
+								For at undersøge om dette kan forklare den fulde udvikling, viser figur 4 udviklingen i gennemsnitligt sentiment for brugere, der har tweetet mindst to gange om covid i hver af de følgende perioder: 24/2-11/3, 12/3-30/3, 31/3-14/4 og 15/4-28/4 (924 brugere i alt). Som det fremgår af figur 4, sker der også for denne gruppe et skifte efter annonceringen af den delvise nedlukning. Udviklingen for denne gruppe af Twitter-brugere er endda helt på niveau med udviklingen for hele Twitter (~0.45).
+							</p>
+
+<!-- fig4 -->
+							<a href="posts/post2/images/sentiment_ind_datav3.svg" class="image post" target="_blank"><img src="posts/post2/images/sentiment_ind_datav3.svg" alt=""/></a>
+							<div class = "table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 4 - Ændring i gennemsnitlig sentiment for brugere, der er aktive over hele perioden</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+							<p>
+								At analysens resultater inden for individer stemmer godt overens med de overordnede resultater, tyder på, at resultaterne fra figur 1 ikke kun skyldes at andre Twitter brugere er aktive efter annonceringen af den delvise nedlukning, men at tonen også ændrer sig i enkelte brugeres tweets.
+							</p>
+							
+<!-- 1.4. -->
+							<h4 id="1.4" class="anchor">1.4. Fem potentielle forklaringer på ændringen i tonen på Twitter</h4>
+							<p style="margin-bottom:10px">
+							Sentiment-analyser giver ikke indsigt i hvorfor tonen har ændret sig. Metodens usikkerheder og manglende nuancer betyder endvidere, at man skal være varsom med at fortolke resultaterne alt for entydigt. Herunder følger fem potentielle forklaringer, der alle bygger på etablerede samfundsvidenskabelige teorier:
+							</p>
+							<ul>
+								<li><u>Sceneskifte:</u> Med valget om at lukke dele af Danmark ned, bliver der etableret en ny politisk scene, hvori den offentlige samtale udspiller sig. Denne er i høj grad etableret omkring nye emner og retorikker, der bl.a. har til formål at stimulere samfundssind og solidaritet. Den begrænsede politiske diskussion om krisehåndteringen (særligt i perioden lige efter nedlukningen) er ét tegn, der understøtter dette.</li>
+								<li><u>Håndteringskapacitet:</u> Vores oplevelse af risici formindskes, hvis vi oplever at have strategier til at håndterer dem. Klare handlingsplaner forvandler ‘fare’ til påvirkelig ‘risiko’.</li>
+								<li><u>Tweeting som en ‘magisk’ praksis:</u> I mødet med en situation, der delvist er udenfor vores kontrol og forstand, men hvori vi fortsat skal agere, kan det at tweete tjene til at etablere en virkelighed, der (endnu) ikke eksisterer. Mere end at beskrive eksisterende glæde og taknemmelighed, kan tweets herom afspejle forsøget på at genetablere en sådan virkelighed. At ‘være sammen hver for sig’ er fx et eksempel på et fællesskab, der i højere grad skabes end beskrives af samme ord.</li>
+								<li><u>Risikoaversion:</u> Vi foretrækker at have sikkerhed omkring vores situation (fx om vi kan gå på arbejde eller ej, om vores børn kan komme i skole eller ej). Selv hvis vi bliver dårligere stillet (vores arbejdspladser og skoler lukker ned), kan det være at foretrække frem for usikkerheden herom.</li>
+								<li><u>Frihedens tyranni:</u> Socialpsykologisk begreb, som peger på, at vi bliver mindre glade, hvis vi selv skal vælge. Klare retningslinjer, fx for hvor mange vi må være sammen, eller hvem vores børn må lege med, mindsker kravet til hvad vi hver især skal tage stilling til under en pandemi.</li>
+								<li><u>Kognitiv dissonans:</u> Vi har det svært, hvis der er forskel på vores handlinger og vores opfattelse af verden (fx at gå på arbejde som normalt, samtidig med opfattelsen af corona pandemien som en fare, der skal begrænses). Ved at bringe vores handlinger og opfattelse i større overensstemmelse, mindskes denne dissonans.</li>
+							</ul>
+
+<!-- 2. -->
+							<h3 id="2" class="anchor">2. Twitter-Danmark taler mere om tillid - men udtrykkes der tillid eller mistillid, og til hvem?</h3>
+							<p>
+								Ved at dele ord op i positivt ladede, neutrale eller negativt ladede, er der mange sproglige nuancer, som går tabt. For bedre at forstå, hvordan Twitter-Danmark taler om corona, har vi derfor også undersøgt brugen af følelsesladede ord i corona-relaterede tweets.
+								</br></br>
+								Figur 5 viser udviklingen i andelen af corona-tweets, der indeholder ord som kan knyttes til seks såkaldte affekter og to attituder. Bemærk, at et tweet godt kan omhandle en affekt eller attitude, uden nødvendigvis at være et udtryk for samme affekt eller attitude - tweets, der giver udtryk for mistillid vil således også indgå i kategorien tillid, ligesom tweets, der giver udtryk for ikke at være bange, også vil indgå i kategorien frygt. Gennemsnittet for den første uge (24/02-01/03) er sat som indeks 100, hvilket betyder, at udviklingerne i kurverne skal afkodes relativt hertil.
+							</p>
+<!-- fig5 -->
+							<a href="posts/post2/images/index_NRC_datav3.svg" class="image post" target="_blank"><img src="posts/post2/images/index_NRC_datav3.svg" alt=""/></a>
+							<div class = "table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 5 - Udviklingen i andelen af tweets, der jf. NRC-modellen omhandler de seks affekter og to attituder.</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+							<p>
+								Andelen af tweets, der bruger ord omhandlende (mis)tillid stiger mest, imens kun andelen af tweets, der bruger ord omhandlende frygt falder relativt til den første uge. De resterende affekter og attituder følges i højere grad ad og stiger omtrent halvt så meget som tillid. For alle otte kategorier, synes udviklingen i mindre grad at udspille sig lige omkring annonceringen af den delvise nedlukning, end det var tilfældet for sentiment-analysen.
+								</br></br>
+								Figur 5 indeholder seks affekter og to attituder. Udviklingerne i disse kategoriserer skal dog ikke forstås som noget, der afspejler en persons ‘indre’ følelsesliv, men affekter og attituder, som fremstår i sproget. Ligesom sentiment-analysen, bygger affekt analysen på en sammenkædning af en række ord med de respektive affekter og attituder. I figur 5 har vi benyttet os af en model udviklet af National Research Council Canada (NRC). Afsnit 2.1. [indsæt som link] beskriver hvad vi forstår ved sproglige affekter og giver en introduktion til NRC-modellen.
+								</br></br>
+								Ligesom med sentiment-analysen, kan der være betydeligt støj forbundet med en affekt-analyse. For at have en fornemmelse af hvor anvendelig NRC-modellen er i denne danske corona-kontekst, har vi kvalitativt kodet ~500 tweets, der jf. modellen omhandler (mis)tillid. For omkring 65% af de ~500 tweets, angav den kvalitative kodning, at de ikke omhandlede (mis)tillid. Afsnit 2.2. [indsæt som link] beskriver vores kodning og uddyber resultaterne heraf, herunder hvordan den klassificerede (mis)tillid for de resterende ~35% fordeler sig på forskellige aktører.
+								</br></br>
+								I forlængelse af den kvalitative kodning, lavede vi en manuel gennemgang af de 100 mest brugte ord for hver af de otte NRC-kategorier. Det gjorde vi for at vurdere hvilke af de, der var passende at tilknytte de respektive kategorier i en dansk corona-kontekst. Denne procedure efterlod os med mellem 14 og 24 ord for hver kategori. Baseret på denne opdaterede ordbog kørte vi analysen igen. Rangordningen af de forskellige kategorier, samt hvilke der stiger, og hvilke der falder relativt går overordnet igen i den opdaterede analyse, omend niveauet for udviklingerne forandrer sig markant. Afsnit 2.3. [indsæt som link] uddyber vores kvalitative vurdering af NRC-ordbogen og viser de opdaterede resultater. Sluttligt undersøger vi her, hvordan de opdaterede NRC-kategorier interagerer med emne-klyngerne fra opslag 1 [indsæt link hertil].
+								</br></br>
+								Som for sentiment-analysen, efterlader affekt-analysen også en række spørgsmål, som modellerne ikke kan besvare. Hvorfor taler Twitter-Danmark mere om bestemte affekter på forskellige tidspunkter? Afsnit 2.4. [indsæt som link] et bud på en række samfundsvidenskabelige teorier, der delvist vil kunne forklare denne udvikling.
+							</p>
+
+<!-- 2.1. -->
+							<h4 id="2.1" class="anchor">2.1. Hvordan kan man undersøge sproglige affekter kvantitativt?</h4>
+<!-- 2.1.1. -->
+							<h5 id="2.1.1" class="anchor">2.1.1. Kvantificering af affekter og attituder</h5>
+
+							<p>
+								Vi vil i det følgende tage udgangspunkt i affekt-ordbogen <a href="https://nrc.canada.ca/en/research-development/products-services/technical-advisory-services/sentiment-emotion-lexicons" target="_blank">NRC Emotion Lexicon</a>, udviklet af Saif M. Mohammad and Peter D. Turney fra <a href="https://nrc.canada.ca/en" target="_blank">National Research Council Canada</a>. Ordbogen er udviklet baseret på kvalitative vurderinger af ~9.000 udvalgte engelske ord. Den danske udgave er en oversættelse af de engelske ord vha. Google Translate. Denne ordbog fokuserer på seks ‘elementære’ følelser - vrede, afsky, frygt, glæde, tristhed, overraskelse. Hertil inkluderer den, hvad vi betegner som to yderligere attituder, nemlig forventning og tillid.
+								<br /><br />
+								Baseret på disse ordlister, har vi talt andelen af tweets, der på daglig basis nævner mindst ét af de inkluderede ord. Givet usikkerhederne forbundet med disse optællinger, har vi udjævnet kurverne vha. et såkaldt ‘gaussian filter’, for at fokusere på den overordnede udvikling, samt indekseret udviklingerne, for at fokusere på udviklingen indenfor hver af de otte affekter eller attituder.
+							</p>
+
+<!-- 2.1.1. -->
+							<h5 id="2.1.1" class="anchor">2.1.1. Hvad er problemerne med at undersøge affekter og attituder på denne måde?</h5>
+
+							<p style="margin-bottom:10px">
+								Mange af udfordringer, som blev fremhævet i forhold til sentiment-analysen i afsnit 1.1.2., gør sig også gældende for affekt analysen, herunder:
+							</p>
+							<ul>
+								<li>Ord kan ikke nødvendigvis inddeles i tydelige eller gensidigt udelukkende følelseskategorier. ‘Udbrud’ er et eksempel på et ord, hvis følelsesmæssige tilknytning er svær at afgøre i den nuværende situation - er det knyttet til en frygt eller til en overraskelse? Eller er det i denne specifikke kontekst blevet deskriptivt, ‘neutralt’? Således kan konteksten også her spille en stor rolle for vores forståelse af enkelte ord.</li>
+								<li>En tekst samlede udtryk kan ikke nødvendigvis opsummeres som en sum af enkelte, udvalgte ord; igen kan ironi og sarkasme ændre komplet på forståelsen af teksten.
+								</li>
+								<li>Enhver konkret udvikling af en ordbog indeholder en række valg der afgører af hvilke ord der indgår, og hvilke der ikke gør. Analysen i figur X tager udgangspunkt i en allerede eksisterende ordbog. I afsnit 2.3. har vi gennemgået og sorteret i de indeholdte ord, hvilket mindsker dette forbehold, men vi kan fortsat både mangle relevante affekt-ord, samt have inkluderet ord, hvis brug i de enkelte tweets ikke retfærdiggør deres inklusion.</li>
+							</ul>
+
+<!-- 2.2. -->
+							<h4 id="2.2" class="anchor">2.2. Stemmer kvantificeringen af tillid overens med en kvalitativ analyse?</h4>
+							<p style="margin-bottom:10px">
+								Figur 5 indikerer, at flere tweets taler om tillid, men fortæller ikke i hvilken sammenhæng dette sker. Er disse tweets udtryk for tillid eller mistillid (fx ‘Jeg har (ikke) tillid til sundhedsvæsenet’)? Tales der deskriptivt om tillid (fx i en overskrift på en nyhedsartikel som ‘Tilliden til aktiemarkedet daler’)? Og hvor meget af de identificerede tweets er ‘støj’, dvs. tweets, der bruger et ord fra NRC-ordbogens tillids-kategori, uden at de pågældende tweets synes at have noget med tillid at gøre?
+								<br /><br />
+								For bedre at forstå udviklingen for kategorien tillid, har vi kvalitativt klassificeret 10 tweets per dag for perioden 24/02-14/04 (510 tweets i alt), der jf. NRC-ordbogen skulle omhandle tillid, med henblik på at:
+							</p>
+							<ol>
+								<li>Få et indtryk af hvor stor grad af misklassificering den direkte implementering af NRC-ordbogen indebærer.</li>
+								<li>Få et indblik i hvor meget udtryk for hhv. tillid og mistillid fylder.</li>
+								<li>Få en indikation af hvordan tillid og mistillid fordeler sig mellem en række centrale aktører.</li>
+							</ol>
+							<p>
+								Hver af de 510 tweets blev kodet af to personer. Før kodningen definerede vi en række aktører, for hvem tillid eller mistillid kunne være rettet imod - denne kategorisering blev tilpasset efter vi havde kodet ca. 20% af stikprøven. For hver tweet angav de to personer, hvorvidt det udtrykte tillid (1) eller mistillid (-1) mod en given aktør. Vi har aggregeret de to kodninger ved at adskille tillid fra mistillid og herefter tage et gennemsnit. De steder, hvor kun én af de to personer har angivet enten tillid eller mistillid, har vurderingen således kun vægtet med 50%.
+								<br /><br />
+								Samlet fandt vi, at ~65% af de 510 kvantitativt-identificerede tweets jf. den kvalitative klassificering ikke omhandlede hverken tillid eller mistillid. Den kvalitative kodning udgør ikke det ‘rigtige’ eller ‘endelige’ svar - hvert par af kodere vurderede fx mellem 20% og 40% af deres tweets forskelligt. Med en mere omfattende kvalitativ kodning, vil det formodentlig være muligt at bringe dette tal ned, men selv her, vil der indgå en lang række komplekse afvejninger ift. hvad der ‘tæller’ med. Den store forskel ml. den kvantitative og kvalitative vurdering understreger dog, at man skal tilgå kvantitative ordbogsmetoder, der ikke er udviklet eller tilpasset til den konkrete undersøgelse med forbehold.   
+								<br /><br />
+								Af de tweets, der kvalitativt blev vurderet til ikke at være misklassificeret, udtrykte ~90 tweets tillid, imens ~125 tweets udtrykte mistillid. Tillid fyldte mere end mistillid hvad angår videnskab (formodentlig en konsekvens af, at vi her inkluderede tweets, der udtrykte tillid til tal og ekspertudsagn) og sundhedsvæsenet. For de resterende kategorier, fyldte mistillid mest, bl.a. for regeringen, politikere generelt og medier samt internationale institutioner som EU, WHO og FN. En del af forklaringen herpå, kan være at vi under mistillid inkluderede tweets, der stillede spørgsmålstegn ved de respektive aktører og deres handlinger, på måder, der kunne tolkes som mistillid.
+								<br /><br />
+							</p>
+
+<!-- 2.3. -->
+							<h4 id="2.3" class="anchor">2.1. Hvordan videreudvikler man kvantitative metoder baseret på kvalitative indsigter?</h4>
+<!-- 2.3.1. -->
+							<h5 id="2.3.1" class="anchor">2.1.1. Kvalitative justering af NRC-ordbogen</h5>
+							<p style="margin-bottom:10px">
+								Givet resultaterne i afsnit 2.2., samt for at forstå hvilke ord, der driver vores resultater, har vi for hver af de otte NRC-kategorier udvalgt de 100 mest forekommende ord i vores datasæt. Fire personer har gennemgået disse, og vurderet hvorvidt hver af de 100 ord rimeligvis kan associeres med den pågældende affekt eller attitude, givet konteksten af den danske Corona-krise. Vi beholdte slutteligt kun de ord, hvor mindst tre ud af fire var enige om at inkludere dem.
+							</p>
+							<ul>
+								<li>
+									<b>Tillid</b> (17 ord): 'hjælpe', 'hjælper', 'støtte', 'redde', 'respekt', 'sikker', 'tvivl', 'samarbejde', 'enige', 'tro', 'troede', 'tillid', 'ros', 'stolt', 'fremragende', 'dygtige', 'anbefale'
+								</li>
+								<li>
+									<b>Glæde</b> (14 ord): 'godt', 'positiv', 'glad', 'super', 'ro', 'elsker', 'sjovt', 'ros', 'positivt', 'stolt', 'glæde', 'fremragende', 'fællesskab', 'varme'
+								</li>
+								<li>
+									<b>Forventning</b> (24 ord): 'håber', 'risiko', 'mulighed', 'endelig', 'tør', 'venter', 'spændende', 'vente', 'plan', 'tro', 'forsøg', 'ske', 'forventer', 'bede', 'forberedt', 'efterfølgende', 'forberede', 'foreløbig', 'forventes', 'bekymrende', 'løfte', 'lykkes', 'overraskende', 'sandsynlighed'
+								</li>
+								<li>
+									<b>Overraskelse</b> (14 ord): 'større', 'pludselig', 'vild', 'utrolig', 'overraskende', 'held', 'overrasket', 'gave', 'heldig', 'forvirring', 'chok', 'tilfældigt', 'uforudsigelig', 'forudse'
+								</li>
+								<li>
+									<b>Vrede</b> (20 ord): 'slå', 'kritik', 'helvede', 'trussel', 'vold', 'straffe', 'voldsom', 'lort', 'idioter', 'kritisere', 'råbe', 'raser', 'ødelægge', 'tvinge', 'uenige', 'amok', 'sur', 'ødelagt', 'had', 'true'
+								</li>
+								<li>
+									<b>Bedrøvelse</b> (24 ord): 'hårdt', 'desværre', 'mangler', 'alene', 'værre', 'dårlig', 'isolation', 'mangel', 'bekymret', 'alvor', 'dårligt', 'trist', 'isolere', 'miste', 'tab', 'angst', 'negativ', 'ofre', 'nød', 'tom', 'forlade', 'konkurs', 'ked', 'beklager'
+								</li>
+								<li>
+									<b>Afsky</b> (14 ord): 'hoste', 'falsk', 'dum', 'stjæle', 'idiot', 'nyse', 'misbrug', 'irriterende', 'tyveri', 'skadelig', 'mærkelig', 'grådighed', 'gift', 'forfærdeligt'
+								</li>
+								<li>
+									<b>Frygt</b> (24 ord): 'karantæne', 'undgå', 'risiko', 'frygt', 'bange', 'værre', 'tvivl', 'problem', 'panik', 'mangel', 'frygter', 'farlig', 'bekymret', 'alvor', 'skræmmende', 'fare', 'mistanke', 'farligt', 'trussel', 'skade', 'bekymrende', 'katastrofe', 'kaos', 'usikkerhed'
+								</li>
+							</ul>
+
+<!-- 2.3.2. -->
+							<h5 id="2.3.2" class="anchor">2.3.2. Hvordan ændrer billedet sig, når man tilpasser den kvantitative analyse i lyset af de kvalitative indsigter?</h5>	
+							<p>
+								Figur 6 sammenligner den oprindelige NRC-ordbog med den tilpassede. Som det fremgår, er niveauet for ændringerne markant større for den opdaterede ordbog end for den oprindelige, hvilket kan tyde på, at den oprindelige NRC-ordbog har indeholdt en lang række mere generiske ord, hvis brug ikke ændrer sig over perioden. 
+								<br /><br />
+								Givet forskellen i ordbøgernes størrelser, og usikkerheden forbundet med valget af hvilke ord, der inkluderes, vil vi kun kommenterer på hvorvidt kategorierne er steget eller ej samt hvilke kategorier, der synes at følges ad, men ikke på niveauet for de enkelte stigningerne eller på konkrete udsving. 
+								<br /><br />
+								For begge grafer, er den helt overordnede tendens, at andelen af tweets, der omhandler (mis)tillid er steget mest, mens andelen af tweets, der omhandler frygt er den, der er faldet mest. Bedrøvelse, forventning, glæde, vrede og overraskelse ser i store træk ud til at stige i nogenlunde samme størrelsesorden. Afsky udviser som den eneste kategori en markant anderledes udviklingen i den justerede analyse, hvor kategorien fra starten af april bevæger sig under niveauet for den første uge. 
+							</p>
+<!-- fig6 -->
+							<div style="position:relative;display:inline-block">
+								<div class="side-by-side"> <img class="left" src="posts/post2/images/index_NRC_compare_datav3.svg" alt=""/></div>
+								<div class="side-by-side"> <img src="posts/post2/images/index_adjustedNRC_datav3.svg" alt=""/></div>
+							</div>
+							<br />
+							<div> </div>
+							<div class = "table-wrapper" style="position:relative">
+								<table>
+									<thead>
+										<tr>
+											<th class="img_d1">Figur 6 - Sammenligning af den oprindelige NRC-model (til venstre) og den opdaterede NRC-model (til højre). For at gøre det nemmere at sammenligne graferne, har vi ensartet y-akserne, hvorfor den oprindelige NRC-ordbog herover ikke ligner den i figur 5.</th>
+											<th class="img_d2">Figur 6 - Sammenligning af den oprindelige NRC-model (øverst) og den opdaterede NRC-model (nederst). For at gøre det nemmere at sammenligne graferne, har vi ensartet y-akserne, hvorfor den oprindelige NRC-ordbog herover ikke ligner den i figur 5.</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+							<p>
+								For kategorien tillid, var vi i den kvalitative vurdering af de 100 mest forekommende NRC-ord særligt i tvivl hvad angår ordene “hjælpe”, “hjælper”, “redde”, “støtte”, “ros”, og “stolt”. Fjerner man dem, er kategorien fortsat den, der vokser mest, omend den falder til et niveau, der ligger meget tættere på glæde og forventning. Dette understreger at det langt fra er entydigt at definere et begreb som ‘tillid’, herunder hvornår dette er udtrykt i en tekst.
+							</p>
+
+
+<!-- 2.3.3. -->
+							<h5 id="2.3.3" class="anchor">2.3.3. Kan forskellige kvantitative tilgange berige hinanden?</h5>
+							<p style="margin-bottom:10px">
+								For bedre at forstå udviklingen i affekt, har vi sammenkørt den opdaterede NRC-ordbog med emne-klyngerne fra vores første opslag [indsæt som link]. Sammenkoblingen med klyngerne kan fortælle os, om nogle af udviklingerne i de otte affekter eller attituder er særligt forbundet med bestemte temaer. Der er ~7.000 tweets, der både bruger mindst ét hashtag fra en af hashtag-klyngerne, og mindst ét ord fra en af de opdaterede NRC-ordlister. Se afsnit 3. [indsæt som link] for en kort opdatering af hvordan hashtag-klyngerne har ændret sig siden det første opslag.
+								<br /><br />
+								Givet denne begrænsede datamængde viser figur 7 den ugentlige udviklinge i frekvens for de kombinationer af hashtag-klynge og affekt-kategori, der opfylder følgende tre kriterier:
+							</p>
+							<ul>
+								<li>Der er mindst 200 tweets over hele perioden, som bruger mindst ét hashtag fra klyngen og mindst ét ord fra affekt- eller attitude-ordbogen.</li>
+								<li>Der er mindst 10 tweets i uge 10 (2-8/3), som bruger mindst ét hashtag fra klyngen og mindst ét ord fra affekt- eller attitude-ordbogen. Vi tager her udgangspunkt i uge 10, idet uge 9 har meget få observationer.</li>
+								<li>Andelen tweets, der bruger hashtag fra den pågældende klynge og ord fra den pågældende affekt- eller attitude-ordbog er steget eller faldet med mindst 50% i løbet af perioden. Andelen er her regnet ud fra antallet af tweets i den pågældende klynge.</li>
+								<li>Af de 72 kombinationer af hashtag-klynge (ni i alt) og affekt-kategori (otte i alt), opfylder syv disse kriterier. Som det fremgår af figuren, er det kun de tre største hashtag-klynger (SUND, ØKOPOL, REAK), der indgår efter disse begrænsninger, mens fem af de otte affekt-kategorier er til stede (tillid, forventning, glæde, bedrøvelse og frygt).</li>
+							</ul>
+
+<!-- fig7 -->
+							<a href="posts/post2/images/index_adjustedNRC_hashtag_datav3.svg" class="image post" target="_blank"><img src="posts/post2/images/index_adjustedNRC_hashtag_datav3.svg" alt=""/></a>
+							<div class = "table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 7 - Udviklingen i den ugentlige frekvens udvalgte overlap ml. affekt-kategorierne og hashtag-klyngerne.</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+							<p>
+								Som det fremgår af figur 7, stiger tillid, bedrøvelse og forventning særligt i relation til SUND, mens glæde stiger særligt i relation til ØKOPOL, omend alle med markante udsving. Frygt falder særligt i relation til SUND, ØKOPOL og REAK. For SUND, synes bedrøvelse og frygt at følge samme tendens, som fra uge 13 er modsat tendensen for tillid. 
+							</p>
+
+<!-- 2.4. -->
+							<h4 id="2.4" class="anchor">2.4. [Fem] potentielle forklaringer på udviklingen i affekter og attituder på Twitter</h4>
+							<p style="margin-bottom:10px">
+								Sammenholdt med sentiment-analysen, giver affekt analysens mere granulære opdeling i otte kategorier, vores kvalitative kodning af en stikprøve fra kategorien tillid, samt analysen baseret på den opdaterede ordliste, mere indsigt ind i modellens resultater. Som for sentiment-analysen, giver den dog fortsat ikke nogen direkte forståelse af, hvorfor der sker en ændring i brugen af ord relateret til forskellige affekter og attituder. Udover et muligt ‘politisk sceneskifte’ som beskrevet i afsnit 1.4, inkluderer potentielle samfundsvidenskabelige forklaringer følgende:
+							</p>
+							<ul>
+								<li>
+									<u>Kriser gør dagligdagens baggrund eksplicit:</u> Kriser kan tydeliggøre elementer af vores dagligdag, der ofte ikke optager vores opmærksomhed. Er hverdagen præget af tillid, kan kriser være den undtagelse, der gør denne usagte tillid tydelig - og potentielt stiller spørgsmålstegn herved. At tillid først bliver et tiltagende emne op til den delvise nedlukning, kan skyldes at det først for alvor er her, at der stilles strenge krav til social distancering og således først for alvor her, at vores tillid kommer på prøve.
+								</li>
+								<li>
+									<u>Interessekampe:</u> Tillid kan blive et væsentligt emne i tider, hvor beslutninger med vidtrækkende konsekvenser skal træffes med kort varsel og under begrænset information. Her kan uenigheder om den rigtige handlemåde bliver et tiltagende emne, der bl.a. præges af forskellige aktørers forsøg på at positionere særlige interesser (fx hjælpepakker til særlige sektorer eller arbejdsmarkedsgrupper og politiske modstanderes udfordring af regeringens krisehåndtering).
+								</li>
+								<li>
+									<u>Normalisering af nedlukningen:</u> I takt med at nedlukningen bliver hverdag, vil usikkerheden forbundet hermed aftage. Hvad der før var ‘risikabelt’ eller ‘usikkert’, bliver i højere grad velkendt, og vores opmærksomhed kan herefter delvist rette sig imod mere ‘normale’ hverdags emner, såsom vores arbejde.
+								</li>
+							</ul>
+
+<!-- 3. -->
+							<h3 id="3" class="anchor">3. Stabile emner - faldende aktivitet</h3>
+							<p>
+								Vores første opslag var en kortlægning af hvilke emner, der tweetes om i relation til corona i Danmark. Kortlægning er baseret på en indsamling af tweets, der indeholder mindst ét af fem søgeord relateret til corona. Se første opslag for en beskrivelse af vores oprindelige datasæt og metoden.
+								<br /><br />
+								Siden det første opslag har vi opdateret vores datasæt, så det nu dækker perioden fra og med 24/02-2020 til og med 28/04-2020 (~141.663 tweets i alt). Figur 9 viser en opdateret udgave af vores co-hashtag netværk over denne periode.
+							</p>
+
+<!-- fig8 -->
+							<div class="resp-container">
+								<iframe class="resp-iframe" src="posts/post2/Network Viz/index.html" scrolling="no"></iframe> 	
+							</div>
+							<div class = "table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 8 - Opdateret hashtag-netværk</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+
+							<p style="margin-bottom:10px">
+								Selvom netværket over emne-klynger overordnet er det samme fra opslag 1, har det det opdaterede data overordnet ændret billedet på følgende punkter:
+							</p>
+							<ul>
+								<li>DIGI og DAGVAR er ikke længere selvstændige klynger</li>
+								<li>Der er kommet en ny, ubetydelig klynge (JOB) til.</li>						
+							</ul>
+
+							<p>
+								Figur 9 viser den samlede aktivitet for hver af klyngerne i det opdaterede datasæt.
+							</p>
+
+<!-- fig9 -->
+							<a href="posts/post2/images/cluster_line_plot_datav3.svg" class="image post" target="_blank"><img src="posts/post2/images/cluster_line_plot_datav3.svg" alt=""/></a>
+							<div class = "table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Figur 9 - Overordnet aktivitet i de forskellige hashtagklynger</th>
+										</tr>
+									</thead>
+								</table>
+							</div>
+							<p style="margin-bottom:10px">
+								Også her minder grafen på mange måder om den tilsvarende fra første opslag. To forhold er dog særligt bemærkelsesværdige:
+							</p>
+							<ul>
+								<li>
+									Der er et generelt fald i antallet af tweets omhandlende vores emne-klyngerne.
+								</li>
+								<li>
+									Dette fald er endnu mere markant for REAK-klyngen, der især i de sidste to uger ligger forholdsvist lavt ift. de tidligere uger.
+								</li>						
+							</ul>
+
+							<p style="margin-bottom:10px">
+								Faldet i den generelle aktivitet kan skyldes to ting:
+							</p>
+							<ol>
+								<li>
+									at Twitter-Danmark tweeter mindre om corona.
+								</li>
+								<li>
+									at der er sket ændringer i Twitter-Danmarks corona-sprogbrug, således at krisen ikke italesættes lige så eksplicit længere, og derfor i lavere grad fanges af vores søgeord.
+								</li>						
+							</ol>
+							<p>
+								At REAK-klyngen er faldet kan tolkes som en konsekvens af dets temporale natur. Det er i høj grad hashtags tilknyttet til reaktioner på udbruddet af COVID19, samt regeringens og befolkningens håndtering heraf.
+							</p>
+
+<!-- 4. -->
+							<h3 id="4" class="anchor">4. Afrunding: Sætter krisehåndteringen rammerne for de sociale affekter og attituder, som en krise medfører?</h3>
+
+							<p>
+								I korte træk viser vores analyser, at tonen på twitter er blevet mindre negativ siden annonceringen af nedlukningen. Kigger vi mere nuanceret på Twitter-Danmarks brug af ord, der kan knyttes til affekter og attituder, fremgår det, at Twitter-Danmark taler mere om (mis)tillid, og mindre om frygt.
+								<br /><br />
+								Hvorfor sker der disse ændringer i den danske Twitter-samtale om corona? I afsnit 1.4 og 2.4 har vi listet en række teorier, der potentielt kan forklare (dele af) denne udvikling. Fælles for flere af dem, er at den danske krisehåndtering kan spille en væsentlig rolle i at etablere det rum, hvori Twitter-Danmarks tone, affekter og attituder relateret til corona-krisen udspiller sig. 
+								<br /><br />
+								Krisen bliver på den ene side en social udfordring, i det omfang vores individuelle adfærd bliver afgørende for krisens samlede effekt; dette kan være en af forklaringerne på, hvorfor (mis)tillid bliver mere synlig og omdiskuteret på Twitter. Men i arbejdet med at håndtere krisen, etableres der samtidig et rum, hvori krisen muligvis opfattes som mere påvirkelig og dermed mindre farlig. Her virker ord som ‘glæde’, og ‘hjælp’ måske mest af alt som forsøg på at etablere glæde og fællesskab, i en situation, hvor vi ellers har tabt kontrol over måderne hvorpå vi ‘normalt’ fremmaner dette.
+								<br /><br />
+								For at komme nærmere hvor sandsynlig en forklaring som denne er, kan fremtidige analyser følge flere forskellige retninger. Mere nuancerede og semantisk-funderede kvantitative metoder kan i højere grad fange hvordan ord bliver brugt sammen. En kortlægning af de aktører, der er tilstede på Twitter kan hjælpe med at forstå, hvordan forskellige toner, affekter og attituder bevæger sig mellem beslutningstagere, meningsdannere, journalister og borgere. Kvalitative kodninger kan kortlægge hvordan ord som ‘glæde og ‘hjælp’ benyttes og etnografiske observationer kan hjælpe med at forstå hvad Twitter-brugere forsøger at opnå herved.
+							</p>
+
+
+
+
+
+							<br/><br/>
+<!--Fodnoter-->
+							<div>
+							<p align="left" id="footers"> <b> Noter & referencer </b> <br />
+								[1] Vores afgrænsning inkluderer både formuleringer med store og små bogstaver, samt sammensatte ord, hvor søgeordene indgår som del, fx corona-krisen eller COVID19.
+								<br />
+								
+							</p>
+						</div>
+						</section>
+					<hr/>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/CPH_SODAS" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/SODAS.SAMF/" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+					<li><a href="https://sodas.ku.dk/" class="icon fa-dribbble" target="_blank"><span class="label">Dribbble</span></a></li>
+					<li><a href="mailto:thyge.enggaard@sodas.ku.dk" class="icon fa-envelope"><span class="label">Envelope</span></a></li>
+				</ul>
+				<span class="copyright">
+			&copy; Copyright. All rights reserved. Design by <a href="http://www.html5webtemplates.co.uk" target = "_blank">Responsive Web Templates</a>
+			<br />You are allowed to use our analysis and figures, but please cite SODAS, this website and relevant authors when doing so
+				</span>
+			</footer>
+	</body>
+<script>
+	$(document).ready(function () {
+	    $('img.zoom').each(function(){ $(this).blowup(); })
+	})
+</script>
+</html>
