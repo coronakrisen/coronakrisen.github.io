@@ -607,9 +607,13 @@
 							</p>
 
 <!-- fig8 -->
+<!-- 							
 							<div class="resp-container">
 								<iframe class="resp-iframe" src="posts/post2/Network Viz/index.html" scrolling="no"></iframe> 	
 							</div>
+-->
+							<a href="posts/post2/images/full_period_v3_withlegend.svg" class="image post" target="_blank"><img class="zoom" src="posts/post2/images/full_period_v3_withlegend.svg" alt=""/></a>
+
 							<div class = "table-wrapper">
 								<table>
 									<thead>
@@ -717,7 +721,7 @@
 	</body>
 <script>
 	$(document).ready(function () {
-	    $('img.zoom').each(function(){ $(this).blowup(); })
+	    $('img.zoom').each(function(){ $(this).blowup({"width": 250, "height" : 250, "scale":0.5}); })
 	})
 </script>
 </html>
