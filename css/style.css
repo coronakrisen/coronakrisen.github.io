@@ -1403,6 +1403,10 @@
 				right: 0;
 			}
 
+	.TOC_item {
+		font-size:0.85em !important;
+	}
+
 	.dropotronL {
 		background: #fff;
 		border-radius: 0.5em;
