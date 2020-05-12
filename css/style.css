@@ -1404,7 +1404,7 @@
 			}
 
 	.TOC_item {
-		font-size:0.8em !important;
+		font-size:0.9em !important;
 	}
 
 	.dropotronL {
@@ -1415,6 +1415,8 @@
 		margin-top: -0.75em;
 		min-width: 10em;
 		padding: 0.75em 0;
+		height:2%;
+		overflow:scroll;
 	}
 
 		.dropotronL li {
