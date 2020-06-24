@@ -152,8 +152,9 @@
 		margin-bottom:15px !important;
 	}
 	.rGrow h4, .lGrow h4 {
+		font-size:20px !important;
 		color:#fff;
-		padding-top:7px;
+		padding-top:1px;
 	}
 
 	.rGrow p, .lGrow p {
