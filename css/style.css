@@ -210,6 +210,126 @@
 		header.major p {
 			margin: -1em 0 3.5em 0;
 		}
+/* DropCap */
+
+	.dropcap {
+	  color: #903;
+	  float: left;
+	  font-size: 50px;
+	  line-height: 50px;
+	  padding-top: 5px;
+	  padding-right: 8px;
+	  padding-left: 3px;
+	}
+
+/* Quote */
+	.sQuote {
+		padding: 5px 5px 5px 5px;
+		border-radius: 10px;
+		width: 100%;
+		margin: 5px 1% 5px 1%;
+		float: left;
+		position: relative;
+		display: inline-block;
+		transition: height, width 1s;
+		-webkit-transition: height, width 1s;
+		text-align: center;
+		overflow: hidden;
+		left:-0.1em;
+		background: orange;
+		border-left:0.4em darkorange solid;
+		margin-bottom:25px;
+	}	
+	.sQuote h4 {
+		color:#fff;
+		padding-top:7px;
+	}
+	.sQuote p {
+		font-size:20px;
+		font-style:italic;
+		color:#fff;
+	}
+
+	.lGrow {
+		padding: 5px 5px 5px 5px;
+		border-radius: 10px;
+		height: 3em;
+		width: 6em;
+		margin: 5px 1% 5px 1%;
+		float: left;
+		position: absolute;
+		display: inline-block;
+		transition: height, width 1s;
+		-webkit-transition: height, width 1s;
+		text-align: center;
+		overflow: hidden;
+		left:-0.1em;
+		background: orange;
+		border-left:0.4em darkorange solid;
+		z-index: 5;
+	}
+
+	.rGrow{
+		padding: 5px 5px 5px 5px;
+		border-radius: 10px;
+		height: 3em;
+		width: 6em;
+		margin: 5px 1% 5px 1%;
+		float: left;
+		position: absolute;
+		display: inline-block;
+		transition: height, width 1s;
+		-webkit-transition: height, width 1s;
+		text-align: center;
+		overflow: hidden;
+		right:-0.1em;
+		background: orange;
+		border-right:0.4em darkorange solid;
+		z-index: 5;
+	}
+	.rGrow h4, .lGrow h4 {
+		color:#fff;
+		padding-top:7px;
+	}
+
+	.rGrow p, .lGrow p {
+		font-size:20px;
+		font-style:italic;
+		color:#fff;
+		margin-bottom:3px;
+		padding-right:5px;
+		padding-left:5px;
+	}
+
+	.rGrow:hover, .rGrow:focus, .rGrow:active, .lGrow:hover, .lGrow:focus, .lGrow:active {
+		height: auto;
+		width: 500px;
+	}
+
+	div.quote{
+		position:absolute;
+		display:inline-block;
+		left:-10%;
+		max-width:35%;
+		margin-top:0.5em;
+		padding-right:10%;
+		overflow:auto;
+		box-sizing: border-box;
+	}
+
+	div.quote p {
+		border-radius: 25px;
+		background:rgba(52, 146, 235, 0.3);
+		font-size:20px;
+		font-style:italic;
+		font-family:serif;
+		line-height:1.5em;
+		padding-left:0.5em;
+		padding-right:0.5em;
+		padding-bottom:0.5em;
+		padding-top:0.5em;
+		border-left:0.15em blue solid;
+	}
 
 /* Form */
 
@@ -470,6 +590,11 @@
 		}
 
 /* Image */
+	.fig_text {
+		font-style:italic;
+		font-size-adjust:0.45;
+		line-height:1.5;
+	}
 
 	.image {
 		border-radius: 0.5em;
@@ -518,7 +643,7 @@
 
 		.image.post {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 0 0 0.5em 0;
 			width: 140%;
 			left: -20%;
 		}
