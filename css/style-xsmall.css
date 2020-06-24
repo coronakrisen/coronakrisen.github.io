@@ -110,3 +110,62 @@
 		#cta .actions {
 			display: block;
 		}
+
+/* Quotes */
+
+.lGrow {
+		padding: 10px 10px 10px 10px;
+		border-radius: 10px;
+		height: 3em;
+		width: 100%;
+		margin: 5px 1% 5px 1%;
+		position: relative;
+		display: inline-block;
+		transition: height, width 1s;
+		-webkit-transition: height, width 1s;
+		text-align: center;
+		overflow: hidden;
+		background: orange;
+		z-index: 5;
+		left:0;
+		float:none;
+		border-left:0.4em darkorange solid;
+	}
+
+	.rGrow{
+		padding: 10px 10px 10px 10px;
+		border-radius: 10px;
+		height: 3em;
+		width: 100%;
+		margin: 5px 1% 5px 1% !important; 
+		position: relative;
+		display: inline-block;
+		transition: height, width 1s;
+		-webkit-transition: height, width 1s;
+		text-align: center;
+		overflow: hidden;
+		background: orange;
+		z-index: 5;
+		right:0;
+		float:none;
+		border-right:0.4em darkorange solid;
+		margin-bottom:15px !important;
+	}
+	.rGrow h4, .lGrow h4 {
+		color:#fff;
+		padding-top:7px;
+	}
+
+	.rGrow p, .lGrow p {
+		font-size:20px;
+		font-style:italic;
+		color:#fff;
+		margin-bottom:5px;
+		padding-right:5px;
+		padding-left:5px;
+	}
+
+	.rGrow:hover, .rGrow:focus, .rGrow:active, .lGrow:hover, .lGrow:focus, .lGrow:active {
+		height: auto;
+		width: 100%;
+	}
