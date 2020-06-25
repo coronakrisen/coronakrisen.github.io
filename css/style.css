@@ -259,8 +259,8 @@
 		float: left;
 		position: absolute;
 		display: inline-block;
-		transition: height, width 1s;
-		-webkit-transition: height, width 1s;
+		transition: height, width 0.5s;
+		-webkit-transition: height, width 0.5s;
 		text-align: center;
 		overflow: hidden;
 		left:-0.2em;
@@ -278,8 +278,8 @@
 		float: left;
 		position: absolute;
 		display: inline-block;
-		transition: height, width 1s;
-		-webkit-transition: height, width 1s;
+		transition: height, width 0.5s;
+		-webkit-transition: height, width 0.5s;
 		text-align: center;
 		overflow: hidden;
 		right:-0.2em;
