@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1177.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-564.000000 -559.000000 1177.000000 1172.000000" height="1172.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M -88.730171,68.956223 L -178.499786,128.500168"
+              class="id_greenpeacedk id_verdensskove" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -50.550674,40.535145 L 73.474304,-62.697029"
+              class="id_greenpeacedk id_klimaraadet" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="2.125"
+              d="M -63.852699,32.482742 L -34.684807,-103.000229"
+              class="id_greenpeacedk id_gronomstilling" stroke-opacity="1.0"
+              stroke="#5fa985"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -89.302994,43.515545 L -171.928726,-6.084888"
+              class="id_greenpeacedk id_concitoinfo" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -72.705811,79.304680 L -90.041916,185.582230"
+              class="id_greenpeacedk id_WWFdk" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -54.522621,36.750298 L -33.610771,9.008217"
+              class="id_greenpeacedk id_Klimabev" stroke-opacity="1.0"
+              stroke="#117b40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -136.248062,-159.671555 L -36.839012,-52.965836"
+              class="id_NOAH_dk id_Klimabev" stroke-opacity="1.0"
+              stroke="#70b799"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -5.037775,-128.531723 L 66.546951,-102.464233"
+              class="id_gronomstilling id_klimaraadet" stroke-opacity="1.0"
+              stroke="#d6efec"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 125.787560,49.798695 L 26.379517,-4.044174"
+              class="id_ungeklimaraad id_Klimabev" stroke-opacity="1.0"
+              stroke="#70b799"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 9.592255,171.137573 L -49.840759,83.757729"
+              class="id_Vedv_Energi id_greenpeacedk" stroke-opacity="1.0"
+              stroke="#5fa985"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -27.591391,1.022791 L -42.483860,20.779442"
+              class="id_Klimabev id_greenpeacedk" stroke-opacity="1.0"
+              stroke="#117b40"/>
+        <path fill="none" stroke-width="2.25"
+              d="M -14.067463,-53.447067 L -21.870720,-102.047058"
+              class="id_Klimabev id_gronomstilling" stroke-opacity="1.0"
+              stroke="#70b799"/>
+        <path fill="none" stroke-width="2.25"
+              d="M 17.226542,-38.504467 L 68.384087,-67.838608"
+              class="id_Klimabev id_klimaraadet" stroke-opacity="1.0"
+              stroke="#87c0a7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1.686690,-51.811287 L 64.014626,-214.373001"
+              class="id_Klimabev id_DanmarksNatur" stroke-opacity="1.0"
+              stroke="#87c0a7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -39.732273,-23.359127 L -167.103394,-23.469208"
+              class="id_Klimabev id_concitoinfo" stroke-opacity="1.0"
+              stroke="#87c0a7"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_greenpeacedk id_verdensskove"
+                  points="-186.833221,134.027725 -181.263565,124.333450 -175.736008,132.666885"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_greenpeacedk id_klimaraadet"
+                  points="81.160233,-69.094406 76.672997,-58.854065 70.275612,-66.539993"
+                  stroke="none"/>
+        <polyline fill="#5fa985" fill-opacity="1.0"
+                  class="id_greenpeacedk id_gronomstilling"
+                  points="-32.448605,-113.387245 -29.491301,-101.882126 -39.878311,-104.118332"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_greenpeacedk id_concitoinfo"
+                  points="-180.502518,-11.231755 -169.355301,-10.371781 -174.502151,-1.797996"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_greenpeacedk id_WWFdk"
+                  points="-91.651848,195.451782 -94.976692,184.777267 -85.107140,186.387192"
+                  stroke="none"/>
+        <polyline fill="#117b40" fill-opacity="1.0"
+                  class="id_greenpeacedk id_Klimabev"
+                  points="-27.591391,1.022789 -29.618057,12.017906 -37.603485,5.998528"
+                  stroke="none"/>
+        <polyline fill="#70b799" fill-opacity="1.0"
+                  class="id_NOAH_dk id_Klimabev"
+                  points="-30.022535,-45.649029 -40.497414,-49.557598 -33.180611,-56.374073"
+                  stroke="none"/>
+        <polyline fill="#d6efec" fill-opacity="1.0"
+                  class="id_gronomstilling id_klimaraadet"
+                  points="75.943336,-99.042557 64.836113,-97.766037 68.257790,-107.162430"
+                  stroke="none"/>
+        <polyline fill="#70b799" fill-opacity="1.0"
+                  class="id_ungeklimaraad id_Klimabev"
+                  points="17.586477,-8.806789 28.760824,-8.440693 23.998209,0.352345"
+                  stroke="none"/>
+        <polyline fill="#5fa985" fill-opacity="1.0"
+                  class="id_Vedv_Energi id_greenpeacedk"
+                  points="-55.464813,75.489105 -45.706451,80.945702 -53.975067,86.569756"
+                  stroke="none"/>
+        <polyline fill="#117b40" fill-opacity="1.0"
+                  class="id_Klimabev id_greenpeacedk"
+                  points="-54.522617,36.750298 -50.469288,14.760063 -34.498432,26.798820"
+                  stroke="none"/>
+        <polyline fill="#70b799" fill-opacity="1.0"
+                  class="id_Klimabev id_gronomstilling"
+                  points="-23.654188,-113.154800 -16.316853,-102.938789 -27.424587,-101.155327"
+                  stroke="none"/>
+        <polyline fill="#87c0a7" fill-opacity="1.0"
+                  class="id_Klimabev id_klimaraadet"
+                  points="78.143494,-73.434723 71.182144,-62.958904 65.586029,-72.718307"
+                  stroke="none"/>
+        <polyline fill="#87c0a7" fill-opacity="1.0"
+                  class="id_Klimabev id_DanmarksNatur"
+                  points="67.594620,-223.710220 68.683235,-212.583008 59.346016,-216.162994"
+                  stroke="none"/>
+        <polyline fill="#87c0a7" fill-opacity="1.0"
+                  class="id_Klimabev id_concitoinfo"
+                  points="-177.103378,-23.477852 -167.099075,-28.469206 -167.107712,-18.469210"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-521.2273"
+                class="id_92_gruppen" cy="-214.42256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-246.42332"
+                class="id_CEPOS" cy="574.4726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="564.5408"
+                class="id_cevea" cy="-240.99355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.333334" cx="-200.9367"
+                class="id_concitoinfo" cy="-23.49845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="345.83636"
+                class="id_jaegerne" cy="495.16843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="16.666668" cx="73.74027"
+                class="id_DanmarksNatur" cy="-239.73912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="508.1284"
+                class="id_TaenkKemi" cy="298.72656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="23.333334" cx="-68.868805"
+                class="id_greenpeacedk" cy="55.782238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="30.0" cx="104.60232"
+                class="id_klimaraadet" cy="-88.60642" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="37.10542"
+                class="id_solcelleejere" cy="-548.17224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bfe6de" r="10.0" cx="-143.40536"
+                class="id_NOAH_dk" cy="-167.3542" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-553.8889"
+                class="id_nordic_fc" cy="306.81924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="86.45982"
+                class="id_okologidk" cy="602.6761" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bfe6de" r="23.333334" cx="-27.432497"
+                class="id_gronomstilling" cy="-136.68674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bfe6de" r="10.0" cx="135.02025"
+                class="id_ungeklimaraad" cy="54.799442" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bfe6de" r="10.0" cx="15.49751"
+                class="id_Vedv_Energi" cy="179.81963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="16.666668" cx="-201.13896"
+                class="id_verdensskove" cy="143.51668" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="16.666668" cx="-94.415565"
+                class="id_WWFdk" cy="212.39452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#228954" r="30.0" cx="-9.232285"
+                class="id_Klimabev" cy="-23.332767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="602.3461"
+                class="id_FDELdk" cy="53.8839" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-521.2273" y="-208.84639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_92_gruppen">
+            92_gruppen
+        </text>
+        <text font-size="24" x="-246.42332" y="578.9179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CEPOS">
+            CEPOS
+        </text>
+        <text font-size="24" x="564.5408" y="-236.55019" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cevea">
+            Cevea
+        </text>
+        <text font-size="24" x="-200.9367" y="-19.058996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_concitoinfo">
+            concitoinfo
+        </text>
+        <text font-size="24" x="345.83636" y="500.72702" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jaegerne">
+            jaegerne
+        </text>
+        <text font-size="24" x="73.74027" y="-235.37389" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DanmarksNatur">
+            DanmarksNatur
+        </text>
+        <text font-size="24" x="508.1284" y="303.0918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TaenkKemi">
+            TaenkKemi
+        </text>
+        <text font-size="24" x="-68.868805" y="61.34083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_greenpeacedk">
+            greenpeacedk
+        </text>
+        <text font-size="24" x="104.60232" y="-84.24119" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimaraadet">
+            klimaraadet
+        </text>
+        <text font-size="24" x="37.10542" y="-542.61365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_solcelleejere">
+            solcelleejere
+        </text>
+        <text font-size="24" x="-143.40536" y="-161.78975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NOAH_dk">
+            NOAH_dk
+        </text>
+        <text font-size="24" x="-553.8889" y="312.38174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nordic_fc">
+            nordic_fc
+        </text>
+        <text font-size="24" x="86.45982" y="608.2347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_okologidk">
+            okologidk
+        </text>
+        <text font-size="24" x="-27.432497" y="-131.12814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gronomstilling">
+            gronomstilling
+        </text>
+        <text font-size="24" x="135.02025" y="60.358036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ungeklimaraad">
+            ungeklimaraad
+        </text>
+        <text font-size="24" x="15.49751" y="185.37822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vedv_Energi">
+            Vedv_Energi
+        </text>
+        <text font-size="24" x="-201.13896" y="147.88191" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_verdensskove">
+            verdensskove
+        </text>
+        <text font-size="24" x="-94.415565" y="216.75975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_WWFdk">
+            WWFdk
+        </text>
+        <text font-size="24" x="-9.232285" y="-18.967533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Klimabev">
+            Klimabev
+        </text>
+        <text font-size="24" x="602.3461" y="58.249134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FDELdk">
+            FDELdk
+        </text>
+    </g>
+</svg>

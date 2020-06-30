@@ -1,0 +1,2093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2248.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1049.000000 -1136.000000 2248.000000 1854.000000" height="1854.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="12.0"
+              d="M -143.599808,190.998871 L -191.641632,341.937744"
+              class="id_dkbiz id_dkmedier" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 89.449394,494.786499"
+              class="id_dkbiz id_grøngenstart" stroke-opacity="1.0"
+              stroke="#1fac6c"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -143.599808,190.998871 L -254.327621,296.336151"
+              class="id_dkbiz id_actonclimate" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 19.562023,239.414551"
+              class="id_dkbiz id_landbrug" stroke-opacity="1.0" stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L -335.258331,376.787842"
+              class="id_dkbiz id_dronningen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L -295.207855,399.208282"
+              class="id_dkbiz id_blomster" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -143.599808,190.998871 L -175.963516,68.652557"
+              class="id_dkbiz id_divestnow" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -143.599808,190.998871 L -297.141907,37.579468"
+              class="id_dkbiz id_eugreendeal" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -143.599808,190.998871 L -652.060547,244.923508"
+              class="id_dkbiz id_operationklimahandling" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -143.599808,190.998871 L -366.215790,123.607689"
+              class="id_dkbiz id_fridaysforfuture" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -143.599808,190.998871 L 52.199818,455.014648"
+              class="id_dkbiz id_eudk" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 223.745178,602.549622"
+              class="id_dkbiz id_dkøko" stroke-opacity="1.0" stroke="#1fac6c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -143.599808,190.998871 L 243.893219,532.016052"
+              class="id_dkbiz id_covid19dk" stroke-opacity="1.0"
+              stroke="#1fac6c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -143.599808,190.998871 L 52.384251,124.024086"
+              class="id_dkbiz id_dkfood" stroke-opacity="1.0" stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L -67.523277,90.675110"
+              class="id_dkbiz id_klimafunding" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 786.868958,531.391174"
+              class="id_dkbiz id_dktrp" stroke-opacity="1.0" stroke="#298eb4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L -3.517455,39.297527"
+              class="id_dkbiz id_klimaafgift" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L -60.554306,15.596884"
+              class="id_dkbiz id_fødevarer" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -143.599808,190.998871 L 13.319773,-255.655685"
+              class="id_dkbiz id_dkklima" stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L -19.307213,-32.186996"
+              class="id_dkbiz id_klimalov" stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 26.069521,-101.723656"
+              class="id_dkbiz id_klimakrise" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 125.955322,-71.752403"
+              class="id_dkbiz id_omstilling" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.599808,190.998871 L 99.753479,-150.184113"
+              class="id_dkbiz id_klimatosse" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L 89.449394,494.786499"
+              class="id_dkmedier id_grøngenstart" stroke-opacity="1.0"
+              stroke="#1fac6c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -191.641632,341.937744 L -254.327621,296.336151"
+              class="id_dkmedier id_actonclimate" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -357.688293,322.683075"
+              class="id_dkmedier id_planb" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L 19.562023,239.414551"
+              class="id_dkmedier id_landbrug" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -335.258331,376.787842"
+              class="id_dkmedier id_dronningen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -295.207855,399.208282"
+              class="id_dkmedier id_blomster" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -144.003876,401.767242"
+              class="id_dkmedier id_covid19" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -165.524231,468.063690"
+              class="id_dkmedier id_pcilist" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -198.804245,490.696106"
+              class="id_dkmedier id_noroomforgas" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -652.060547,244.923508"
+              class="id_dkmedier id_operationklimahandling" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -191.641632,341.937744 L -366.215790,123.607689"
+              class="id_dkmedier id_fridaysforfuture" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -388.752380,0.871940"
+              class="id_dkmedier id_greennewdeal" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -297.141907,37.579468"
+              class="id_dkmedier id_eugreendeal" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -243.162369,637.077087"
+              class="id_dkmedier id_8marts" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L -248.573074,676.080627"
+              class="id_dkmedier id_ligestilling" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L 228.183945,-180.057144"
+              class="id_dkmedier id_klima" stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L 13.319773,-255.655685"
+              class="id_dkmedier id_dkklima" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.641632,341.937744 L 99.753479,-150.184113"
+              class="id_dkmedier id_klimatosse" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 89.449394,494.786499 L 52.199818,455.014648"
+              class="id_grøngenstart id_eudk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 14.623124,525.613403"
+              class="id_grøngenstart id_grønvinder" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 786.868958,531.391174"
+              class="id_grøngenstart id_dktrp" stroke-opacity="1.0"
+              stroke="#488c48"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 223.745178,602.549622"
+              class="id_grøngenstart id_dkøko" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 243.893219,532.016052"
+              class="id_grøngenstart id_covid19dk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 243.086502,459.762421"
+              class="id_grøngenstart id_blivhjemmemøde" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 92.502663,587.927246"
+              class="id_grøngenstart id_vildnatur" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 89.502625,615.952209"
+              class="id_grøngenstart id_verdensmål" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 89.449394,494.786499 L 192.620712,327.107666"
+              class="id_grøngenstart id_dkcivil" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -254.327621,296.336151 L -357.688293,322.683075"
+              class="id_actonclimate id_planb" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -254.327621,296.336151 L 19.562023,239.414551"
+              class="id_actonclimate id_landbrug" stroke-opacity="1.0"
+              stroke="#717aa1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -254.327621,296.336151 L -335.258331,376.787842"
+              class="id_actonclimate id_dronningen" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -254.327621,296.336151 L -295.207855,399.208282"
+              class="id_actonclimate id_blomster" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -254.327621,296.336151 L -652.060547,244.923508"
+              class="id_actonclimate id_operationklimahandling"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -254.327621,296.336151 L -366.215790,123.607689"
+              class="id_actonclimate id_fridaysforfuture" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -646.583191,-30.819311"
+              class="id_operationklimahandling id_fånutjekpådenforhandling"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -652.060547,244.923508 L -742.066956,71.200935"
+              class="id_operationklimahandling id_klimaflygtninger"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -934.653809,30.311796"
+              class="id_operationklimahandling id_udenrigsministeriet"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -366.215790,123.607689"
+              class="id_operationklimahandling id_fridaysforfuture"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -673.904114,1.012557"
+              class="id_operationklimahandling id_jeppe" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -652.060547,244.923508 L -599.974670,35.231705"
+              class="id_operationklimahandling id_håb" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -764.333496,160.949112"
+              class="id_operationklimahandling id_greennewdealforafrik"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -809.846191,185.486801"
+              class="id_operationklimahandling id_timwhite" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -753.911865,-1.021765"
+              class="id_operationklimahandling id_ariel" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -988.692444,186.414810"
+              class="id_operationklimahandling id_jeppekofoed"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -1032.482056,161.317032"
+              class="id_operationklimahandling id_folketsklimamarch"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -982.653503,98.027496"
+              class="id_operationklimahandling id_music" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -959.103333,139.578354"
+              class="id_operationklimahandling id_sang" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -1039.290039,120.112862"
+              class="id_operationklimahandling id_march" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -464.492676,190.103149"
+              class="id_operationklimahandling id_klimapolitik"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -569.441406,168.333527"
+              class="id_operationklimahandling id_gretathunberg"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -175.963516,68.652557"
+              class="id_operationklimahandling id_divestnow"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -297.141907,37.579468"
+              class="id_operationklimahandling id_eugreendeal"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -652.060547,244.923508 L -649.290405,336.279572"
+              class="id_operationklimahandling id_sundhed" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -652.060547,244.923508 L -685.502380,410.988922"
+              class="id_operationklimahandling id_ren" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -652.060547,244.923508 L -644.307312,385.306152"
+              class="id_operationklimahandling id_luft" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -652.060547,244.923508 L -690.051331,361.873047"
+              class="id_operationklimahandling id_lægerforklimaet"
+              stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 19.562023,239.414551 L 52.384251,124.024086"
+              class="id_landbrug id_dkfood" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 19.562023,239.414551 L 37.628819,149.985413"
+              class="id_landbrug id_fremtidsføde" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 19.562023,239.414551 L 109.325775,186.382050"
+              class="id_landbrug id_dkjob" stroke-opacity="1.0" stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -335.258331,376.787842 L -295.207855,399.208282"
+              class="id_dronningen id_blomster" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -168.781967,-102.085464 L 475.904114,-370.876282"
+              class="id_klimabevægelsen id_eupol" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -168.781967,-102.085464 L -297.141907,37.579468"
+              class="id_klimabevægelsen id_eugreendeal" stroke-opacity="1.0"
+              stroke="#00a39e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L -297.141907,37.579468"
+              class="id_eupol id_eugreendeal" stroke-opacity="1.0"
+              stroke="#00a39e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L 557.963623,-394.607056"
+              class="id_eupol id_euclimatelaw" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L 536.148499,-412.218475"
+              class="id_eupol id_houseonfire" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L 520.933594,-240.930923"
+              class="id_eupol id_økologi" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L 659.903687,-247.243622"
+              class="id_eupol id_organic" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L 380.330963,-553.459351"
+              class="id_eupol id_urørtskov" stroke-opacity="1.0"
+              stroke="#7f7a32"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 475.904114,-370.876282 L 439.967163,-490.389313"
+              class="id_eupol id_dkhav" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -297.141907,37.579468 L -175.963516,68.652557"
+              class="id_eugreendeal id_divestnow" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -297.141907,37.579468 L -366.215790,123.607689"
+              class="id_eugreendeal id_fridaysforfuture" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -297.141907,37.579468 L -388.752380,0.871940"
+              class="id_eugreendeal id_greennewdeal" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -646.583191,-30.819311 L -742.066956,71.200935"
+              class="id_fånutjekpådenforhandling id_klimaflygtninger"
+              stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -646.583191,-30.819311 L -934.653809,30.311796"
+              class="id_fånutjekpådenforhandling id_udenrigsministeriet"
+              stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -646.583191,-30.819311 L -366.215790,123.607689"
+              class="id_fånutjekpådenforhandling id_fridaysforfuture"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -646.583191,-30.819311 L -673.904114,1.012557"
+              class="id_fånutjekpådenforhandling id_jeppe" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -646.583191,-30.819311 L -599.974670,35.231705"
+              class="id_fånutjekpådenforhandling id_håb" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -742.066956,71.200935 L -934.653809,30.311796"
+              class="id_klimaflygtninger id_udenrigsministeriet"
+              stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -742.066956,71.200935 L -366.215790,123.607689"
+              class="id_klimaflygtninger id_fridaysforfuture"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -742.066956,71.200935 L -673.904114,1.012557"
+              class="id_klimaflygtninger id_jeppe" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -742.066956,71.200935 L -599.974670,35.231705"
+              class="id_klimaflygtninger id_håb" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -742.066956,71.200935 L -753.911865,-1.021765"
+              class="id_klimaflygtninger id_ariel" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -934.653809,30.311796 L -366.215790,123.607689"
+              class="id_udenrigsministeriet id_fridaysforfuture"
+              stroke-opacity="1.0" stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -673.904114,1.012557"
+              class="id_udenrigsministeriet id_jeppe" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -934.653809,30.311796 L -599.974670,35.231705"
+              class="id_udenrigsministeriet id_håb" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -764.333496,160.949112"
+              class="id_udenrigsministeriet id_greennewdealforafrik"
+              stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -809.846191,185.486801"
+              class="id_udenrigsministeriet id_timwhite" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -753.911865,-1.021765"
+              class="id_udenrigsministeriet id_ariel" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -988.692444,186.414810"
+              class="id_udenrigsministeriet id_jeppekofoed" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -1032.482056,161.317032"
+              class="id_udenrigsministeriet id_folketsklimamarch"
+              stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -982.653503,98.027496"
+              class="id_udenrigsministeriet id_music" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -959.103333,139.578354"
+              class="id_udenrigsministeriet id_sang" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -934.653809,30.311796 L -1039.290039,120.112862"
+              class="id_udenrigsministeriet id_march" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -366.215790,123.607689 L -673.904114,1.012557"
+              class="id_fridaysforfuture id_jeppe" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -366.215790,123.607689 L -599.974670,35.231705"
+              class="id_fridaysforfuture id_håb" stroke-opacity="1.0"
+              stroke="#48916d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -366.215790,123.607689 L -464.492676,190.103149"
+              class="id_fridaysforfuture id_klimapolitik" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -366.215790,123.607689 L -569.441406,168.333527"
+              class="id_fridaysforfuture id_gretathunberg" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -366.215790,123.607689 L -388.752380,0.871940"
+              class="id_fridaysforfuture id_greennewdeal" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -366.215790,123.607689 L -307.678528,-218.407471"
+              class="id_fridaysforfuture id_pasgodtpåvoresjord"
+              stroke-opacity="1.0" stroke="#7f856c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -366.215790,123.607689 L -220.909805,-292.853485"
+              class="id_fridaysforfuture id_mgp" stroke-opacity="1.0"
+              stroke="#7f856c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -673.904114,1.012557 L -599.974670,35.231705"
+              class="id_jeppe id_håb" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -673.904114,1.012557 L -764.333496,160.949112"
+              class="id_jeppe id_greennewdealforafrik" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -673.904114,1.012557 L -809.846191,185.486801"
+              class="id_jeppe id_timwhite" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -673.904114,1.012557 L -753.911865,-1.021765"
+              class="id_jeppe id_ariel" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -764.333496,160.949112 L -809.846191,185.486801"
+              class="id_greennewdealforafrik id_timwhite" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -988.692444,186.414810 L -1032.482056,161.317032"
+              class="id_jeppekofoed id_folketsklimamarch" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -988.692444,186.414810 L -982.653503,98.027496"
+              class="id_jeppekofoed id_music" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -988.692444,186.414810 L -959.103333,139.578354"
+              class="id_jeppekofoed id_sang" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -988.692444,186.414810 L -1039.290039,120.112862"
+              class="id_jeppekofoed id_march" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.482056,161.317032 L -982.653503,98.027496"
+              class="id_folketsklimamarch id_music" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.482056,161.317032 L -959.103333,139.578354"
+              class="id_folketsklimamarch id_sang" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.482056,161.317032 L -1039.290039,120.112862"
+              class="id_folketsklimamarch id_march" stroke-opacity="1.0"
+              stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -982.653503,98.027496 L -959.103333,139.578354"
+              class="id_music id_sang" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -982.653503,98.027496 L -1039.290039,120.112862"
+              class="id_music id_march" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -959.103333,139.578354 L -1039.290039,120.112862"
+              class="id_sang id_march" stroke-opacity="1.0" stroke="#907402"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -165.524231,468.063690 L -198.804245,490.696106"
+              class="id_pcilist id_noroomforgas" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -649.290405,336.279572 L -685.502380,410.988922"
+              class="id_sundhed id_ren" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -649.290405,336.279572 L -644.307312,385.306152"
+              class="id_sundhed id_luft" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -649.290405,336.279572 L -690.051331,361.873047"
+              class="id_sundhed id_lægerforklimaet" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -685.502380,410.988922 L -644.307312,385.306152"
+              class="id_ren id_luft" stroke-opacity="1.0" stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -685.502380,410.988922 L -690.051331,361.873047"
+              class="id_ren id_lægerforklimaet" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -644.307312,385.306152 L -690.051331,361.873047"
+              class="id_luft id_lægerforklimaet" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -4.638454,-364.866608"
+              class="id_dkklima id_klimahandling" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 617.510559,-940.190308"
+              class="id_dkklima id_dknatur" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -76.811066,-547.475525"
+              class="id_dkklima id_euklima" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -116.028030,-575.817566"
+              class="id_dkklima id_dkenergi" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -113.562683,-526.537964"
+              class="id_dkklima id_balticpipenejtak" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -159.868408,-320.246155"
+              class="id_dkklima id_ingenplanb" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -183.767334,-345.950745"
+              class="id_dkklima id_drmgp" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -220.909805,-292.853485"
+              class="id_dkklima id_mgp" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 13.319773,-255.655685 L 228.183945,-180.057144"
+              class="id_dkklima id_klima" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 175.822662,-217.496521"
+              class="id_dkklima id_klimavenlig" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 13.319773,-255.655685 L 99.753479,-150.184113"
+              class="id_dkklima id_klimatosse" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 202.309128,-293.821411"
+              class="id_dkklima id_bæredygtighed" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -3.517455,39.297527"
+              class="id_dkklima id_klimaafgift" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -60.554306,15.596884"
+              class="id_dkklima id_fødevarer" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 52.384251,124.024086"
+              class="id_dkklima id_dkfood" stroke-opacity="1.0" stroke="#f15135"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 13.319773,-255.655685 L -19.307213,-32.186996"
+              class="id_dkklima id_klimalov" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L -42.935551,-125.014359"
+              class="id_dkklima id_rydopefterdigselv" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 13.319773,-255.655685 L 26.069521,-101.723656"
+              class="id_dkklima id_klimakrise" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 125.955322,-71.752403"
+              class="id_dkklima id_omstilling" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 241.568649,-96.155525"
+              class="id_dkklima id_kommuner" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 181.268417,-118.015076"
+              class="id_dkklima id_miljø" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 13.319773,-255.655685 L 260.672791,-530.067810"
+              class="id_dkklima id_biodiversitet" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 320.638733,-598.228394"
+              class="id_dkklima id_klimaskoven" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 13.319773,-255.655685 L 380.330963,-553.459351"
+              class="id_dkklima id_urørtskov" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 256.139526,651.586365 L 223.745178,602.549622"
+              class="id_arbejde id_dkøko" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 256.139526,651.586365 L 282.723724,629.404785"
+              class="id_arbejde id_coronaøko" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 256.139526,651.586365 L 243.893219,532.016052"
+              class="id_arbejde id_covid19dk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 223.745178,602.549622 L 282.723724,629.404785"
+              class="id_dkøko id_coronaøko" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 223.745178,602.549622 L 243.893219,532.016052"
+              class="id_dkøko id_covid19dk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 282.723724,629.404785 L 243.893219,532.016052"
+              class="id_coronaøko id_covid19dk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 243.893219,532.016052 L 305.075775,578.213257"
+              class="id_covid19dk id_covid2019dk" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 243.893219,532.016052 L 345.785797,559.877991"
+              class="id_covid19dk id_digitalstrike" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="16.0"
+              d="M 243.893219,532.016052 L 243.086502,459.762421"
+              class="id_covid19dk id_blivhjemmemøde" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 243.893219,532.016052 L 332.808197,501.977142"
+              class="id_covid19dk id_cop26" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 243.893219,532.016052 L 228.183945,-180.057144"
+              class="id_covid19dk id_klima" stroke-opacity="1.0"
+              stroke="#9e8300"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1051.289185,76.892006 L 1187.545044,-407.924011"
+              class="id_kompoldk id_dkbyg" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1051.289185,76.892006 L 786.868958,531.391174"
+              class="id_kompoldk id_dktrp" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -243.162369,637.077087 L -248.573074,676.080627"
+              class="id_8marts id_ligestilling" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -248.573074,676.080627 L -253.327530,712.007080"
+              class="id_ligestilling id_hverdagssexisme" stroke-opacity="1.0"
+              stroke="#00aed8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 52.384251,124.024086 L 37.628819,149.985413"
+              class="id_dkfood id_fremtidsføde" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L -67.523277,90.675110"
+              class="id_dkfood id_klimafunding" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L 109.325775,186.382050"
+              class="id_dkfood id_dkjob" stroke-opacity="1.0" stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L 786.868958,531.391174"
+              class="id_dkfood id_dktrp" stroke-opacity="1.0" stroke="#9b5a7d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L 243.086502,459.762421"
+              class="id_dkfood id_blivhjemmemøde" stroke-opacity="1.0"
+              stroke="#907835"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L -3.517455,39.297527"
+              class="id_dkfood id_klimaafgift" stroke-opacity="1.0"
+              stroke="#f15135"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L -60.554306,15.596884"
+              class="id_dkfood id_fødevarer" stroke-opacity="1.0"
+              stroke="#f15135"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.384251,124.024086 L -19.307213,-32.186996"
+              class="id_dkfood id_klimalov" stroke-opacity="1.0"
+              stroke="#f15135"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -116.028030,-575.817566 L -136.340515,-613.351379"
+              class="id_dkenergi id_dkaffald" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -116.028030,-575.817566 L -76.811066,-547.475525"
+              class="id_dkenergi id_euklima" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -116.028030,-575.817566 L -113.562683,-526.537964"
+              class="id_dkenergi id_balticpipenejtak" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 52.199818,455.014648 L 14.623124,525.613403"
+              class="id_eudk id_grønvinder" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 786.868958,531.391174 L 831.601257,615.368164"
+              class="id_dktrp id_elbil" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 786.868958,531.391174 L 804.755310,479.486267"
+              class="id_dktrp id_elbiler" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 786.868958,531.391174 L 870.060974,581.160767"
+              class="id_dktrp id_elbildk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 786.868958,531.391174 L 869.912537,554.162231"
+              class="id_dktrp id_elbild" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 786.868958,531.391174 L 770.259338,596.360657"
+              class="id_dktrp id_afidirektivet" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 786.868958,531.391174 L 855.086975,500.090851"
+              class="id_dktrp id_mikroplast" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1187.545044,-407.924011 L 1192.830811,-449.040131"
+              class="id_dkbyg id_vinterakademi" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1187.545044,-407.924011 L 1173.087280,-503.641022"
+              class="id_dkbyg id_klimaambassaden" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1186.087891,-603.930725 L 1149.805298,-581.861938"
+              class="id_praktik id_groselv" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1149.805298,-581.861938 L 1040.918579,-673.933105"
+              class="id_groselv id_dkung" stroke-opacity="1.0" stroke="#9766b3"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1149.805298,-581.861938 L 1173.087280,-503.641022"
+              class="id_groselv id_klimaambassaden" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1192.830811,-449.040131 L 1173.087280,-503.641022"
+              class="id_vinterakademi id_klimaambassaden" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1173.087280,-503.641022 L 1040.918579,-673.933105"
+              class="id_klimaambassaden id_dkung" stroke-opacity="1.0"
+              stroke="#9766b3"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 159.223343,206.071884 L 109.325775,186.382050"
+              class="id_skolechat id_dkjob" stroke-opacity="1.0"
+              stroke="#e3466a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1040.918579,-673.933105 L 925.747681,-770.611938"
+              class="id_dkung id_dkaid" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1040.918579,-673.933105 L 617.510559,-940.190308"
+              class="id_dkung id_dknatur" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 569.360840,-1081.807251"
+              class="id_dknatur id_jaegerforbundet" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 629.047607,-1105.250854"
+              class="id_dknatur id_jaegerne" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 588.636414,-1128.816528"
+              class="id_dknatur id_vildtforvaltning" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 638.053711,-864.623657"
+              class="id_dknatur id_kloakgate" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 542.611694,-976.473389"
+              class="id_dknatur id_havet" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 682.953430,-898.331970"
+              class="id_dknatur id_pladstilalle" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 554.340576,-889.993286"
+              class="id_dknatur id_gotur" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 510.070648,-911.545898"
+              class="id_dknatur id_oewg2" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 523.893677,-997.772156"
+              class="id_dknatur id_ørnensdag" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 260.672791,-530.067810"
+              class="id_dknatur id_biodiversitet" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 320.638733,-598.228394"
+              class="id_dknatur id_klimaskoven" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 380.330963,-553.459351"
+              class="id_dknatur id_urørtskov" stroke-opacity="1.0"
+              stroke="#ed5d6b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 621.848755,-1019.029907"
+              class="id_dknatur id_sommerfugle" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 925.747681,-770.611938"
+              class="id_dknatur id_dkaid" stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 713.238342,-1038.149170"
+              class="id_dknatur id_naturkrise" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 617.510559,-940.190308 L 687.606201,-981.631226"
+              class="id_dknatur id_youth4biodiversity" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 617.510559,-940.190308 L 756.796631,-958.146790"
+              class="id_dknatur id_cbdcop15" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 569.360840,-1081.807251 L 629.047607,-1105.250854"
+              class="id_jaegerforbundet id_jaegerne" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 569.360840,-1081.807251 L 588.636414,-1128.816528"
+              class="id_jaegerforbundet id_vildtforvaltning"
+              stroke-opacity="1.0" stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 629.047607,-1105.250854 L 588.636414,-1128.816528"
+              class="id_jaegerne id_vildtforvaltning" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 520.933594,-240.930923"
+              class="id_klima id_økologi" stroke-opacity="1.0" stroke="#7f7a32"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 464.800446,-209.277054"
+              class="id_klima id_endelafløsningen" stroke-opacity="1.0"
+              stroke="#7f7a32"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 175.822662,-217.496521"
+              class="id_klima id_klimavenlig" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 228.183945,-180.057144 L 99.753479,-150.184113"
+              class="id_klima id_klimatosse" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 202.309128,-293.821411"
+              class="id_klima id_bæredygtighed" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 125.955322,-71.752403"
+              class="id_klima id_omstilling" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 241.568649,-96.155525"
+              class="id_klima id_kommuner" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 181.268417,-118.015076"
+              class="id_klima id_miljø" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 260.672791,-530.067810"
+              class="id_klima id_biodiversitet" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 228.183945,-180.057144 L 320.246216,-206.344147"
+              class="id_klima id_biodiversity" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 831.601257,615.368164 L 870.060974,581.160767"
+              class="id_elbil id_elbildk" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 831.601257,615.368164 L 770.259338,596.360657"
+              class="id_elbil id_afidirektivet" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 831.601257,615.368164 L 838.496704,646.817444"
+              class="id_elbil id_dkturisme" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 804.755310,479.486267 L 855.086975,500.090851"
+              class="id_elbiler id_mikroplast" stroke-opacity="1.0"
+              stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 870.060974,581.160767 L 869.912537,554.162231"
+              class="id_elbildk id_elbild" stroke-opacity="1.0" stroke="#536e90"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -220.909805,-292.853485 L -159.868408,-320.246155"
+              class="id_mgp id_ingenplanb" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -220.909805,-292.853485 L -183.767334,-345.950745"
+              class="id_mgp id_drmgp" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -220.909805,-292.853485 L -307.678528,-218.407471"
+              class="id_mgp id_pasgodtpåvoresjord" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 557.963623,-394.607056 L 536.148499,-412.218475"
+              class="id_euclimatelaw id_houseonfire" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -76.811066,-547.475525 L -113.562683,-526.537964"
+              class="id_euklima id_balticpipenejtak" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -159.868408,-320.246155 L -183.767334,-345.950745"
+              class="id_ingenplanb id_drmgp" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 520.933594,-240.930923 L 464.800446,-209.277054"
+              class="id_økologi id_endelafløsningen" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 520.933594,-240.930923 L 580.997559,-217.228867"
+              class="id_økologi id_økogf" stroke-opacity="1.0" stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 520.933594,-240.930923 L 659.903687,-247.243622"
+              class="id_økologi id_organic" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -19.307213,-32.186996 L -3.517455,39.297527"
+              class="id_klimalov id_klimaafgift" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -19.307213,-32.186996 L -60.554306,15.596884"
+              class="id_klimalov id_fødevarer" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -19.307213,-32.186996 L -42.935551,-125.014359"
+              class="id_klimalov id_rydopefterdigselv" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -19.307213,-32.186996 L 26.069521,-101.723656"
+              class="id_klimalov id_klimakrise" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -19.307213,-32.186996 L 192.620712,327.107666"
+              class="id_klimalov id_dkcivil" stroke-opacity="1.0"
+              stroke="#9e8300"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 659.903687,-247.243622 L 726.037415,-224.107880"
+              class="id_organic id_organicproducts" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 659.903687,-247.243622 L 738.336304,-270.523712"
+              class="id_organic id_organicfood" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 726.037415,-224.107880 L 738.336304,-270.523712"
+              class="id_organicproducts id_organicfood" stroke-opacity="1.0"
+              stroke="#009865"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 92.502663,587.927246 L 89.502625,615.952209"
+              class="id_vildnatur id_verdensmål" stroke-opacity="1.0"
+              stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 175.822662,-217.496521 L 99.753479,-150.184113"
+              class="id_klimavenlig id_klimatosse" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 175.822662,-217.496521 L 202.309128,-293.821411"
+              class="id_klimavenlig id_bæredygtighed" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 99.753479,-150.184113 L 202.309128,-293.821411"
+              class="id_klimatosse id_bæredygtighed" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 99.753479,-150.184113 L 26.069521,-101.723656"
+              class="id_klimatosse id_klimakrise" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 99.753479,-150.184113 L 125.955322,-71.752403"
+              class="id_klimatosse id_omstilling" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -3.517455,39.297527 L -60.554306,15.596884"
+              class="id_klimaafgift id_fødevarer" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -42.935551,-125.014359 L 26.069521,-101.723656"
+              class="id_rydopefterdigselv id_klimakrise" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 26.069521,-101.723656 L 125.955322,-71.752403"
+              class="id_klimakrise id_omstilling" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 125.955322,-71.752403 L 241.568649,-96.155525"
+              class="id_omstilling id_kommuner" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 125.955322,-71.752403 L 181.268417,-118.015076"
+              class="id_omstilling id_miljø" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 241.568649,-96.155525 L 181.268417,-118.015076"
+              class="id_kommuner id_miljø" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 192.620712,327.107666 L 242.595016,309.295807"
+              class="id_dkcivil id_dkeu" stroke-opacity="1.0" stroke="#3eaa00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 260.672791,-530.067810 L 242.274246,-571.489380"
+              class="id_biodiversitet id_dkn" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 260.672791,-530.067810 L 320.638733,-598.228394"
+              class="id_biodiversitet id_klimaskoven" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 260.672791,-530.067810 L 380.330963,-553.459351"
+              class="id_biodiversitet id_urørtskov" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 320.638733,-598.228394 L 380.330963,-553.459351"
+              class="id_klimaskoven id_urørtskov" stroke-opacity="1.0"
+              stroke="#ff5d00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 380.330963,-553.459351 L 439.967163,-490.389313"
+              class="id_urørtskov id_dkhav" stroke-opacity="1.0"
+              stroke="#7f7a32"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 713.238342,-1038.149170 L 687.606201,-981.631226"
+              class="id_naturkrise id_youth4biodiversity" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 687.606201,-981.631226 L 756.796631,-958.146790"
+              class="id_youth4biodiversity id_cbdcop15" stroke-opacity="1.0"
+              stroke="#dc5ed7"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00aed8" r="50.0" cx="-143.59981"
+                class="id_dkbiz" cy="190.99887" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="29.300001" cx="-191.64163"
+                class="id_dkmedier" cy="341.93774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="17.6" cx="89.449394"
+                class="id_grøngenstart" cy="494.7865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="17.6" cx="-254.32762"
+                class="id_actonclimate" cy="296.33615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.9" cx="-357.6883"
+                class="id_planb" cy="322.68307" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="40.1" cx="-652.06055"
+                class="id_operationklimahandling" cy="244.92351"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="10.4" cx="19.562023"
+                class="id_landbrug" cy="239.41455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.7" cx="-335.25833"
+                class="id_dronningen" cy="376.78784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.7" cx="-295.20786"
+                class="id_blomster" cy="399.20828" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.0" cx="-144.00388"
+                class="id_covid19" cy="401.76724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="-168.78197"
+                class="id_klimabevægelsen" cy="-102.085464" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="11.3" cx="475.9041"
+                class="id_eupol" cy="-370.87628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="19.4" cx="-297.1419"
+                class="id_eugreendeal" cy="37.579468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.5" cx="-646.5832"
+                class="id_fånutjekpådenforhandling" cy="-30.819311"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="17.6" cx="-742.06696"
+                class="id_klimaflygtninger" cy="71.200935" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="20.3" cx="-934.6538"
+                class="id_udenrigsministeriet" cy="30.311796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="34.7" cx="-366.2158"
+                class="id_fridaysforfuture" cy="123.60769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="15.8" cx="-673.9041"
+                class="id_jeppe" cy="1.0125573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="14.0" cx="-599.9747"
+                class="id_håb" cy="35.231705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.7" cx="-764.3335"
+                class="id_greennewdealforafrik" cy="160.94911" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.7" cx="-809.8462"
+                class="id_timwhite" cy="185.4868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="7.7" cx="-753.91187"
+                class="id_ariel" cy="-1.021765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.5" cx="-988.69244"
+                class="id_jeppekofoed" cy="186.41481" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.5" cx="-1032.482"
+                class="id_folketsklimamarch" cy="161.31703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.5" cx="-982.6535"
+                class="id_music" cy="98.0275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.5" cx="-959.10333"
+                class="id_sang" cy="139.57835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#907402" r="9.5" cx="-1039.29"
+                class="id_march" cy="120.11286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.9" cx="-464.49268"
+                class="id_klimapolitik" cy="190.10315" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.9" cx="-165.52423"
+                class="id_pcilist" cy="468.0637" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.9" cx="-198.80424"
+                class="id_noroomforgas" cy="490.6961" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.9" cx="-569.4414"
+                class="id_gretathunberg" cy="168.33353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.6" cx="-175.96352"
+                class="id_divestnow" cy="68.65256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="9.5" cx="-649.2904"
+                class="id_sundhed" cy="336.27957" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="7.7" cx="-685.5024"
+                class="id_ren" cy="410.98892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.6" cx="-644.3073"
+                class="id_luft" cy="385.30615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="8.6" cx="-690.05133"
+                class="id_lægerforklimaet" cy="361.87305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="13.1" cx="-388.75238"
+                class="id_greennewdeal" cy="0.8719405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="34.7" cx="13.319773"
+                class="id_dkklima" cy="-255.65569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="5.0" cx="-4.638454"
+                class="id_klimahandling" cy="-364.8666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="6.8" cx="256.13953"
+                class="id_arbejde" cy="651.58636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="9.5" cx="223.74518"
+                class="id_dkøko" cy="602.5496" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="6.8" cx="282.72372"
+                class="id_coronaøko" cy="629.4048" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="21.2" cx="243.89322"
+                class="id_covid19dk" cy="532.01605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.9" cx="1051.2892"
+                class="id_kompoldk" cy="76.892006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.0" cx="305.07578"
+                class="id_covid2019dk" cy="578.21326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.9" cx="-243.16237"
+                class="id_8marts" cy="637.0771" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="6.8" cx="-248.57307"
+                class="id_ligestilling" cy="676.0806" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="17.6" cx="52.38425"
+                class="id_dkfood" cy="124.024086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="7.7" cx="37.62882"
+                class="id_fremtidsføde" cy="149.98541" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.7" cx="-116.02803"
+                class="id_dkenergi" cy="-575.81757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="12.2" cx="52.199818"
+                class="id_eudk" cy="455.01465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.9" cx="14.623124"
+                class="id_grønvinder" cy="525.6134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="5.0" cx="-136.34052"
+                class="id_dkaffald" cy="-613.3514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="14.9" cx="786.86896"
+                class="id_dktrp" cy="531.3912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="6.8" cx="1187.545"
+                class="id_dkbyg" cy="-407.924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.0" cx="1186.0879"
+                class="id_praktik" cy="-603.9307" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="6.8" cx="1149.8053"
+                class="id_groselv" cy="-581.86194" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.9" cx="1192.8308"
+                class="id_vinterakademi" cy="-449.04013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="7.7" cx="1173.0873"
+                class="id_klimaambassaden" cy="-503.64102" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="5.9" cx="-67.52328"
+                class="id_klimafunding" cy="90.67511" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="5.0" cx="159.22334"
+                class="id_skolechat" cy="206.07188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e3466a" r="6.8" cx="109.325775"
+                class="id_dkjob" cy="186.38205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.7" cx="1040.9186"
+                class="id_dkung" cy="-673.9331" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="22.1" cx="617.51056"
+                class="id_dknatur" cy="-940.1903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="6.8" cx="569.36084"
+                class="id_jaegerforbundet" cy="-1081.8073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="6.8" cx="629.0476"
+                class="id_jaegerne" cy="-1105.2509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="6.8" cx="588.6364"
+                class="id_vildtforvaltning" cy="-1128.8165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="638.0537"
+                class="id_kloakgate" cy="-864.62366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="542.6117"
+                class="id_havet" cy="-976.4734" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="18.5" cx="228.18394"
+                class="id_klima" cy="-180.05714" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="682.9534"
+                class="id_pladstilalle" cy="-898.332" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="554.3406"
+                class="id_gotur" cy="-889.9933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="510.07065"
+                class="id_oewg2" cy="-911.5459" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="523.8937"
+                class="id_ørnensdag" cy="-997.77216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="8.6" cx="831.60126"
+                class="id_elbil" cy="615.36816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="6.8" cx="804.7553"
+                class="id_elbiler" cy="479.48627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="6.8" cx="870.061"
+                class="id_elbildk" cy="581.16077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.9" cx="869.91254"
+                class="id_elbild" cy="554.16223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.9" cx="770.25934"
+                class="id_afidirektivet" cy="596.36066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.0" cx="838.4967"
+                class="id_dkturisme" cy="646.81744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.0" cx="345.7858"
+                class="id_digitalstrike" cy="559.878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="13.1" cx="243.0865"
+                class="id_blivhjemmemøde" cy="459.76242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.0" cx="332.8082"
+                class="id_cop26" cy="501.97714" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.6" cx="-220.9098"
+                class="id_mgp" cy="-292.8535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="557.9636"
+                class="id_euclimatelaw" cy="-394.60706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="536.1485"
+                class="id_houseonfire" cy="-412.21848" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="6.8" cx="-76.811066"
+                class="id_euklima" cy="-547.4755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="6.8" cx="-113.56268"
+                class="id_balticpipenejtak" cy="-526.53796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="6.8" cx="-159.86841"
+                class="id_ingenplanb" cy="-320.24615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="6.8" cx="-183.76733"
+                class="id_drmgp" cy="-345.95074" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="5.9" cx="-307.67853"
+                class="id_pasgodtpåvoresjord" cy="-218.40747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#536e90" r="5.9" cx="855.087"
+                class="id_mikroplast" cy="500.09085" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="8.6" cx="520.9336"
+                class="id_økologi" cy="-240.93092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="12.2" cx="-19.307213"
+                class="id_klimalov" cy="-32.186996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.0" cx="580.99756"
+                class="id_økogf" cy="-217.22887" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="464.80045"
+                class="id_endelafløsningen" cy="-209.27705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="7.7" cx="659.9037"
+                class="id_organic" cy="-247.24362" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="726.0374"
+                class="id_organicproducts" cy="-224.10788" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="738.3363"
+                class="id_organicfood" cy="-270.5237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.9" cx="925.7477"
+                class="id_dkaid" cy="-770.61194" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.9" cx="92.50266"
+                class="id_vildnatur" cy="587.92725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.9" cx="89.502625"
+                class="id_verdensmål" cy="615.9522" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.7" cx="175.82266"
+                class="id_klimavenlig" cy="-217.49652" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="14.0" cx="99.75348"
+                class="id_klimatosse" cy="-150.18411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.7" cx="202.30913"
+                class="id_bæredygtighed" cy="-293.8214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.6" cx="-3.5174546"
+                class="id_klimaafgift" cy="39.297527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="8.6" cx="-60.554306"
+                class="id_fødevarer" cy="15.596884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aed8" r="5.0" cx="-253.32753"
+                class="id_hverdagssexisme" cy="712.0071" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="6.8" cx="-42.93555"
+                class="id_rydopefterdigselv" cy="-125.01436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="10.4" cx="26.06952"
+                class="id_klimakrise" cy="-101.723656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="10.4" cx="125.95532"
+                class="id_omstilling" cy="-71.7524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.7" cx="241.56865"
+                class="id_kommuner" cy="-96.155525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.7" cx="181.26842"
+                class="id_miljø" cy="-118.015076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="6.8" cx="192.62071"
+                class="id_dkcivil" cy="327.10767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3eaa00" r="5.0" cx="242.59502"
+                class="id_dkeu" cy="309.2958" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="10.4" cx="260.6728"
+                class="id_biodiversitet" cy="-530.0678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="5.0" cx="242.27425"
+                class="id_dkn" cy="-571.4894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="7.7" cx="320.63873"
+                class="id_klimaskoven" cy="-598.2284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="9.5" cx="380.33096"
+                class="id_urørtskov" cy="-553.45935" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="5.0" cx="320.24622"
+                class="id_biodiversity" cy="-206.34415" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009865" r="5.9" cx="439.96716"
+                class="id_dkhav" cy="-490.3893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.0" cx="621.84875"
+                class="id_sommerfugle" cy="-1019.0299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.9" cx="713.23834"
+                class="id_naturkrise" cy="-1038.1492" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="7.7" cx="687.6062"
+                class="id_youth4biodiversity" cy="-981.6312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dc5ed7" r="5.9" cx="756.79663"
+                class="id_cbdcop15" cy="-958.1468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="90" x="-143.59981" y="207.3685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkbiz">
+            dkbiz
+        </text>
+        <text font-size="59" x="-191.64163" y="352.66895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkmedier">
+            dkmedier
+        </text>
+        <text font-size="41" x="89.449394" y="504.11896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_grøngenstart">
+            grøngenstart
+        </text>
+        <text font-size="41" x="-254.32762" y="303.79343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_actonclimate">
+            actonclimate
+        </text>
+        <text font-size="23" x="-357.6883" y="327.9427" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_planb">
+            planb
+        </text>
+        <text font-size="75" x="-652.06055" y="262.29413" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_operationklimahandling">
+            operationklimahandling
+        </text>
+        <text font-size="30" x="19.562023" y="246.3628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_landbrug">
+            landbrug
+        </text>
+        <text font-size="26" x="-335.25833" y="382.80966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dronningen">
+            dronningen
+        </text>
+        <text font-size="26" x="-295.20786" y="403.9373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_blomster">
+            blomster
+        </text>
+        <text font-size="22" x="-144.00388" y="405.7884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_covid19">
+            covid19
+        </text>
+        <text font-size="23" x="-168.78197" y="-96.75848" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimabevægelsen">
+            klimabevægelsen
+        </text>
+        <text font-size="31" x="475.9041" y="-363.78726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eupol">
+            eupol
+        </text>
+        <text font-size="43" x="-297.1419" y="47.538616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eugreendeal">
+            eugreendeal
+        </text>
+        <text font-size="28" x="-646.5832" y="-24.158829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fånutjekpådenforhandling">
+            fånutjekpådenforhandling
+        </text>
+        <text font-size="41" x="-742.06696" y="80.823654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimaflygtninger">
+            klimaflygtninger
+        </text>
+        <text font-size="45" x="-934.6538" y="40.73416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_udenrigsministeriet">
+            udenrigsministeriet
+        </text>
+        <text font-size="67" x="-366.2158" y="139.33263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fridaysforfuture">
+            fridaysforfuture
+        </text>
+        <text font-size="38" x="-673.9041" y="9.8136635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jeppe">
+            jeppe
+        </text>
+        <text font-size="35" x="-599.9747" y="41.81699" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_håb">
+            håb
+        </text>
+        <text font-size="26" x="-764.3335" y="167.05133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_greennewdealforafrik">
+            greennewdealforafrik
+        </text>
+        <text font-size="26" x="-809.8462" y="190.2158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_timwhite">
+            timwhite
+        </text>
+        <text font-size="26" x="-753.91187" y="3.707239" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ariel">
+            ariel
+        </text>
+        <text font-size="28" x="-988.69244" y="192.98642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jeppekofoed">
+            jeppekofoed
+        </text>
+        <text font-size="28" x="-1032.482" y="166.4964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_folketsklimamarch">
+            folketsklimamarch
+        </text>
+        <text font-size="28" x="-982.6535" y="103.12027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_music">
+            music
+        </text>
+        <text font-size="28" x="-959.10333" y="144.76456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sang">
+            sang
+        </text>
+        <text font-size="28" x="-1039.29" y="125.205635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_march">
+            march
+        </text>
+        <text font-size="23" x="-464.49268" y="195.36275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimapolitik">
+            klimapolitik
+        </text>
+        <text font-size="23" x="-165.52423" y="473.3233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pcilist">
+            pcilist
+        </text>
+        <text font-size="23" x="-198.80424" y="496.09424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_noroomforgas">
+            noroomforgas
+        </text>
+        <text font-size="23" x="-569.4414" y="173.6605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gretathunberg">
+            gretathunberg
+        </text>
+        <text font-size="27" x="-175.96352" y="73.563446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_divestnow">
+            divestnow
+        </text>
+        <text font-size="28" x="-649.2904" y="341.37234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sundhed">
+            sundhed
+        </text>
+        <text font-size="26" x="-685.5024" y="414.51187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ren">
+            ren
+        </text>
+        <text font-size="27" x="-644.3073" y="390.30054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_luft">
+            luft
+        </text>
+        <text font-size="27" x="-690.05133" y="368.20996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lægerforklimaet">
+            lægerforklimaet
+        </text>
+        <text font-size="34" x="-388.75238" y="8.746615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_greennewdeal">
+            greennewdeal
+        </text>
+        <text font-size="67" x="13.319773" y="-243.4694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkklima">
+            dkklima
+        </text>
+        <text font-size="22" x="-4.638454" y="-359.77124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimahandling">
+            klimahandling
+        </text>
+        <text font-size="24" x="256.13953" y="657.14496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_arbejde">
+            arbejde
+        </text>
+        <text font-size="28" x="223.74518" y="607.83154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkøko">
+            dkøko
+        </text>
+        <text font-size="24" x="282.72372" y="633.9321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_coronaøko">
+            coronaøko
+        </text>
+        <text font-size="46" x="243.89322" y="540.42395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_covid19dk">
+            covid19dk
+        </text>
+        <text font-size="23" x="1051.2892" y="82.15161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kompoldk">
+            kompoldk
+        </text>
+        <text font-size="22" x="305.07578" y="582.23444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_covid2019dk">
+            covid2019dk
+        </text>
+        <text font-size="23" x="-243.16237" y="641.281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_8marts">
+            8marts
+        </text>
+        <text font-size="24" x="-248.57307" y="681.6392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ligestilling">
+            ligestilling
+        </text>
+        <text font-size="41" x="52.38425" y="131.60815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkfood">
+            dkfood
+        </text>
+        <text font-size="26" x="37.62882" y="154.97043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fremtidsføde">
+            fremtidsføde
+        </text>
+        <text font-size="26" x="-116.02803" y="-569.7958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkenergi">
+            dkenergi
+        </text>
+        <text font-size="33" x="52.199818" y="461.01685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eudk">
+            eudk
+        </text>
+        <text font-size="23" x="14.623124" y="530.94037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_grønvinder">
+            grønvinder
+        </text>
+        <text font-size="22" x="-136.34052" y="-609.28186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkaffald">
+            dkaffald
+        </text>
+        <text font-size="37" x="786.86896" y="539.8523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dktrp">
+            dktrp
+        </text>
+        <text font-size="24" x="1187.545" y="-402.36542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkbyg">
+            dkbyg
+        </text>
+        <text font-size="22" x="1186.0879" y="-598.8998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_praktik">
+            praktik
+        </text>
+        <text font-size="24" x="1149.8053" y="-576.30334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_groselv">
+            groselv
+        </text>
+        <text font-size="23" x="1192.8308" y="-444.85678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vinterakademi">
+            vinterakademi
+        </text>
+        <text font-size="26" x="1173.0873" y="-498.91202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimaambassaden">
+            klimaambassaden
+        </text>
+        <text font-size="23" x="-67.52328" y="96.07323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimafunding">
+            klimafunding
+        </text>
+        <text font-size="22" x="159.22334" y="210.07335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_skolechat">
+            skolechat
+        </text>
+        <text font-size="24" x="109.325775" y="191.94064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkjob">
+            dkjob
+        </text>
+        <text font-size="26" x="1040.9186" y="-667.9113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkung">
+            dkung
+        </text>
+        <text font-size="48" x="617.51056" y="-931.45984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dknatur">
+            dknatur
+        </text>
+        <text font-size="24" x="569.36084" y="-1076.1744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jaegerforbundet">
+            jaegerforbundet
+        </text>
+        <text font-size="24" x="629.0476" y="-1099.6923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jaegerne">
+            jaegerne
+        </text>
+        <text font-size="24" x="588.6364" y="-1123.1837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vildtforvaltning">
+            vildtforvaltning
+        </text>
+        <text font-size="22" x="638.0537" y="-859.52826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kloakgate">
+            kloakgate
+        </text>
+        <text font-size="22" x="542.6117" y="-972.4719" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_havet">
+            havet
+        </text>
+        <text font-size="42" x="228.18394" y="-172.41798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klima">
+            klima
+        </text>
+        <text font-size="22" x="682.9534" y="-893.301" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pladstilalle">
+            pladstilalle
+        </text>
+        <text font-size="22" x="554.3406" y="-884.9856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gotur">
+            gotur
+        </text>
+        <text font-size="22" x="510.07065" y="-906.4344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_oewg2">
+            oewg2
+        </text>
+        <text font-size="22" x="523.8937" y="-992.67676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ørnensdag">
+            ørnensdag
+        </text>
+        <text font-size="27" x="831.60126" y="620.27905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_elbil">
+            elbil
+        </text>
+        <text font-size="24" x="804.7553" y="483.8515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_elbiler">
+            elbiler
+        </text>
+        <text font-size="24" x="870.061" y="585.526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_elbildk">
+            elbildk
+        </text>
+        <text font-size="23" x="869.91254" y="558.3456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_elbild">
+            elbild
+        </text>
+        <text font-size="23" x="770.25934" y="600.6151" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_afidirektivet">
+            afidirektivet
+        </text>
+        <text font-size="22" x="838.4967" y="650.8189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkturisme">
+            dkturisme
+        </text>
+        <text font-size="22" x="345.7858" y="564.9734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_digitalstrike">
+            digitalstrike
+        </text>
+        <text font-size="34" x="243.0865" y="467.6371" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_blivhjemmemøde">
+            blivhjemmemøde
+        </text>
+        <text font-size="22" x="332.8082" y="507.02417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cop26">
+            cop26
+        </text>
+        <text font-size="27" x="-220.9098" y="-287.8525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mgp">
+            mgp
+        </text>
+        <text font-size="23" x="557.9636" y="-390.4237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_euclimatelaw">
+            euclimatelaw
+        </text>
+        <text font-size="23" x="536.1485" y="-407.964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_houseonfire">
+            houseonfire
+        </text>
+        <text font-size="24" x="-76.811066" y="-543.1103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_euklima">
+            euklima
+        </text>
+        <text font-size="24" x="-113.56268" y="-520.9794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_balticpipenejtak">
+            balticpipenejtak
+        </text>
+        <text font-size="24" x="-159.86841" y="-314.68756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ingenplanb">
+            ingenplanb
+        </text>
+        <text font-size="24" x="-183.76733" y="-340.39215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_drmgp">
+            drmgp
+        </text>
+        <text font-size="23" x="-307.67853" y="-212.93637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pasgodtpåvoresjord">
+            pasgodtpåvoresjord
+        </text>
+        <text font-size="23" x="855.087" y="505.35046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mikroplast">
+            mikroplast
+        </text>
+        <text font-size="27" x="520.9336" y="-234.6775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_økologi">
+            økologi
+        </text>
+        <text font-size="33" x="-19.307213" y="-26.1848" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimalov">
+            klimalov
+        </text>
+        <text font-size="22" x="580.99756" y="-212.06546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_økogf">
+            økogf
+        </text>
+        <text font-size="23" x="464.80045" y="-203.87894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_endelafløsningen">
+            endelafløsningen
+        </text>
+        <text font-size="26" x="659.9037" y="-241.22182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_organic">
+            organic
+        </text>
+        <text font-size="23" x="726.0374" y="-218.7809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_organicproducts">
+            organicproducts
+        </text>
+        <text font-size="23" x="738.3363" y="-265.1256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_organicfood">
+            organicfood
+        </text>
+        <text font-size="23" x="925.7477" y="-766.4286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkaid">
+            dkaid
+        </text>
+        <text font-size="23" x="92.50266" y="592.1106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vildnatur">
+            vildnatur
+        </text>
+        <text font-size="23" x="89.502625" y="620.27966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_verdensmål">
+            verdensmål
+        </text>
+        <text font-size="26" x="175.82266" y="-211.47472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimavenlig">
+            klimavenlig
+        </text>
+        <text font-size="35" x="99.75348" y="-143.81815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimatosse">
+            klimatosse
+        </text>
+        <text font-size="26" x="202.30913" y="-287.7996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bæredygtighed">
+            bæredygtighed
+        </text>
+        <text font-size="27" x="-3.5174546" y="45.63444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimaafgift">
+            klimaafgift
+        </text>
+        <text font-size="27" x="-60.554306" y="20.773642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fødevarer">
+            fødevarer
+        </text>
+        <text font-size="22" x="-253.32753" y="717.1025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hverdagssexisme">
+            hverdagssexisme
+        </text>
+        <text font-size="24" x="-42.93555" y="-119.381546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rydopefterdigselv">
+            rydopefterdigselv
+        </text>
+        <text font-size="30" x="26.06952" y="-96.26711" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimakrise">
+            klimakrise
+        </text>
+        <text font-size="30" x="125.95532" y="-64.80416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_omstilling">
+            omstilling
+        </text>
+        <text font-size="26" x="241.56865" y="-91.42652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kommuner">
+            kommuner
+        </text>
+        <text font-size="26" x="181.26842" y="-111.99326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_miljø">
+            miljø
+        </text>
+        <text font-size="24" x="192.62071" y="331.4729" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkcivil">
+            dkcivil
+        </text>
+        <text font-size="22" x="242.59502" y="313.29727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkeu">
+            dkeu
+        </text>
+        <text font-size="30" x="260.6728" y="-524.61127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_biodiversitet">
+            biodiversitet
+        </text>
+        <text font-size="22" x="242.27425" y="-567.4879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkn">
+            dkn
+        </text>
+        <text font-size="26" x="320.63873" y="-593.4994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_klimaskoven">
+            klimaskoven
+        </text>
+        <text font-size="28" x="380.33096" y="-548.1774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_urørtskov">
+            urørtskov
+        </text>
+        <text font-size="22" x="320.24622" y="-201.24876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_biodiversity">
+            biodiversity
+        </text>
+        <text font-size="23" x="439.96716" y="-486.20596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dkhav">
+            dkhav
+        </text>
+        <text font-size="22" x="621.84875" y="-1013.8665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sommerfugle">
+            sommerfugle
+        </text>
+        <text font-size="23" x="713.23834" y="-1033.9658" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_naturkrise">
+            naturkrise
+        </text>
+        <text font-size="26" x="687.6062" y="-975.60944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_youth4biodiversity">
+            youth4biodiversity
+        </text>
+        <text font-size="23" x="756.79663" y="-952.87036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cbdcop15">
+            cbdcop15
+        </text>
+    </g>
+</svg>

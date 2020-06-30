@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="896.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-441.000000 -410.000000 896.000000 871.000000" height="871.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.2"
+              d="M 19.561396,15.226710 L 68.796745,70.158882"
+              class="id_concordswe id_LSU_se" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="1.64"
+              d="M 5.924082,-37.236160 L 12.677003,-67.134460"
+              class="id_concordswe id_ForumSyd" stroke-opacity="1.0"
+              stroke="#49a076"/>
+        <path fill="none" stroke-width="0.92"
+              d="M -22.615070,13.825349 L -43.456314,34.180725"
+              class="id_concordswe id_DiakoniaSverige" stroke-opacity="1.0"
+              stroke="#49a076"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -46.747139,37.394829 L -29.769035,20.812534"
+              class="id_DiakoniaSverige id_concordswe" stroke-opacity="1.0"
+              stroke="#49a076"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 14.483574,-75.132980 L 8.127216,-46.990456"
+              class="id_ForumSyd id_concordswe" stroke-opacity="1.0"
+              stroke="#49a076"/>
+        <path fill="none" stroke-width="0.92"
+              d="M 22.444084,-247.009903 L 21.859041,-277.343811"
+              class="id_greenpeaceSE id_naturskyddsf" stroke-opacity="1.0"
+              stroke="#98cebb"/>
+        <path fill="none" stroke-width="0.2"
+              d="M 22.531422,-226.012482 L 21.548538,-136.381668"
+              class="id_greenpeaceSE id_ForumSyd" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="0.2"
+              d="M 13.120858,-389.524323 L 17.905968,-343.766449"
+              class="id_WWFSverige id_naturskyddsf" stroke-opacity="1.0"
+              stroke="#c0e6de"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_concordswe id_LSU_se"
+                  points="69.464188,70.903549 68.424416,70.492599 69.169075,69.825165"
+                  stroke="none"/>
+        <polyline fill="#49a076" fill-opacity="1.0"
+                  class="id_concordswe id_ForumSyd"
+                  points="14.483573,-75.132980 16.676262,-66.231178 8.677744,-68.037743"
+                  stroke="none"/>
+        <polyline fill="#49a076" fill-opacity="1.0"
+                  class="id_concordswe id_DiakoniaSverige"
+                  points="-46.747139,37.394829 -45.063366,32.535313 -41.849262,35.826138"
+                  stroke="none"/>
+        <polyline fill="#49a076" fill-opacity="1.0"
+                  class="id_DiakoniaSverige id_concordswe"
+                  points="-22.615070,13.825347 -26.275442,24.389517 -33.262627,17.235552"
+                  stroke="none"/>
+        <polyline fill="#49a076" fill-opacity="1.0"
+                  class="id_ForumSyd id_concordswe"
+                  points="5.924082,-37.236160 3.250071,-48.092022 13.004362,-45.888889"
+                  stroke="none"/>
+        <polyline fill="#98cebb" fill-opacity="1.0"
+                  class="id_greenpeaceSE id_naturskyddsf"
+                  points="21.770338,-281.942963 24.158613,-277.388153 19.559469,-277.299469"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_greenpeaceSE id_ForumSyd"
+                  points="21.537573,-135.381729 21.048569,-136.387146 22.048508,-136.376190"
+                  stroke="none"/>
+        <polyline fill="#c0e6de" fill-opacity="1.0"
+                  class="id_WWFSverige id_naturskyddsf"
+                  points="18.009975,-342.771881 17.408680,-343.714447 18.403255,-343.818451"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-392.408"
+                class="id_2022initiative" cy="217.2948" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-430.11508"
+                class="id_Axfoundation" cy="-137.66786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="444.2781"
+                class="id_BRISpress" cy="-94.98843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="30.0" cx="-0.7954775"
+                class="id_concordswe" cy="-7.485572" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="20.0" cx="-61.41277"
+                class="id_DiakoniaSverige" cy="51.718563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="30.0" cx="21.203133"
+                class="id_ForumSyd" cy="-104.88357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-254.48659"
+                class="id_GlobalUt" cy="329.98383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#43a57c" r="10.0" cx="22.646557"
+                class="id_greenpeaceSE" cy="-236.51186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-113.63319"
+                class="id_HelaSverige" cy="450.48926" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="69.38833"
+                class="id_Jagareforbundet" cy="435.15884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="20.0" cx="83.146675"
+                class="id_LSU_se" cy="86.16918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="30.0" cx="21.182201"
+                class="id_naturskyddsf" cy="-312.4373" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="390.30978"
+                class="id_hallsverigerent" cy="-335.62878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="427.19635"
+                class="id_svenskakyrkan" cy="89.619896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-422.73566"
+                class="id_sapmi_se" cy="43.419796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="343.6781"
+                class="id_SvFriluftsliv" cy="243.78014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-356.44324"
+                class="id_SvKonsumenter" cy="-354.69052" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="10.0" cx="12.028781"
+                class="id_WWFSverige" cy="-399.96738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="242.08922"
+                class="id_AnimalProtectSE" cy="397.80286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="28" x="-392.408" y="222.41264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_2022initiative">
+            2022initiative
+        </text>
+        <text font-size="28" x="-430.11508" y="-132.4885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Axfoundation">
+            Axfoundation
+        </text>
+        <text font-size="28" x="444.2781" y="-88.49884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BRISpress">
+            BRISpress
+        </text>
+        <text font-size="28" x="-0.7954775" y="-2.3927984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_concordswe">
+            concordswe
+        </text>
+        <text font-size="28" x="-61.41277" y="58.290176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DiakoniaSverige">
+            DiakoniaSverige
+        </text>
+        <text font-size="28" x="21.203133" y="-98.31195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ForumSyd">
+            ForumSyd
+        </text>
+        <text font-size="28" x="-254.48659" y="335.16772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GlobalUt">
+            GlobalUt
+        </text>
+        <text font-size="28" x="22.646557" y="-229.94025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_greenpeaceSE">
+            greenpeaceSE
+        </text>
+        <text font-size="28" x="-113.63319" y="457.06085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HelaSverige">
+            HelaSverige
+        </text>
+        <text font-size="28" x="69.38833" y="441.73047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jagareforbundet">
+            Jagareforbundet
+        </text>
+        <text font-size="28" x="83.146675" y="92.65877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_LSU_se">
+            LSU_se
+        </text>
+        <text font-size="28" x="21.182201" y="-305.86566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_naturskyddsf">
+            naturskyddsf
+        </text>
+        <text font-size="28" x="390.30978" y="-329.14377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hallsverigerent">
+            hallsverigerent
+        </text>
+        <text font-size="28" x="427.19635" y="96.10492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_svenskakyrkan">
+            svenskakyrkan
+        </text>
+        <text font-size="28" x="-422.73566" y="49.822792" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sapmi_se">
+            sapmi_se
+        </text>
+        <text font-size="28" x="343.6781" y="248.96405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SvFriluftsliv">
+            SvFriluftsliv
+        </text>
+        <text font-size="28" x="-356.44324" y="-349.5066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SvKonsumenter">
+            SvKonsumenter
+        </text>
+        <text font-size="28" x="12.028781" y="-393.39575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_WWFSverige">
+            WWFSverige
+        </text>
+        <text font-size="28" x="242.08922" y="402.98676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AnimalProtectSE">
+            AnimalProtectSE
+        </text>
+    </g>
+</svg>

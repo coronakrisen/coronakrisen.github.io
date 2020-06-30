@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1263.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-628.000000 -645.000000 1263.000000 1268.000000" height="1268.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.3333333"
+              d="M 76.565971,-350.730469 L 74.870911,-338.696960"
+              class="id_Civita_ id_Klimastiftelsen" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 11.562076,-63.795944 L 11.533321,-42.180241"
+              class="id_ForumNorway id_Naturvern" stroke-opacity="1.0"
+              stroke="#43a57c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 6.581259,-114.297966 L -4.066566,-167.384979"
+              class="id_ForumNorway id_WWFNorge" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -61.624043,94.432190 L -60.367630,108.864204"
+              class="id_GreenpeaceNorge id_NaturogUngdom" stroke-opacity="1.0"
+              stroke="#98cebb"/>
+        <path fill="none" stroke-width="2.6666667"
+              d="M -55.192448,76.465675 L -19.184858,39.654640"
+              class="id_GreenpeaceNorge id_Naturvern" stroke-opacity="1.0"
+              stroke="#43a57c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -75.766617,203.089203 L -67.921799,178.100601"
+              class="id_Bellona_no id_NaturogUngdom" stroke-opacity="1.0"
+              stroke="#c0e6de"/>
+        <path fill="none" stroke-width="2.3333333"
+              d="M -2.301802,35.535408 L -40.511406,111.065964"
+              class="id_Naturvern id_NaturogUngdom" stroke-opacity="1.0"
+              stroke="#98cebb"/>
+        <path fill="none" stroke-width="2.3333333"
+              d="M 11.506717,-22.180256 L 11.546556,-52.129288"
+              class="id_Naturvern id_ForumNorway" stroke-opacity="1.0"
+              stroke="#43a57c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 90.912018,46.498795 L 149.895782,101.313354"
+              class="id_Stoyforeningen id_Syklistenes" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 73.583160,35.183151 L 53.228146,26.380320"
+              class="id_Stoyforeningen id_Naturvern" stroke-opacity="1.0"
+              stroke="#218954"/>
+        <path fill="none" stroke-width="2.6666667"
+              d="M 93.269493,42.395428 L 161.691574,63.124680"
+              class="id_Stoyforeningen id_norskfriluft" stroke-opacity="1.0"
+              stroke="#76b293"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 62.119553,-299.149445 L 7.570357,-222.174316"
+              class="id_Klimastiftelsen id_WWFNorge" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 78.478973,-298.174988 L 102.343826,-254.232422"
+              class="id_Klimastiftelsen id_regnskogfondet" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 105.439735,-219.257538 L 32.378372,-118.076866"
+              class="id_regnskogfondet id_ForumNorway" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="2.3333333"
+              d="M -119.751740,-20.090134 L -29.745659,-0.603008"
+              class="id_SABIMAnorge id_Naturvern" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -6.033131,-177.189713 L 4.614695,-124.102692"
+              class="id_WWFNorge id_ForumNorway" stroke-opacity="1.0"
+              stroke="#6bbc9e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -226.134003,-52.376343 L -159.202072,-31.096292"
+              class="id_zeronorge id_SABIMAnorge" stroke-opacity="1.0"
+              stroke="#93d4c1"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_Civita_ id_Klimastiftelsen"
+                  points="73.243591,-327.144348 69.094604,-339.510620 80.647217,-337.883301"
+                  stroke="none"/>
+        <polyline fill="#43a57c" fill-opacity="1.0"
+                  class="id_ForumNorway id_Naturvern"
+                  points="11.506717,-22.180258 1.533330,-42.193542 21.533314,-42.166939"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_ForumNorway id_WWFNorge"
+                  points="-6.033130,-177.189713 0.835796,-168.368256 -8.968928,-166.401703"
+                  stroke="none"/>
+        <polyline fill="#98cebb" fill-opacity="1.0"
+                  class="id_GreenpeaceNorge id_NaturogUngdom"
+                  points="-59.500336,118.826523 -65.348793,109.297852 -55.386471,108.430557"
+                  stroke="none"/>
+        <polyline fill="#43a57c" fill-opacity="1.0"
+                  class="id_GreenpeaceNorge id_Naturvern"
+                  points="-9.861359,30.123102 -14.419090,44.316391 -23.950626,34.992889"
+                  stroke="none"/>
+        <polyline fill="#c0e6de" fill-opacity="1.0"
+                  class="id_Bellona_no id_NaturogUngdom"
+                  points="-64.926575,168.559708 -63.151352,179.598221 -72.692245,176.602982"
+                  stroke="none"/>
+        <polyline fill="#98cebb" fill-opacity="1.0"
+                  class="id_Naturvern id_NaturogUngdom"
+                  points="-45.777832,121.476334 -45.716591,108.432747 -35.306221,113.699181"
+                  stroke="none"/>
+        <polyline fill="#43a57c" fill-opacity="1.0"
+                  class="id_Naturvern id_ForumNorway"
+                  points="11.562075,-63.795944 17.379883,-52.121529 5.713227,-52.137047"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_Stoyforeningen id_Syklistenes"
+                  points="157.220993,108.120796 146.492065,104.975960 153.299500,97.650749"
+                  stroke="none"/>
+        <polyline fill="#218954" fill-opacity="1.0"
+                  class="id_Stoyforeningen id_Naturvern"
+                  points="39.460449,20.426275 56.205170,19.496473 50.251122,33.264168"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0"
+                  class="id_Stoyforeningen id_norskfriluft"
+                  points="174.452133,66.990639 159.758591,69.504967 163.624557,56.744396"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_Klimastiftelsen id_WWFNorge"
+                  points="1.788409,-214.015320 3.490863,-225.065292 11.649851,-219.283340"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_Klimastiftelsen id_regnskogfondet"
+                  points="107.116341,-245.444748 97.949989,-251.846161 106.737663,-256.618683"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_regnskogfondet id_ForumNorway"
+                  points="26.524181,-109.969559 28.324718,-121.003960 36.432026,-115.149773"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_SABIMAnorge id_Naturvern"
+                  points="-18.343185,1.865729 -30.980028,5.098229 -28.511290,-6.304246"
+                  stroke="none"/>
+        <polyline fill="#6bbc9e" fill-opacity="1.0"
+                  class="id_WWFNorge id_ForumNorway"
+                  points="6.581258,-114.297974 -0.287668,-123.119408 9.517057,-125.085976"
+                  stroke="none"/>
+        <polyline fill="#93d4c1" fill-opacity="1.0"
+                  class="id_zeronorge id_SABIMAnorge"
+                  points="-149.672150,-28.066385 -160.717026,-26.331326 -157.687119,-35.861259"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-426.9542"
+                class="id_AttacNorge" cy="-513.14526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-617.02264"
+                class="id_CICERO_klima" cy="151.97263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="10.0" cx="78.03056"
+                class="id_Civita_" cy="-361.1278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="323.72797"
+                class="id_FNFHordaland" cy="-634.1635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#43a57c" r="25.0" cx="11.595996"
+                class="id_ForumNorway" cy="-89.29592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="616.60077"
+                class="id_FIVH" cy="150.8061" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="15.0" cx="189.2863"
+                class="id_norskfriluft" cy="71.48482" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-149.61598"
+                class="id_Friluftsradene" cy="612.13007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#43a57c" r="10.0" cx="-62.534702"
+                class="id_GreenpeaceNorge" cy="83.971756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="10.0" cx="-78.911606"
+                class="id_Bellona_no" cy="213.10713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="25.0" cx="-57.28874"
+                class="id_NaturogUngdom" cy="144.23044" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#43a57c" r="30.0" cx="11.466145"
+                class="id_Naturvern" cy="8.319717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="437.17273"
+                class="id_astmaallergi" cy="451.2258" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-607.5878"
+                class="id_NMF_tweet" cy="-205.95956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="624.2889"
+                class="id_Elbilforeningen" cy="-187.4469" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="10.0" cx="83.22054"
+                class="id_Stoyforeningen" cy="39.350983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#43a57c" r="15.0" cx="71.08157"
+                class="id_Klimastiftelsen" cy="-311.79587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="15.0" cx="114.51373"
+                class="id_regnskogfondet" cy="-231.82387" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="164.17412"
+                class="id_rodekorsnorge" cy="606.6334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="15.0" cx="-134.90074"
+                class="id_SABIMAnorge" cy="-23.37003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="15.0" cx="168.57507"
+                class="id_Syklistenes" cy="118.672325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="10.0" cx="-440.78778"
+                class="id_tankesmien" cy="455.67676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="20.0" cx="-10.064586"
+                class="id_WWFNorge" cy="-197.2894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#93d4c1" r="10.0" cx="-236.14044"
+                class="id_zeronorge" cy="-55.557747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="28" x="-426.9542" y="-506.66025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AttacNorge">
+            AttacNorge
+        </text>
+        <text font-size="28" x="-617.02264" y="158.4645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CICERO_klima">
+            CICERO_klima
+        </text>
+        <text font-size="28" x="78.03056" y="-354.63824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Civita_">
+            Civita_
+        </text>
+        <text font-size="28" x="323.72797" y="-629.07074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FNFHordaland">
+            FNFHordaland
+        </text>
+        <text font-size="28" x="11.595996" y="-82.8109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ForumNorway">
+            ForumNorway
+        </text>
+        <text font-size="28" x="616.60077" y="155.81685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FIVH">
+            FIVH
+        </text>
+        <text font-size="28" x="189.2863" y="76.66418" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_norskfriluft">
+            norskfriluft
+        </text>
+        <text font-size="28" x="-149.61598" y="617.30945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Friluftsradene">
+            Friluftsradene
+        </text>
+        <text font-size="28" x="-62.534702" y="90.54337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GreenpeaceNorge">
+            GreenpeaceNorge
+        </text>
+        <text font-size="28" x="-78.911606" y="219.51013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bellona_no">
+            Bellona_no
+        </text>
+        <text font-size="28" x="-57.28874" y="150.71547" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NaturogUngdom">
+            NaturogUngdom
+        </text>
+        <text font-size="28" x="11.466145" y="13.412491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Naturvern">
+            Naturvern
+        </text>
+        <text font-size="28" x="437.17273" y="457.71082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_astmaallergi">
+            astmaallergi
+        </text>
+        <text font-size="28" x="-607.5878" y="-199.55656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NMF_tweet">
+            NMF_tweet
+        </text>
+        <text font-size="28" x="624.2889" y="-180.87527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Elbilforeningen">
+            Elbilforeningen
+        </text>
+        <text font-size="28" x="83.22054" y="45.922596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stoyforeningen">
+            Stoyforeningen
+        </text>
+        <text font-size="28" x="71.08157" y="-306.61652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Klimastiftelsen">
+            Klimastiftelsen
+        </text>
+        <text font-size="28" x="114.51373" y="-225.25226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_regnskogfondet">
+            regnskogfondet
+        </text>
+        <text font-size="28" x="164.17412" y="613.11847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rodekorsnorge">
+            rodekorsnorge
+        </text>
+        <text font-size="28" x="-134.90074" y="-16.798414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SABIMAnorge">
+            SABIMAnorge
+        </text>
+        <text font-size="28" x="168.57507" y="125.24394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Syklistenes">
+            Syklistenes
+        </text>
+        <text font-size="28" x="-440.78778" y="460.76953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tankesmien">
+            tankesmien
+        </text>
+        <text font-size="28" x="-10.064586" y="-190.80437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_WWFNorge">
+            WWFNorge
+        </text>
+        <text font-size="28" x="-236.14044" y="-50.371548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_zeronorge">
+            zeronorge
+        </text>
+    </g>
+</svg>
