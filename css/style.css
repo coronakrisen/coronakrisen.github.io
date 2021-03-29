@@ -215,11 +215,12 @@
 	.dropcap {
 	  color: #903;
 	  float: left;
-	  font-size: 50px;
-	  line-height: 50px;
-	  padding-top: 5px;
+	  font-size: 70px;
+	  line-height: 70px;
+	  padding-top: 0px;
 	  padding-right: 8px;
 	  padding-left: 3px;
+	  font-style:bold;
 	}
 
 /* Quote */
@@ -594,6 +595,9 @@
 		font-style:italic;
 		font-size-adjust:0.45;
 		line-height:1.5;
+	}
+
+	.fig_text span {
 	}
 
 	.image {
